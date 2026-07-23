@@ -5,10 +5,6 @@ on:
     - cron: '*/18 * * * *'
   workflow_dispatch:
 
-concurrency:
-  group: scrape
-  cancel-in-progress: false
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -16,16 +12,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
-
       - uses: actions/setup-node@v5
         with:
           node-version: '24'
-
-      - name: Install deps
-        run: |
+      - run: |
           npm i playwright cheerio --no-save
           npx playwright install chromium --with-deps
-
       - name: Scrapear
         run: |
           node << 'EOF'
@@ -79,12 +71,10 @@ jobs:
             console.log(`FINAL ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
           })();
           EOF
-
       - name: Push
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          git pull --rebase
           git add personas.json
-          git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
+          git commit -m "update personas 219 revisados" || echo "no changes"
           git push
