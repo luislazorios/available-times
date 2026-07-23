@@ -52,7 +52,7 @@ jobs:
                 await page.goto(c.link, { waitUntil: 'networkidle', timeout: 20000 });
                 await page.waitForTimeout(3000);
                 const txt = (await page.content()).toLowerCase();
-                const no = txt.includes('sin disponibilidad') || txt.includes('no hay citas') || txt.includes('no availability') || txt.includes('no times available') || txt.includes('fully booked') || txt.includes('sin horarios');
+                const no = txt.includes('No hay disponibilidad') || txt.includes('Cita no encontrada') || txt.includes('no hay citas') || txt.includes('no availability') || txt.includes('no times available') || txt.includes('fully booked') || txt.includes('sin horarios');
                 if(no) detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad REAL'});
                 else { detalle.push({...c, tiene_cita:true, motivo:'TIENE HORARIOS'}); disponibles.push(c); }
               } catch(e){ detalle.push({...c, tiene_cita:false, motivo:'Error: '+e.message}); }
