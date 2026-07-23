@@ -1,12 +1,20 @@
 {
   "personas": [
     {
+      "nombre": "Nicholas Budd",
+      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
+    },
+    {
+      "nombre": "John Burgon",
+      "link": "https://calendar.app.google/gTurUDniTKwaxvEr9"
+    },
+    {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
     }
   ],
   "revisados": 219,
-  "total_disponibles": 1,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -59,8 +67,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nancy Moore",
@@ -160,7 +168,7 @@
     },
     {
       "nombre": "Theresa Sexton",
-      "link": "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.app.google%2F1v4nBusWqi8xBiDTA&data=05%7C02%7Camanda.huertas%40churchofjesuschrist.org%7C4ee1bdc4157f4057cfc808dd48a767c9%7C61e6eeb35fd74aaaae3c61e8deb09b79%7C0%7C0%7C638746606053775509%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aL5qQ2oL185t4cYxAMrsoyxQKWuvo4KATNisr3S1wrI%3D&reserved=0",
+      "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -239,8 +247,8 @@
     {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Hattie Maughan",
@@ -508,7 +516,7 @@
     },
     {
       "nombre": "Johnny Johnson",
-      "link": "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.app.google%2FWg6Svz6GibqFkqdk9&data=05%7C02%7CAmanda.Huertas%40churchofjesuschrist.org%7C8c65223f9f9b441b133908ddf7b4b26a%7C61e6eeb35fd74aaaae3c61e8deb09b79%7C0%7C0%7C638939077667502121%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PdBEwUqW7Nk1hUoaE5EjpnUFD1%2B9FJSmfqg0xuAStTk%3D&reserved=0",
+      "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1270,7 +1278,7 @@
     },
     {
       "nombre": "Damian Idiart",
-      "link": "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.app.google%2FzpSu9Etm9xiJnbwSA&data=05%7C02%7Camanda.huertas%40churchofjesuschrist.org%7C8d690b1d38894e5dc21908de89b5f747%7C61e6eeb35fd74aaaae3c61e8deb09b79%7C0%7C0%7C639099611824753980%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=1i6N3iTQgqpe%2FSOQoJ9BNNbiISu8SXW7I0LE7sWmTvQ%3D&reserved=0",
+      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1323,5 +1331,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T13:25:53.837Z"
+  "actualizado": "2026-07-23T13:38:41.422Z"
 }
