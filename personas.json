@@ -1,0 +1,9 @@
+{
+  "personas": [],
+  "revisados": 27,
+  "total_disponibles": 0,
+  "detalle": [
+    {"nombre": "Ejemplo - Sin disponibilidad", "link": "https://example.com", "tiene_cita": false, "motivo": "sin disponibilidad"}
+  ],
+  "actualizado": "2026-05-13"
+}
