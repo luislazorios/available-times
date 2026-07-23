@@ -1,20 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Nicholas Budd",
-      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
-    },
-    {
-      "nombre": "John Burgon",
-      "link": "https://calendar.app.google/gTurUDniTKwaxvEr9"
-    },
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
-    }
-  ],
+  "personas": [],
   "revisados": 219,
-  "total_disponibles": 3,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -67,8 +54,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nancy Moore",
@@ -247,8 +234,8 @@
     {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Hattie Maughan",
@@ -679,8 +666,8 @@
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Marvin",
@@ -1331,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T13:38:41.422Z"
+  "actualizado": "2026-07-23T15:30:04.858Z"
 }
