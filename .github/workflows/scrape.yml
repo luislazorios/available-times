@@ -105,8 +105,18 @@ jobs:
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
+          
+          # Guarda tu archivo nuevo fuera
+          mv personas.json /tmp/personas.json.new
+          
+          # Limpia todo y trae lo último de GitHub sin conflictos
+          git stash push --include-untracked -m "tmp" || true
+          git fetch origin main
+          git reset --hard origin/main
+          
+          # Vuelve a poner tu archivo nuevo encima
+          mv /tmp/personas.json.new personas.json
+          
           git add personas.json
           git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
-          git stash push --include-untracked -m "tmp" || true
-          git pull --rebase
           git push
