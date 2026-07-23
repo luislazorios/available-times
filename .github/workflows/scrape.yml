@@ -58,7 +58,7 @@ jobs:
                 const p = await context.newPage();
                 try {
                   await p.goto(c.link, { waitUntil: 'domcontentloaded', timeout: 15000 });
-                  await p.waitForTimeout(1500);
+                  await p.waitForTimeout(3800);
                   const txt = (await p.content()).toLowerCase();
                   const sinHora = txt.includes('No hay disponibilidad') || txt.includes('Cita no encontrada') || txt.includes('No appointment') || txt.includes('no availability') || txt.includes('no times available') || txt.includes('fully booked') || txt.includes('sin horarios');
                   await p.close();
