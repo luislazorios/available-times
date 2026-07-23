@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -16,38 +15,60 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: '24'
-      - name: Scrapear links reales
+      - name: Instalar navegador
         run: |
-          npm i node-fetch@2 cheerio --no-save
+          npm i playwright cheerio --no-save
+          npx playwright install chromium --with-deps
+      - name: Scrapear con navegador real
+        run: |
           node << 'EOF'
-          const fetch = require('node-fetch');
+          const { chromium } = require('playwright');
           const cheerio = require('cheerio');
           (async () => {
             const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
-            const html = await fetch(base, {headers: {"User-Agent":"Mozilla/5.0"}}).then(r=>r.text());
-            const $ = cheerio.load(html);
+            const browser = await chromium.launch();
+            const page = await browser.newPage({ userAgent: 'Mozilla/5.0' });
+            
+            await page.goto(base, { waitUntil: 'networkidle' });
+            const content = await page.content();
+            const $ = cheerio.load(content);
             let candidatos = [];
             $('a').each((i,el)=>{
               const link=$(el).attr('href');
               const nombre=$(el).text().trim();
-              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<50 && !link.includes('Scheduling') && !link.includes('google.com')) {
-                candidatos.push({nombre, link});
+              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<50 && !link.includes('google.com')) {
+                if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
               }
             });
-            candidatos = [...new Map(candidatos.map(c=>[c.link,c])).values()].slice(0,30);
-            console.log('Encontrados:', candidatos.length);
+            console.log(`Encontrados ${candidatos.length} en base`);
+            
             let detalle=[]; let disponibles=[];
-            for(let c of candidatos){
-              try{
-                const txt = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}}).then(r=>r.text()).then(t=>t.toLowerCase());
-                const no = txt.includes('sin disponibilidad') || txt.includes('no hay citas') || txt.includes('cita no encontrada') || txt.includes('no availability') || txt.includes('fully booked');
-                if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true, motivo:'POSIBLE DISPONIBLE - NO dice sin disponibilidad'}); }
-                else { detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad'}); }
-              }catch(e){ detalle.push({...c, tiene_cita:false, motivo:'error: '+e.message}); }
+            for(let c of candidatos.slice(0,25)) {
+              try {
+                console.log(`Revisando ${c.nombre}`);
+                await page.goto(c.link, { waitUntil: 'networkidle', timeout: 20000 });
+                await page.waitForTimeout(3000); // espera que cargue Calendly
+                const txt = (await page.content()).toLowerCase();
+                
+                const no = txt.includes('sin disponibilidad') || txt.includes('no hay citas') || txt.includes('no hay disponibilidad') || txt.includes('cita no encontrada') || txt.includes('no availability') || txt.includes('no times available') || txt.includes('fully booked') || txt.includes('no times in') || txt.includes('sin horarios');
+                
+                const si = txt.includes('select a date') || txt.includes('pick a time') || txt.includes('available') || txt.includes('elige una fecha') || txt.includes('horarios disponibles') || txt.includes('select a time');
+                
+                if(no && !si) {
+                  detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad (visto con navegador)'});
+                } else {
+                  detalle.push({...c, tiene_cita:true, motivo:'POSIBLE CON DISPONIBILIDAD'});
+                  disponibles.push(c);
+                }
+              } catch(e){
+                detalle.push({...c, tiene_cita:false, motivo:'Error navegador: '+e.message});
+              }
             }
+            await browser.close();
             const out = {personas:disponibles, revisados:candidatos.length, total_disponibles:disponibles.length, detalle, actualizado:new Date().toISOString()};
             require('fs').writeFileSync('personas.json', JSON.stringify(out, null, 2));
             console.log('Guardado', out.revisados, 'revisados', out.total_disponibles, 'disponibles');
+            console.log(JSON.stringify(out.detalle, null, 2));
           })();
           EOF
       - name: Push json
@@ -55,5 +76,6 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add personas.json
-          git diff --staged --quiet || git commit -m "update personas"
+          git diff --staged --quiet || git commit -m "update personas real browser"
+          git pull --rebase
           git push
