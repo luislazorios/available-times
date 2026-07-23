@@ -71,10 +71,11 @@ jobs:
             console.log(`FINAL ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
           })();
           EOF
-      - name: Push
+          - name: Push
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add personas.json
-          git commit -m "update personas 219 revisados" || echo "no changes"
+          git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
+          git pull --rebase --autostash
           git push
