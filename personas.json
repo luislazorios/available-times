@@ -1,20 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
-    },
-    {
-      "nombre": "Corbin Ray",
-      "link": "https://calendar.app.google/mwuCumG6HpiiXSAX8"
-    }
-  ],
+  "personas": [],
   "revisados": 219,
-  "total_disponibles": 3,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -43,8 +30,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -1057,8 +1044,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Hunter",
@@ -1171,8 +1158,8 @@
     {
       "nombre": "Corbin Ray",
       "link": "https://calendar.app.google/mwuCumG6HpiiXSAX8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Benjamin Edwards",
@@ -1331,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T05:31:50.428Z"
+  "actualizado": "2026-07-23T06:49:03.710Z"
 }
