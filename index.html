@@ -3,107 +3,165 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personas Disponibles + Donación</title>
+  <title>Personas Disponibles</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
-    body { font-family: 'Inter', system-ui, sans-serif; }
-    .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; }
+    body { font-family: 'Inter', sans-serif; }
   </style>
 </head>
-<body class="bg-white text-gray-900 min-h-screen flex-col items-center p-6">
+<body class="bg-[#fafafa] min-h-screen flex flex-col items-center px-4 py-10">
 
-  <!-- CONFIG -->
+  <!-- CONFIGURACION -->
   <script>
-    const LAMBDA_LIST_URL = "https://kwox665vfege2ags732h3uqq5e0tldnv.lambda-url.sa-east-1.on.aws/"; // Pega aquí tu Lambda de lista
-    const LAMBDA_DONACION_URL = ""; // Pega aquí tu Lambda de donación
+    // PEGA AQUI TUS 2 LAMBDAS
+    const LAMBDA_LIST_URL = "https://kwox665vfege2ags732h3uqq5e0tldnv.lambda-url.sa-east-1.on.aws/";
+    const LAMBDA_DONACION_URL = "https://fgzutinyqjkep42ami5b554inm0zxhwn.lambda-url.sa-east-1.on.aws/";
   </script>
 
   <!-- HEADER -->
-  <header class="w-full max-w-xl text-center mb-8">
-    <h1 class="text-3xl font-bold">Personas Disponibles</h1>
+  <header class="w-full max-w-2xl mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 text-center">Personas Disponibles</h1>
+    <p class="text-center text-gray-500 mt-2 text-sm">Filtrando solo con disponibilidad</p>
   </header>
 
-  <!-- SECCION LISTA -->
-  <section class="w-full max-w-xl mb-10">
-    <button id="btnActualizar" class="w-full bg-black text-white py-2 rounded-lg mb-4 hover:bg-gray-800">
-      Actualizar lista
-    </button>
-    
-    <div id="estado" class="text-sm text-gray-500 mb-2"></div>
-    
-    <ul id="lista" class="border border-gray-200 rounded-lg divide-y divide-gray-200">
-      <!-- Aquí se pintan las líneas -->
-    </ul>
-  </section>
+  <!-- LISTA -->
+  <main class="w-full max-w-2xl">
+    <div class="bg-white border border-gray-200 rounded-xl overflow-hidden">
+      
+      <!-- Toolbar -->
+      <div class="flex justify-between items-center p-4 border-b border-gray-100 bg-gray-50/50">
+        <span id="contador" class="text-sm text-gray-500">0 personas</span>
+        <button id="btnActualizar" class="text-sm font-semibold bg-black text-white px-4 py-1.5 rounded-full hover:bg-gray-800 transition">
+          Actualizar lista
+        </button>
+      </div>
 
-  <!-- SECCION DONACION -->
-  <section class="w-full max-w-xl border-gray-200 rounded-lg p-6 text-center">
-    <h2 class="text-xl font-semibold mb-2">Apoya este proyecto</h2>
-    <p class="text-gray-600 mb-4">Donación única de $800 CLP</p>
-    <button id="btnDonar" class="w-full bg-green-600 text-white py-3 rounded-lg font-bold hover:bg-green-700">
-      Donar $800 CLP
-    </button>
-    <div id="estadoDonacion" class="text-sm text-gray-500 mt-3"></div>
-  </section>
+      <!-- Estado -->
+      <div id="estado" class="text-sm text-gray-400 p-4 text-center"></div>
 
-  <!-- LOGICA JS -->
+      <!-- Lista linea por linea -->
+      <ul id="lista" class="divide-y divide-gray-100">
+        <!-- Se llena por JS -->
+      </ul>
+    </div>
+
+    <!-- DONACION -->
+    <div class="bg-white border border-gray-200 rounded-xl p-6 mt-6 text-center">
+      <h2 class="font-bold text-gray-900">¿Te sirve esta herramienta?</h2>
+      <p class="text-sm text-gray-500 mt-1 mb-4">Apoya con una donación de $800 CLP</p>
+      <button id="btnDonar" class="w-full bg-black text-white py-3 rounded-lg font-semibold hover:bg-gray-800 transition">
+        Donar $800 CLP
+      </button>
+      <p id="estadoDonacion" class="text-xs text-gray-400 mt-3"></p>
+    </div>
+  </main>
+
   <script>
-    const lista = document.getElementById('lista');
-    const estado = document.getElementById('estado');
+    const listaEl = document.getElementById('lista');
+    const estadoEl = document.getElementById('estado');
+    const contadorEl = document.getElementById('contador');
     const btnActualizar = document.getElementById('btnActualizar');
     const btnDonar = document.getElementById('btnDonar');
-    const estadoDonacion = document.getElementById('estadoDonacion');
+    const estadoDonacionEl = document.getElementById('estadoDonacion');
 
-    async function cargarLista() {
-      estado.innerText = "Cargando...";
-      lista.innerHTML = "";
-      
+    // Mock para que veas como queda sin Lambda
+    const mockData = [
+      { nombre: "Jennifer - Lunes 10:00 AM", link: "https://sites.google.com/view/english-chat-student-center/Scheduling" },
+      { nombre: "David - Martes 2:00 PM", link: "https://sites.google.com/view/english-chat-student-center/Scheduling" },
+      { nombre: "Sarah - Miercoles 11:00 AM", link: "https://sites.google.com/view/english-chat-student-center/Scheduling" }
+    ];
+
+    async function cargarPersonas() {
+      estadoEl.textContent = "Buscando disponibilidad...";
+      estadoEl.classList.remove('hidden');
+      listaEl.innerHTML = "";
+      btnActualizar.disabled = true;
+
       try {
-        if (!LAMBDA_LIST_URL) throw new Error("Sin URL");
+        if (!LAMBDA_LIST_URL || LAMBDA_LIST_URL.includes("TU_LAMBDA")) {
+          throw new Error("demo");
+        }
+
         const res = await fetch(LAMBDA_LIST_URL);
         const data = await res.json();
-        const personas = data.personas || data;
-        pintarLista(personas);
-      } catch {
-        // Datos mock para demo
-        pintarLista(["Ana García", "Luis Rojas", "Carla Díaz", "Pedro Soto"]);
+        const personas = data.personas || data || [];
+        renderLista(personas);
+
+      } catch (e) {
+        renderLista(mockData);
+        estadoEl.textContent = "Modo demo - Conecta tu Lambda para datos reales";
       }
-      estado.innerText = "";
+      
+      btnActualizar.disabled = false;
     }
 
-    function pintarLista(personas) {
-      personas.forEach((nombre, i) => {
+    function renderLista(personas) {
+      listaEl.innerHTML = "";
+      
+      if (personas.length === 0) {
+        estadoEl.textContent = "No hay personas con disponibilidad ahora mismo";
+        contadorEl.textContent = "0 personas";
+        return;
+      }
+
+      estadoEl.classList.add('hidden');
+      contadorEl.textContent = `${personas.length} personas disponibles`;
+
+      personas.forEach((p, i) => {
+        const nombre = typeof p === 'string' ? p : p.nombre;
+        const link = typeof p === 'object' ? p.link : null;
+        
         const li = document.createElement('li');
-        li.className = "flex items-center gap-3 p-3";
+        li.className = "flex justify-between items-center p-4 hover:bg-gray-50 transition";
+        
         li.innerHTML = `
-          <span class="dot"></span>
-          <span class="text-gray-400 w-6">${i + 1}.</span>
-          <span>${nombre}</span>
+          <div class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-green-500 rounded-full"></div>
+            <span class="text-sm text-gray-500 w-6">${i + 1}.</span>
+            <span class="text- text-gray-900">${nombre}</span>
+          </div>
+          ${link ? `<a href="${link}" target="_blank" class="text-xs font-semibold border border-gray-200 px-3 py-1 rounded-full hover:bg-black hover:text-white transition">Reservar</a>` : ''}
         `;
-        lista.appendChild(li);
+        
+        if (link) {
+          li.style.cursor = "pointer";
+          li.onclick = () => window.open(link, "_blank");
+        }
+        
+        listaEl.appendChild(li);
       });
     }
 
     async function donar() {
-      estadoDonacion.innerText = "Procesando donación...";
+      estadoDonacionEl.textContent = "Conectando con pasarela...";
+      btnDonar.disabled = true;
+
       try {
-        if (!LAMBDA_DONACION_URL) throw new Error("Sin URL");
+        if (!LAMBDA_DONACION_URL || LAMBDA_DONACION_URL.includes("TU_LAMBDA")) {
+          throw new Error("demo");
+        }
+
         const res = await fetch(LAMBDA_DONACION_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ monto: 800 })
         });
+
         const data = await res.json();
         if (data.url_pago) window.location.href = data.url_pago;
-      } catch {
-        alert("Modo demo: Aquí se redirigiría a la pasarela por $800 CLP");
+
+      } catch (e) {
+        alert("Demo: Aquí irías a Flow / MercadoPago por $800 CLP");
+        estadoDonacionEl.textContent = "";
+        btnDonar.disabled = false;
       }
-      estadoDonacion.innerText = "";
     }
 
-    btnActualizar.onclick = cargarLista;
-    btnDonar.onclick = donar;
-    cargarLista(); // carga inicial
+    btnActualizar.addEventListener('click', cargarPersonas);
+    btnDonar.addEventListener('click', donar);
+    cargarPersonas();
   </script>
+
 </body>
 </html>
