@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personas Disponibles + Donación</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'Inter', system-ui, sans-serif; }
+    .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; }
+  </style>
+</head>
+<body class="bg-white text-gray-900 min-h-screen flex-col items-center p-6">
+
+  <!-- CONFIG -->
+  <script>
+    const LAMBDA_LIST_URL = ""; // Pega aquí tu Lambda de lista
+    const LAMBDA_DONACION_URL = ""; // Pega aquí tu Lambda de donación
+  </script>
+
+  <!-- HEADER -->
+  <header class="w-full max-w-xl text-center mb-8">
+    <h1 class="text-3xl font-bold">Personas Disponibles</h1>
+  </header>
+
+  <!-- SECCION LISTA -->
+  <section class="w-full max-w-xl mb-10">
+    <button id="btnActualizar" class="w-full bg-black text-white py-2 rounded-lg mb-4 hover:bg-gray-800">
+      Actualizar lista
+    </button>
+    
+    <div id="estado" class="text-sm text-gray-500 mb-2"></div>
+    
+    <ul id="lista" class="border border-gray-200 rounded-lg divide-y divide-gray-200">
+      <!-- Aquí se pintan las líneas -->
+    </ul>
+  </section>
+
+  <!-- SECCION DONACION -->
+  <section class="w-full max-w-xl border-gray-200 rounded-lg p-6 text-center">
+    <h2 class="text-xl font-semibold mb-2">Apoya este proyecto</h2>
+    <p class="text-gray-600 mb-4">Donación única de $800 CLP</p>
+    <button id="btnDonar" class="w-full bg-green-600 text-white py-3 rounded-lg font-bold hover:bg-green-700">
+      Donar $800 CLP
+    </button>
+    <div id="estadoDonacion" class="text-sm text-gray-500 mt-3"></div>
+  </section>
+
+  <!-- LOGICA JS -->
+  <script>
+    const lista = document.getElementById('lista');
+    const estado = document.getElementById('estado');
+    const btnActualizar = document.getElementById('btnActualizar');
+    const btnDonar = document.getElementById('btnDonar');
+    const estadoDonacion = document.getElementById('estadoDonacion');
+
+    async function cargarLista() {
+      estado.innerText = "Cargando...";
+      lista.innerHTML = "";
+      
+      try {
+        if (!LAMBDA_LIST_URL) throw new Error("Sin URL");
+        const res = await fetch(LAMBDA_LIST_URL);
+        const data = await res.json();
+        const personas = data.personas || data;
+        pintarLista(personas);
+      } catch {
+        // Datos mock para demo
+        pintarLista(["Ana García", "Luis Rojas", "Carla Díaz", "Pedro Soto"]);
+      }
+      estado.innerText = "";
+    }
+
+    function pintarLista(personas) {
+      personas.forEach((nombre, i) => {
+        const li = document.createElement('li');
+        li.className = "flex items-center gap-3 p-3";
+        li.innerHTML = `
+          <span class="dot"></span>
+          <span class="text-gray-400 w-6">${i + 1}.</span>
+          <span>${nombre}</span>
+        `;
+        lista.appendChild(li);
+      });
+    }
+
+    async function donar() {
+      estadoDonacion.innerText = "Procesando donación...";
+      try {
+        if (!LAMBDA_DONACION_URL) throw new Error("Sin URL");
+        const res = await fetch(LAMBDA_DONACION_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ monto: 800 })
+        });
+        const data = await res.json();
+        if (data.url_pago) window.location.href = data.url_pago;
+      } catch {
+        alert("Modo demo: Aquí se redirigiría a la pasarela por $800 CLP");
+      }
+      estadoDonacion.innerText = "";
+    }
+
+    btnActualizar.onclick = cargarLista;
+    btnDonar.onclick = donar;
+    cargarLista(); // carga inicial
+  </script>
+</body>
+</html>
