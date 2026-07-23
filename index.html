@@ -133,30 +133,25 @@
       });
     }
 
-    async function donar() {
-      estadoDonacionEl.textContent = "Conectando con pasarela...";
-      btnDonar.disabled = true;
-
-      try {
-        if (!LAMBDA_DONACION_URL || LAMBDA_DONACION_URL.includes("TU_LAMBDA")) {
-          throw new Error("demo");
-        }
-
-        const res = await fetch(LAMBDA_DONACION_URL, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ monto: 800 })
-        });
-
-        const data = await res.json();
-        if (data.url_pago) window.location.href = data.url_pago;
-
-      } catch (e) {
-        alert("Demo: Aquí irías a Flow / MercadoPago por $800 CLP");
-        estadoDonacionEl.textContent = "";
-        btnDonar.disabled = false;
-      }
-    }
+async function donar() {
+  const estadoDonacionEl = document.getElementById('estadoDonacion');
+  estadoDonacionEl.textContent = "Conectando con Mercado Pago...";
+  try {
+    const res = await fetch(LAMBDA_DONACION_URL, {
+      method: "POST",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({ monto: 800 })
+    });
+    const data = await res.json();
+    console.log("MP:", data);
+    const url = data.url_pago || data.init_point || data.sandbox_init_point;
+    if (url) window.location.href = url;
+    else throw new Error(JSON.stringify(data));
+  } catch(e) {
+    console.error(e);
+    estadoDonacionEl.textContent = "Error: " + e.message;
+  }
+}
 
     btnActualizar.addEventListener('click', cargarPersonas);
     btnDonar.addEventListener('click', donar);
