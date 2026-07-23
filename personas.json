@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Dane Struve",
+      "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -1032,8 +1037,8 @@
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Zach Carter",
@@ -1318,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T18:42:18.622Z"
+  "actualizado": "2026-07-23T20:03:06.709Z"
 }
