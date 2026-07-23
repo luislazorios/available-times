@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -14,7 +14,7 @@ h1{text-align:center;font-size:24px;font-weight:800}
 .bar{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;background:#f9f9f9;border-bottom:1px solid #eee}
 #contador{font-size:12px;color:#888}
 .btn{border:0;background:#111;color:#fff;border-radius:20px;padding:6px 14px;font-size:12px;font-weight:700;cursor:pointer}
-#estado{padding:14px;text-align:center;color:#999;font-size:12px}
+#estado{padding:14px;text-align:center;color:#999;font-size:12px;line-height:1.4}
 ul{list-style:none}
 li{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid #f2f2f2}
 .dot{width:8px;height:8px;background:#22c55e;border-radius:50%}
@@ -24,6 +24,7 @@ li{display:flex;justify-content:space-between;align-items:center;padding:12px 14
 a.res{font-size:11px;border:1px solid #ddd;border-radius:20px;padding:4px 10px;text-decoration:none;color:#111}
 .don{margin-top:16px;background:#fff;border:1px solid #e5e5e5;border-radius:14px;padding:18px;text-align:center}
 #btnDonar{width:100%;margin-top:10px;background:#111;color:#fff;border:0;border-radius:10px;padding:12px;font-weight:700;cursor:pointer}
+#debug{max-height:300px;overflow:auto;background:#f9f9f9;padding:8px;border-radius:8px;margin-top:8px;text-align:left}
 </style>
 </head>
 <body>
@@ -54,57 +55,77 @@ async function cargarPersonas() {
   estadoEl.textContent = "Buscando...";
   listaEl.innerHTML = "";
   try {
-    const r = await fetch(LAMBDA_LIST_URL);
-    if (!r.ok) throw new Error("HTTP " + r.status);
+    const r = await fetch(LAMBDA_LIST_URL + "?t=" + Date.now());
+    if (!r.ok) throw new Error("Aun no existe personas.json - el bot de GitHub no ha corrido. Revisados 0");
     const d = await r.json();
-    render(d.personas || []);
-  } catch (e) {
-    estadoEl.textContent = "Error: " + e.message;
-  }
-}
-
-async function cargarPersonas() {
-  estadoEl.style.display = "block";
-  estadoEl.textContent = "Buscando...";
-  listaEl.innerHTML = "";
-  try {
-    const r = await fetch(LAMBDA_LIST_URL);
-    const d = await r.json();
-    console.log("DEBUG:", d); // Aquí ves todo en consola F12
+    console.log("DEBUG:", d);
     render(d.personas || [], d.revisados || 0, d.detalle || []);
   } catch (e) {
-    estadoEl.textContent = "Error: " + e.message;
+    estadoEl.innerHTML = "😔 <b>No hay datos aun</b><br><small>" + e.message + "</small><br><br>El scraper de GitHub corre cada 30 min. Haz click en Actions > Run workflow para forzar.";
+    contadorEl.textContent = "0 personas";
   }
 }
 
 function render(arr, revisados, detalle) {
   listaEl.innerHTML = "";
   if (!arr.length) {
-    estadoEl.innerHTML = "😔 <b>0 con disponibilidad</b><br><small>Revisados: " + revisados + " perfiles</small><br><br><button onclick=\"document.getElementById('debug').style.display='block'\" style='font-size:11px;border:1px solid #ddd;border-radius:20px;padding:4px 10px'>Ver qué se revisó</button><div id='debug' style='display:none;text-align:left;margin-top:12px;font-size:11px'></div>";
+    estadoEl.innerHTML = "😔 <b>0 con disponibilidad</b><br><small>Revisados: " + revisados + " perfiles</small><br><br><button id='btnVer' style='font-size:11px;border:1px solid #ddd;border-radius:20px;padding:6px 12px;background:#fff;cursor:pointer'>Ver que se reviso</button><div id='debug' style='display:none;'></div>";
     contadorEl.textContent = "0 disponibles de " + revisados;
-
-    // Llenar debug
     setTimeout(() => {
+      const btn = document.getElementById('btnVer');
       const dbg = document.getElementById('debug');
-      if (!dbg) return;
-      let html = "";
-      detalle.forEach(d => {
-        html += "<div style='padding:6px 0;border-bottom:1px solid #eee'><b>" + d.nombre + "</b><br><a href='" + d.link + "' target='_blank' style='color:#888'>" + d.link.slice(0,40) + "...</a><br><span style='color:" + (d.tiene_cita? "green" : "red") + "'>" + (d.motivo || (d.tiene_cita? "DISPONIBLE" : "no disponible")) + "</span></div>";
-      });
-      dbg.innerHTML = html || "No se pudo leer la pagina base";
-    }, 200);
+      if (btn && dbg) {
+        btn.onclick = () => {
+          dbg.style.display = dbg.style.display === 'none' ? 'block' : 'none';
+          if (!detalle || detalle.length === 0) {
+            dbg.innerHTML = "No hay detalle aun. El personas.json esta vacio.";
+            return;
+          }
+          let html = "";
+          detalle.forEach(d => {
+            html += "<div style='padding:6px 0;border-bottom:1px solid #eee'><b>" + d.nombre + "</b><br><a href='" + d.link + "' target='_blank' style='color:#888;word-break:break-all;font-size:10px'>" + d.link + "</a><br><span style='color:" + (d.tiene_cita ? "green" : "#c00") + "'>"+ (d.motivo || (d.tiene_cita ? "DISPONIBLE" : "sin disponibilidad")) + "</span></div>";
+          });
+          dbg.innerHTML = html;
+        };
+      }
+    }, 100);
     return;
   }
   estadoEl.style.display = "none";
   contadorEl.textContent = arr.length + " disponibles de " + revisados;
-  //... resto igual que antes
-  arr.forEach(function(p, i) {
-    const nombre = typeof p === "string"? p : p.nombre;
+  arr.forEach((p, i) => {
+    const nombre = typeof p === "string" ? p : p.nombre;
     const link = p.link || "#";
     const li = document.createElement("li");
     li.innerHTML = '<div class="left"><div class="dot"></div><span class="num">' + (i+1) + '.</span><span class="name">' + nombre + '</span></div><a class="res" href="' + link + '" target="_blank">Reservar</a>';
     listaEl.appendChild(li);
   });
+}
+
+// ESTA ES LA QUE TE FALTABA
+async function donar() {
+  const el = document.getElementById("estadoDonacion");
+  el.textContent = "Conectando con Mercado Pago...";
+  try {
+    const res = await fetch(LAMBDA_DONACION_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({})
+    });
+    const txt = await res.text();
+    console.log("MP RAW:", txt);
+    const data = JSON.parse(txt);
+    if (data.url_pago) {
+      window.location.href = data.url_pago;
+    } else if (data.init_point) {
+      window.location.href = data.init_point;
+    } else {
+      throw new Error(data.error || "No llego URL de pago");
+    }
+  } catch (e) {
+    console.error(e);
+    el.textContent = "Error: " + e.message;
+  }
 }
 
 document.getElementById("btnActualizar").onclick = cargarPersonas;
