@@ -1,7 +1,20 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Sara Leigh",
+      "link": "https://calendar.app.google/CNdJmGXszT9QYJax5"
+    },
+    {
+      "nombre": "Sarah Leigh",
+      "link": "https://calendar.app.google/pxBtAcM5fLPPYFT48"
+    },
+    {
+      "nombre": "Dane Struve",
+      "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -786,8 +799,8 @@
     {
       "nombre": "Sara Leigh",
       "link": "https://calendar.app.google/CNdJmGXszT9QYJax5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -930,8 +943,8 @@
     {
       "nombre": "Sarah Leigh",
       "link": "https://calendar.app.google/pxBtAcM5fLPPYFT48",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Heidi Henderson",
@@ -1032,8 +1045,8 @@
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Zach Carter",
@@ -1318,5 +1331,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T17:07:42.780Z"
+  "actualizado": "2026-07-23T17:32:03.065Z"
 }
