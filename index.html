@@ -1,162 +1,97 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personas Disponibles</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <style>
-    body { font-family: 'Inter', sans-serif; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personas Disponibles</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,-apple-system,sans-serif}
+body{background:#fafafa;min-height:100vh;display:flex;justify-content:center;padding:32px 16px}
+.wrap{width:100%;max-width:620px}
+h1{font-size:26px;font-weight:800;text-align:center}
+.sub{text-align:center;color:#888;font-size:13px;margin:6px 0 22px}
+.card{background:#fff;border:1px solid #e5e5e5;border-radius:14px;overflow:hidden}
+.bar{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;background:#f9f9f9;border-bottom:1px solid #eee}
+#contador{font-size:12px;color:#888}
+.btn{border:0;background:#111;color:#fff;border-radius:20px;padding:6px 14px;font-size:12px;font-weight:700;cursor:pointer}
+#estado{padding:14px;text-align:center;color:#999;font-size:13px}
+ul{list-style:none}
+li{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid #f2f2f2}
+li:last-child{border:0}
+.dot{width:8px;height:8px;background:#22c55e;border-radius:50%}
+.left{display:flex;align-items:center;gap:8px}
+.num{color:#bbb;font-size:12px;width:16px}
+.name{font-size:14px}
+a.res{font-size:11px;border:1px solid #ddd;border-radius:20px;padding:4px 10px;text-decoration:none;color:#111}
+.don{margin-top:18px;background:#fff;border:1px solid #e5e5e5;border-radius:14px;padding:20px;text-align:center}
+#btnDonar{width:100%;margin-top:12px;background:#111;color:#fff;border:0;border-radius:10px;padding:12px;font-weight:700;cursor:pointer}
+</style>
 </head>
-<body class="bg-[#fafafa] min-h-screen flex flex-col items-center px-4 py-10">
+<body>
+<div class="wrap">
+<h1>Personas Disponibles</h1>
+<p class="sub">Filtrando solo con disponibilidad</p>
+<div class="card">
+<div class="bar"><span id="contador">0 personas</span><button id="btnActualizar" class="btn">Actualizar</button></div>
+<div id="estado">Cargando...</div>
+<ul id="lista"></ul>
+</div>
+<div class="don">
+<b>¿Te sirve?</b><p style="font-size:12px;color:#888;margin-top:4px">Apoya con $800 CLP</p>
+<button id="btnDonar">Donar $800 CLP</button>
+<p id="estadoDonacion" style="font-size:11px;color:#999;margin-top:8px"></p>
+</div>
+</div>
+<script>
+const LAMBDA_LIST_URL = "https://kwox665vfege2ags732h3uqq5e0tldnv.lambda-url.sa-east-1.on.aws/";
+const LAMBDA_DONACION_URL = "https://fgzutinyqjkep42ami5b554inm0zxhwn.lambda-url.sa-east-1.on.aws/";
 
-  <!-- CONFIGURACION -->
-  <script>
-    // PEGA AQUI TUS 2 LAMBDAS
-    const LAMBDA_LIST_URL = "https://kwox665vfege2ags732h3uqq5e0tldnv.lambda-url.sa-east-1.on.aws/";
-    const LAMBDA_DONACION_URL = "https://fgzutinyqjkep42ami5b554inm0zxhwn.lambda-url.sa-east-1.on.aws/";
-  </script>
-
-  <!-- HEADER -->
-  <header class="w-full max-w-2xl mb-8">
-    <h1 class="text-3xl font-bold text-gray-900 text-center">Personas Disponibles</h1>
-    <p class="text-center text-gray-500 mt-2 text-sm">Filtrando solo con disponibilidad</p>
-  </header>
-
-  <!-- LISTA -->
-  <main class="w-full max-w-2xl">
-    <div class="bg-white border border-gray-200 rounded-xl overflow-hidden">
-      
-      <!-- Toolbar -->
-      <div class="flex justify-between items-center p-4 border-b border-gray-100 bg-gray-50/50">
-        <span id="contador" class="text-sm text-gray-500">0 personas</span>
-        <button id="btnActualizar" class="text-sm font-semibold bg-black text-white px-4 py-1.5 rounded-full hover:bg-gray-800 transition">
-          Actualizar lista
-        </button>
-      </div>
-
-      <!-- Estado -->
-      <div id="estado" class="text-sm text-gray-400 p-4 text-center"></div>
-
-      <!-- Lista linea por linea -->
-      <ul id="lista" class="divide-y divide-gray-100">
-        <!-- Se llena por JS -->
-      </ul>
-    </div>
-
-    <!-- DONACION -->
-    <div class="bg-white border border-gray-200 rounded-xl p-6 mt-6 text-center">
-      <h2 class="font-bold text-gray-900">¿Te sirve esta herramienta?</h2>
-      <p class="text-sm text-gray-500 mt-1 mb-4">Apoya con una donación de $800 CLP</p>
-      <button id="btnDonar" class="w-full bg-black text-white py-3 rounded-lg font-semibold hover:bg-gray-800 transition">
-        Donar $800 CLP
-      </button>
-      <p id="estadoDonacion" class="text-xs text-gray-400 mt-3"></p>
-    </div>
-  </main>
-
-  <script>
-    const listaEl = document.getElementById('lista');
-    const estadoEl = document.getElementById('estado');
-    const contadorEl = document.getElementById('contador');
-    const btnActualizar = document.getElementById('btnActualizar');
-    const btnDonar = document.getElementById('btnDonar');
-    const estadoDonacionEl = document.getElementById('estadoDonacion');
-
-    // Mock para que veas como queda sin Lambda
-    const mockData = [
-      { nombre: "Jennifer - Lunes 10:00 AM", link: "https://sites.google.com/view/english-chat-student-center/Scheduling" },
-      { nombre: "David - Martes 2:00 PM", link: "https://sites.google.com/view/english-chat-student-center/Scheduling" },
-      { nombre: "Sarah - Miercoles 11:00 AM", link: "https://sites.google.com/view/english-chat-student-center/Scheduling" }
-    ];
-
-    async function cargarPersonas() {
-      estadoEl.textContent = "Buscando disponibilidad...";
-      estadoEl.classList.remove('hidden');
-      listaEl.innerHTML = "";
-      btnActualizar.disabled = true;
-
-      try {
-        if (!LAMBDA_LIST_URL || LAMBDA_LIST_URL.includes("TU_LAMBDA")) {
-          throw new Error("demo");
-        }
-
-        const res = await fetch(LAMBDA_LIST_URL);
-        const data = await res.json();
-        const personas = data.personas || data || [];
-        renderLista(personas);
-
-      } catch (e) {
-        renderLista(mockData);
-        estadoEl.textContent = "Modo demo - Conecta tu Lambda para datos reales";
-      }
-      
-      btnActualizar.disabled = false;
-    }
-
-    function renderLista(personas) {
-      listaEl.innerHTML = "";
-      
-      if (personas.length === 0) {
-        estadoEl.textContent = "No hay personas con disponibilidad ahora mismo";
-        contadorEl.textContent = "0 personas";
-        return;
-      }
-
-      estadoEl.classList.add('hidden');
-      contadorEl.textContent = `${personas.length} personas disponibles`;
-
-      personas.forEach((p, i) => {
-        const nombre = typeof p === 'string' ? p : p.nombre;
-        const link = typeof p === 'object' ? p.link : null;
-        
-        const li = document.createElement('li');
-        li.className = "flex justify-between items-center p-4 hover:bg-gray-50 transition";
-        
-        li.innerHTML = `
-          <div class="flex items-center gap-3">
-            <div class="w-2 h-2 bg-green-500 rounded-full"></div>
-            <span class="text-sm text-gray-500 w-6">${i + 1}.</span>
-            <span class="text- text-gray-900">${nombre}</span>
-          </div>
-          ${link ? `<a href="${link}" target="_blank" class="text-xs font-semibold border border-gray-200 px-3 py-1 rounded-full hover:bg-black hover:text-white transition">Reservar</a>` : ''}
-        `;
-        
-        if (link) {
-          li.style.cursor = "pointer";
-          li.onclick = () => window.open(link, "_blank");
-        }
-        
-        listaEl.appendChild(li);
-      });
-    }
-
-async function donar() {
-  const estadoDonacionEl = document.getElementById('estadoDonacion');
-  estadoDonacionEl.textContent = "Conectando con Mercado Pago...";
-  try {
-    const res = await fetch(LAMBDA_DONACION_URL, {
-      method: "POST",
-      headers: {"Content-Type":"application/json"},
-      body: JSON.stringify({ monto: 800 })
-    });
-    const data = await res.json();
-    console.log("MP:", data);
-    const url = data.url_pago || data.init_point || data.sandbox_init_point;
-    if (url) window.location.href = url;
-    else throw new Error(JSON.stringify(data));
-  } catch(e) {
-    console.error(e);
-    estadoDonacionEl.textContent = "Error: " + e.message;
-  }
+const listaEl=document.getElementById('lista'),estadoEl=document.getElementById('estado'),contadorEl=document.getElementById('contador');
+async function cargarPersonas(){
+ estadoEl.style.display='block';estadoEl.textContent='Buscando...';listaEl.innerHTML='';
+ try{
+  const r=await fetch(LAMBDA_LIST_URL);
+  if(!r.ok) throw new Error('HTTP '+r.status);
+  const d=await r.json();
+  render(d.personas||[]);
+ }catch(e){
+  console.error(e);
+  estadoEl.textContent='Error: '+e.message+' - Revisa Function URL en NONE';
+  contadorEl.textContent='Error';
+ }
 }
-
-    btnActualizar.addEventListener('click', cargarPersonas);
-    btnDonar.addEventListener('click', donar);
-    cargarPersonas();
-  </script>
-
+function render(arr){
+ listaEl.innerHTML='';
+ if(!arr.length){estadoEl.textContent='No hay disponibilidad';contadorEl.textContent='0 personas';return;}
+ estadoEl.style.display='none';contadorEl.textContent=arr.length+' personas';
+ arr.forEach((p,i)=>{
+  const nombre=typeof p==='string'?p:p.nombre;
+  const link=p.link||'#';
+  const li=document.createElement('li');
+  li.innerHTML=`<div class="left"><div class="dot"></div><span class="num">${i+1}.</span><span class="name">${nombre}</span></div><a class="res" href="${link}" target="_blank">Reservar</a>`;
+  listaEl.appendChild(li);
+ });
+}
+async function donar(){
+ const el=document.getElementById('estadoDonacion');
+ el.textContent='Conectando...';
+ try{
+  const res=await fetch(LAMBDA_DONACION_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'});
+  const txt=await res.text();
+  console.log('MP RAW:',txt);
+  if(!txt.trim().startsWith('{')) throw new Error('Lambda devolvió: '+txt.slice(0,150));
+  const data=JSON.parse(txt);
+  const url=data.url_pago||data.init_point||data.sandbox_init_point;
+  if(url) window.location.href=url;
+  else throw new Error('Sin url: '+txt);
+ }catch(e){
+  console.error(e);
+  el.textContent='Error: '+e.message;
+ }
+}
+document.getElementById('btnActualizar').onclick=cargarPersonas;
+document.getElementById('btnDonar').onclick=donar;
+cargarPersonas();
+</script>
 </body>
 </html>
