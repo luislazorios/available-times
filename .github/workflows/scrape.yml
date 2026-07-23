@@ -1,0 +1,56 @@
+name: Scrape
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: |
+          npm init -y
+          npm i node-fetch@2 cheerio
+          node - << 'EOF'
+          const fetch = require('node-fetch');
+          const cheerio = require('cheerio');
+          (async () => {
+            const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
+            const html = await fetch(base, {headers: {"User-Agent":"Mozilla/5.0"}}).then(r=>r.text());
+            const $ = cheerio.load(html);
+            let candidatos = [];
+            $('a').each((i,el)=>{
+              const link=$(el).attr('href');
+              const nombre=$(el).text().trim();
+              if(link && link.startsWith('https://') && nombre.length>2 && !link.includes('Scheduling')) {
+                candidatos.push({nombre, link});
+              }
+            });
+            // deduplicar y limitar
+            candidatos = [...new Map(candidatos.map(c=>[c.link,c])).values()].slice(0,30);
+            
+            let detalle=[];
+            let disponibles=[];
+            for(let c of candidatos){
+              try{
+                let t = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}, timeout: 8000}).then(r=>r.text()).then(t=>t.toLowerCase());
+                let no = t.includes('sin disponibilidad') || t.includes('cita no encontrada') || t.includes('no availability');
+                if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true}); }
+                else { detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad'}); }
+              }catch(e){ detalle.push({...c, tiene_cita:false, motivo:'error: '+e.message}); }
+            }
+            const out = {personas:disponibles, revisados:candidatos.length, total_disponibles:disponibles.length, detalle, actualizado:new Date().toISOString()};
+            require('fs').writeFileSync('personas.json', JSON.stringify(out, null, 2));
+            console.log('Guardado', out.revisados, 'revisados', out.total_disponibles, 'disponibles');
+          })();
+          EOF
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add personas.json
+          git commit -m "update personas" || echo "sin cambios"
+          git push
