@@ -3,15 +3,14 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
       - run: |
           npm init -y
           npm i node-fetch@2 cheerio
@@ -30,16 +29,13 @@ jobs:
                 candidatos.push({nombre, link});
               }
             });
-            // deduplicar y limitar
             candidatos = [...new Map(candidatos.map(c=>[c.link,c])).values()].slice(0,30);
-            
-            let detalle=[];
-            let disponibles=[];
+            let detalle=[]; let disponibles=[];
             for(let c of candidatos){
               try{
-                let t = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}, timeout: 8000}).then(r=>r.text()).then(t=>t.toLowerCase());
+                let t = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}}).then(r=>r.text()).then(t=>t.toLowerCase());
                 let no = t.includes('sin disponibilidad') || t.includes('cita no encontrada') || t.includes('no availability');
-                if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true}); }
+                if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true, motivo:'POSIBLE DISPONIBLE'}); }
                 else { detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad'}); }
               }catch(e){ detalle.push({...c, tiene_cita:false, motivo:'error: '+e.message}); }
             }
