@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -28,7 +33,6 @@ jobs:
             const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
             const browser = await chromium.launch();
             const page = await browser.newPage({ userAgent: 'Mozilla/5.0' });
-            
             await page.goto(base, { waitUntil: 'networkidle' });
             const content = await page.content();
             const $ = cheerio.load(content);
@@ -40,42 +44,35 @@ jobs:
                 if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
               }
             });
-            console.log(`Encontrados ${candidatos.length} en base`);
-            
+            console.log(`Encontrados ${candidatos.length}`);
             let detalle=[]; let disponibles=[];
             for(let c of candidatos.slice(0,25)) {
               try {
                 console.log(`Revisando ${c.nombre}`);
                 await page.goto(c.link, { waitUntil: 'networkidle', timeout: 20000 });
-                await page.waitForTimeout(3000); // espera que cargue Calendly
+                await page.waitForTimeout(3000);
                 const txt = (await page.content()).toLowerCase();
-                
-                const no = txt.includes('sin disponibilidad') || txt.includes('no hay citas') || txt.includes('no hay disponibilidad') || txt.includes('cita no encontrada') || txt.includes('no availability') || txt.includes('no times available') || txt.includes('fully booked') || txt.includes('no times in') || txt.includes('sin horarios');
-                
-                const si = txt.includes('select a date') || txt.includes('pick a time') || txt.includes('available') || txt.includes('elige una fecha') || txt.includes('horarios disponibles') || txt.includes('select a time');
-                
-                if(no && !si) {
-                  detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad (visto con navegador)'});
-                } else {
-                  detalle.push({...c, tiene_cita:true, motivo:'POSIBLE CON DISPONIBILIDAD'});
-                  disponibles.push(c);
-                }
-              } catch(e){
-                detalle.push({...c, tiene_cita:false, motivo:'Error navegador: '+e.message});
-              }
+                const no = txt.includes('sin disponibilidad') || txt.includes('no hay citas') || txt.includes('no availability') || txt.includes('no times available') || txt.includes('fully booked') || txt.includes('sin horarios');
+                if(no) detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad REAL'});
+                else { detalle.push({...c, tiene_cita:true, motivo:'TIENE HORARIOS'}); disponibles.push(c); }
+              } catch(e){ detalle.push({...c, tiene_cita:false, motivo:'Error: '+e.message}); }
             }
             await browser.close();
             const out = {personas:disponibles, revisados:candidatos.length, total_disponibles:disponibles.length, detalle, actualizado:new Date().toISOString()};
             require('fs').writeFileSync('personas.json', JSON.stringify(out, null, 2));
-            console.log('Guardado', out.revisados, 'revisados', out.total_disponibles, 'disponibles');
-            console.log(JSON.stringify(out.detalle, null, 2));
+            console.log('Guardado', out.revisados, out.total_disponibles);
           })();
           EOF
-      - name: Push json
+      - name: Push con retry anti-colision
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add personas.json
-          git diff --staged --quiet || git commit -m "update personas real browser"
-          git pull --rebase
-          git push
+          git diff --staged --quiet && echo "sin cambios" && exit 0
+          git commit -m "update personas real"
+          # reintenta 3 veces si hay choque
+          for i in 1 2 3; do
+            git pull --rebase || (git fetch origin main && git rebase origin/main || git rebase --abort)
+            git push && break || sleep 5
+          done
+          
