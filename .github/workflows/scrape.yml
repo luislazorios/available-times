@@ -5,6 +5,10 @@ on:
     - cron: '*/18 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -23,21 +27,47 @@ jobs:
           node << 'EOF'
           const { chromium } = require('playwright');
           const cheerio = require('cheerio');
+
+          function decodeSafeLink(url){
+            try {
+              if(url.includes('safelinks.protection.outlook.com')){
+                const u = new URL(url);
+                const real = u.searchParams.get('url');
+                if(real) return decodeURIComponent(real);
+              }
+              return url;
+            } catch { return url; }
+          }
+
           (async () => {
             const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
             const browser = await chromium.launch();
             const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
             const page = await context.newPage();
             await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
-            for(let s=0; s<15; s++){ await page.mouse.wheel(0, 2500); await page.waitForTimeout(1000); }
+            
+            // FIX 1: Scroll hasta el final real, no 15 fijos
+            let lastCount = 0, stable = 0;
+            for(let s=0; s<80; s++){
+              await page.mouse.wheel(0, 4000);
+              await page.waitForTimeout(1500);
+              const count = await page.evaluate(() => document.querySelectorAll('a').length);
+              console.log(`Scroll ${s+1}: ${count} links`);
+              if(count === lastCount) stable++; else stable = 0;
+              lastCount = count;
+              if(stable >= 5) break;
+            }
             await page.waitForTimeout(3000);
+
             const html = await page.content();
             const $ = cheerio.load(html);
             let candidatos = [];
             $('a').each((i,el)=>{
-              const link=$(el).attr('href');
+              let link=$(el).attr('href');
               const nombre=$(el).text().trim();
-              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google')) {
+              if(!link) return;
+              link = decodeSafeLink(link); // FIX 2: Decodifica links de Outlook
+              if(link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google')) {
                 if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
               }
             });
@@ -46,7 +76,7 @@ jobs:
             let detalle=[], disponibles=[];
             const CONCURRENCY=5;
             for(let i=0;i<candidatos.length;i+=CONCURRENCY){
-              console.log(`Lote ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)}`);
+              console.log(`Lote ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)} / ${candidatos.length}`);
               const lote=candidatos.slice(i,i+CONCURRENCY);
               const res=await Promise.all(lote.map(async c=>{
                 const p=await context.newPage();
@@ -76,5 +106,7 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add personas.json
-          git commit -m "update personas 219 revisados" || echo "no changes"
+          git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
+          git stash push --include-untracked -m "tmp" || true
+          git pull --rebase
           git push
