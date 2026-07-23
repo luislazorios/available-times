@@ -4,21 +4,22 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: |
-          npm init -y
-          npm i node-fetch@2 cheerio
-          node - << 'EOF'
+      - name: Scrapear links reales
+        run: |
+          npm i node-fetch@2 cheerio --no-save
+          node << 'EOF'
           const fetch = require('node-fetch');
           const cheerio = require('cheerio');
           (async () => {
@@ -29,18 +30,18 @@ jobs:
             $('a').each((i,el)=>{
               const link=$(el).attr('href');
               const nombre=$(el).text().trim();
-              if(link && link.startsWith('https://') && nombre.length>2 && !link.includes('Scheduling')) {
+              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<40 && !link.includes('Scheduling') && !link.includes('google.com')) {
                 candidatos.push({nombre, link});
               }
             });
             candidatos = [...new Map(candidatos.map(c=>[c.link,c])).values()].slice(0,30);
-            let detalle=[];
-            let disponibles=[];
+            console.log('Encontrados:', candidatos.length);
+            let detalle=[]; let disponibles=[];
             for(let c of candidatos){
               try{
-                let t = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}, timeout: 8000}).then(r=>r.text()).then(t=>t.toLowerCase());
-                let no = t.includes('sin disponibilidad') || t.includes('cita no encontrada') || t.includes('no availability') || t.includes('no hay citas');
-                if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true, motivo:'POSIBLE DISPONIBLE'}); }
+                const txt = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}}).then(r=>r.text()).then(t=>t.toLowerCase());
+                const no = txt.includes('sin disponibilidad') || txt.includes('no hay citas') || txt.includes('cita no encontrada') || txt.includes('no availability') || txt.includes('fully booked');
+                if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true, motivo:'POSIBLE DISPONIBLE - NO dice sin disponibilidad'}); }
                 else { detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad'}); }
               }catch(e){ detalle.push({...c, tiene_cita:false, motivo:'error: '+e.message}); }
             }
@@ -49,9 +50,10 @@ jobs:
             console.log('Guardado', out.revisados, 'revisados', out.total_disponibles, 'disponibles');
           })();
           EOF
-      - run: |
+      - name: Push json
+        run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add personas.json
-          git commit -m "update personas" || echo "sin cambios"
+          git diff --staged --quiet || git commit -m "update personas"
           git push
