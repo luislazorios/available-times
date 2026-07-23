@@ -1,3 +1,68 @@
+<<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personas Disponibles</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,sans-serif}
+body{background:#fafafa;display:flex;justify-content:center;padding:30px 15px}
+.wrap{width:100%;max-width:600px}
+h1{text-align:center;font-size:24px;font-weight:800}
+.sub{text-align:center;color:#888;font-size:12px;margin:5px 0 20px}
+.card{background:#fff;border:1px solid #e5e5e5;border-radius:14px;overflow:hidden}
+.bar{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;background:#f9f9f9;border-bottom:1px solid #eee}
+#contador{font-size:12px;color:#888}
+.btn{border:0;background:#111;color:#fff;border-radius:20px;padding:6px 14px;font-size:12px;font-weight:700;cursor:pointer}
+#estado{padding:14px;text-align:center;color:#999;font-size:12px}
+ul{list-style:none}
+li{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid #f2f2f2}
+.dot{width:8px;height:8px;background:#22c55e;border-radius:50%}
+.left{display:flex;align-items:center;gap:8px}
+.num{color:#bbb;font-size:11px;width:14px}
+.name{font-size:13px}
+a.res{font-size:11px;border:1px solid #ddd;border-radius:20px;padding:4px 10px;text-decoration:none;color:#111}
+.don{margin-top:16px;background:#fff;border:1px solid #e5e5e5;border-radius:14px;padding:18px;text-align:center}
+#btnDonar{width:100%;margin-top:10px;background:#111;color:#fff;border:0;border-radius:10px;padding:12px;font-weight:700;cursor:pointer}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Personas Disponibles</h1>
+<p class="sub">Filtrando solo con disponibilidad</p>
+<div class="card">
+<div class="bar"><span id="contador">0 personas</span><button id="btnActualizar" class="btn">Actualizar</button></div>
+<div id="estado">Cargando...</div>
+<ul id="lista"></ul>
+</div>
+<div class="don">
+<b>Te sirve?</b><p style="font-size:11px;color:#888;margin-top:4px">Apoya con $800 CLP</p>
+<button id="btnDonar">Donar $800 CLP</button>
+<p id="estadoDonacion" style="font-size:11px;color:#999;margin-top:6px"></p>
+</div>
+</div>
+<script>
+const LAMBDA_LIST_URL = "https://ehe3m77rlkv7gwxt3mgsqxscoa0xvphg.lambda-url.sa-east-1.on.aws/";
+const LAMBDA_DONACION_URL = "https://nbacik7xz4nsbh7meqdqvyvxsq0etwmp.lambda-url.sa-east-1.on.aws/";
+
+const listaEl = document.getElementById("lista");
+const estadoEl = document.getElementById("estado");
+const contadorEl = document.getElementById("contador");
+
+async function cargarPersonas() {
+  estadoEl.style.display = "block";
+  estadoEl.textContent = "Buscando...";
+  listaEl.innerHTML = "";
+  try {
+    const r = await fetch(LAMBDA_LIST_URL);
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const d = await r.json();
+    render(d.personas || []);
+  } catch (e) {
+    estadoEl.textContent = "Error: " + e.message;
+  }
+}
+
 async function cargarPersonas() {
   estadoEl.style.display = "block";
   estadoEl.textContent = "Buscando...";
@@ -41,3 +106,10 @@ function render(arr, revisados, detalle) {
     listaEl.appendChild(li);
   });
 }
+
+document.getElementById("btnActualizar").onclick = cargarPersonas;
+document.getElementById("btnDonar").onclick = donar;
+cargarPersonas();
+</script>
+</body>
+</html>
