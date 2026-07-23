@@ -63,16 +63,16 @@ jobs:
             console.log('Guardado', out.revisados, out.total_disponibles);
           })();
           EOF
-      - name: Push con retry anti-colision
+          - name: Push con retry anti-colision
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
+          cp personas.json /tmp/personas.json
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/personas.json personas.json
           git add personas.json
           git diff --staged --quiet && echo "sin cambios" && exit 0
           git commit -m "update personas real"
-          # reintenta 3 veces si hay choque
-          for i in 1 2 3; do
-            git pull --rebase || (git fetch origin main && git rebase origin/main || git rebase --abort)
-            git push && break || sleep 5
-          done
+          git push
           
