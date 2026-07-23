@@ -5,32 +5,20 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
-concurrency:
-  group: scrape
-  cancel-in-progress: true
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Node
-        uses: actions/setup-node@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: '24'
-
-      - name: Instalar navegador
-        run: |
+      - run: |
           npm i playwright cheerio --no-save
           npx playwright install chromium --with-deps
-
-      - name: Scrapear con navegador real
+      - name: Scrapear
         run: |
           node << 'EOF'
           const { chromium } = require('playwright');
@@ -38,109 +26,55 @@ jobs:
           (async () => {
             const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
             const browser = await chromium.launch();
-            const context = await browser.newContext({ 
-              userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36' 
-            });
+            const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
             const page = await context.newPage();
-            
-            console.log('Cargando pagina principal...');
-            await page.goto(base, { waitUntil: 'domcontentloaded' });
-            await page.waitForTimeout(4000);
+            await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
+            for(let s=0; s<15; s++){ await page.mouse.wheel(0, 2500); await page.waitForTimeout(1000); }
+            await page.waitForTimeout(3000);
             const html = await page.content();
             const $ = cheerio.load(html);
             let candidatos = [];
             $('a').each((i,el)=>{
               const link=$(el).attr('href');
               const nombre=$(el).text().trim();
-              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google.com') && !link.includes('support.google')) {
+              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google')) {
                 if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
               }
             });
-            console.log(`Encontrados ${candidatos.length} links totales`);
-            
-            let detalle = [];
-            let disponibles = [];
-            const CONCURRENCY = 5;
-            
-            for(let i=0; i < candidatos.length; i+=CONCURRENCY){
-              console.log(`Revisando lote ${i+1}-${Math.min(i+CONCURRENCY, candidatos.length)} de ${candidatos.length}`);
-              const lote = candidatos.slice(i, i+CONCURRENCY);
-              
-              const resultados = await Promise.all(lote.map(async (c) => {
-                const p = await context.newPage();
-                try {
-                  await p.goto(c.link, { waitUntil: 'domcontentloaded', timeout: 20000 });
+            console.log(`Encontrados ${candidatos.length}`);
+            if(candidatos.length < 10) throw new Error('Muy pocos candidatos, abortando para no borrar');
+            let detalle=[], disponibles=[];
+            const CONCURRENCY=5;
+            for(let i=0;i<candidatos.length;i+=CONCURRENCY){
+              console.log(`Lote ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)}`);
+              const lote=candidatos.slice(i,i+CONCURRENCY);
+              const res=await Promise.all(lote.map(async c=>{
+                const p=await context.newPage();
+                try{
+                  await p.goto(c.link,{waitUntil:'domcontentloaded',timeout:20000});
                   await p.waitForTimeout(4000);
-                  
-                  const bodyText = (await p.innerText('body')).toLowerCase();
-                  
-                  const sinHoraTexto = bodyText.includes('no times available') || 
-                                       bodyText.includes('no times in') || 
-                                       bodyText.includes('no availability') || 
-                                       bodyText.includes('sin disponibilidad') || 
-                                       bodyText.includes('no hay citas') || 
-                                       bodyText.includes('fully booked') || 
-                                       bodyText.includes('sin horarios') ||
-                                       bodyText.includes('no spots available') ||
-                                       bodyText.includes('unavailable');
-                  
-                  const timeButtons = await p.locator('button').allInnerTexts();
-                  const tieneBotonHora = timeButtons.some(t => {
-                    return /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t);
-                  });
-                  
-                  const tieneHoraEnTexto = (/\b\d{1,2}:\d{2}\s*(am|pm)?\b/i.test(bodyText)) && !sinHoraTexto;
-                  
+                  const body=(await p.innerText('body')).toLowerCase();
+                  const sin=body.includes('no times')||body.includes('no availability')||body.includes('unavailable')||body.includes('sin disponibilidad');
+                  const btns=await p.locator('button').allInnerTexts();
+                  const hasHora=btns.some(t=>/\d{1,2}:\d{2}/.test(t)||/\d{1,2}\s*(am|pm)/i.test(t));
                   await p.close();
-                  
-                  if (sinHoraTexto) {
-                    return { ...c, tiene_cita: false, motivo: 'sin disponibilidad REAL - texto no disponible' };
-                  }
-                  if (tieneBotonHora) {
-                    return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS REALES - boton con hora encontrado' };
-                  }
-                  if (tieneHoraEnTexto) {
-                    return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS REALES - hora en texto' };
-                  }
-                  return { ...c, tiene_cita: false, motivo: 'no se encontraron botones de hora' };
-                  
-                } catch(err){
-                  await p.close();
-                  return { ...c, tiene_cita: false, motivo: 'Error cargando: ' + err.message };
-                }
+                  if(sin) return {...c,tiene_cita:false,motivo:'sin disponibilidad'};
+                  if(hasHora) return {...c,tiene_cita:true,motivo:'TIENE HORARIOS'};
+                  return {...c,tiene_cita:false,motivo:'sin botones hora'};
+                }catch(e){ await p.close(); return {...c,tiene_cita:false,motivo:'Error '+e.message}; }
               }));
-              
-              resultados.forEach(r => {
-                detalle.push(r);
-                if(r.tiene_cita) disponibles.push({nombre: r.nombre, link: r.link});
-              });
+              res.forEach(r=>{ detalle.push(r); if(r.tiene_cita) disponibles.push({nombre:r.nombre,link:r.link}); });
             }
-            
             await browser.close();
-            const out = { 
-              personas: disponibles, 
-              revisados: candidatos.length, 
-              total_disponibles: disponibles.length, 
-              detalle: detalle, 
-              actualizado: new Date().toISOString() 
-            };
-            require('fs').writeFileSync('personas.json', JSON.stringify(out, null, 2));
-            console.log(`FINAL: ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
-            if(disponibles.length > 0) {
-              console.log('DISPONIBLES:', JSON.stringify(disponibles, null, 2));
-            }
+            const out={personas:disponibles,revisados:candidatos.length,total_disponibles:disponibles.length,detalle,actualizado:new Date().toISOString()};
+            require('fs').writeFileSync('personas.json',JSON.stringify(out,null,2));
+            console.log(`FINAL ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
           })();
           EOF
-
-      - name: Push con force definitivo
+      - name: Push
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          cp personas.json /tmp/personas.json
-          git fetch origin main
-          git reset --hard origin/main
-          cp /tmp/personas.json personas.json
           git add personas.json
-          git diff --staged --quiet && echo "sin cambios" && exit 0
-          git commit -m "update personas real con deteccion de botones"
-          git push --force
+          git commit -m "update personas 219 revisados" || echo "no changes"
+          git push
