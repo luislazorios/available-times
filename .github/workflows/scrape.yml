@@ -3,15 +3,20 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-node@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '22'
-      - run: |
+          node-version: '20'
+      - name: Scrapear
+        run: |
           npm init -y
           npm i node-fetch@2 cheerio
           node - << 'EOF'
@@ -30,11 +35,13 @@ jobs:
               }
             });
             candidatos = [...new Map(candidatos.map(c=>[c.link,c])).values()].slice(0,30);
-            let detalle=[]; let disponibles=[];
+            console.log(`Encontrados ${candidatos.length} en base`);
+            let detalle=[];
+            let disponibles=[];
             for(let c of candidatos){
               try{
                 let t = await fetch(c.link, {headers: {"User-Agent":"Mozilla/5.0"}}).then(r=>r.text()).then(t=>t.toLowerCase());
-                let no = t.includes('sin disponibilidad') || t.includes('cita no encontrada') || t.includes('no availability');
+                let no = t.includes('sin disponibilidad') || t.includes('cita no encontrada') || t.includes('no hay citas') || t.includes('no availability') || t.includes('no hay disponibilidad');
                 if(!no){ disponibles.push(c); detalle.push({...c, tiene_cita:true, motivo:'POSIBLE DISPONIBLE'}); }
                 else { detalle.push({...c, tiene_cita:false, motivo:'sin disponibilidad'}); }
               }catch(e){ detalle.push({...c, tiene_cita:false, motivo:'error: '+e.message}); }
@@ -44,7 +51,8 @@ jobs:
             console.log('Guardado', out.revisados, 'revisados', out.total_disponibles, 'disponibles');
           })();
           EOF
-      - run: |
+      - name: Guardar personas.json
+        run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add personas.json
