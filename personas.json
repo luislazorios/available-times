@@ -793,7 +793,7 @@
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Heather Johnson",
@@ -1243,7 +1243,7 @@
       "nombre": "Kim Wheeler",
       "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Luke Christensen",
@@ -1318,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T06:49:03.710Z"
+  "actualizado": "2026-07-23T09:24:56.425Z"
 }
