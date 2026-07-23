@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
-    }
-  ],
+  "personas": [],
   "revisados": 219,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -671,8 +666,8 @@
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Marvin",
@@ -1323,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T11:27:24.137Z"
+  "actualizado": "2026-07-23T12:39:22.593Z"
 }
