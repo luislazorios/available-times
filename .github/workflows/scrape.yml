@@ -10,12 +10,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: '22'
+          node-version: '24'
       - name: Scrapear links reales
         run: |
           npm i node-fetch@2 cheerio --no-save
@@ -30,7 +30,7 @@ jobs:
             $('a').each((i,el)=>{
               const link=$(el).attr('href');
               const nombre=$(el).text().trim();
-              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<40 && !link.includes('Scheduling') && !link.includes('google.com')) {
+              if(link && link.startsWith('https://') && nombre.length>2 && nombre.length<50 && !link.includes('Scheduling') && !link.includes('google.com')) {
                 candidatos.push({nombre, link});
               }
             });
