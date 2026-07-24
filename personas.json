@@ -667,7 +667,7 @@
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Sister Marvin",
@@ -1318,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-24T15:49:35.109Z"
+  "actualizado": "2026-07-24T17:24:51.847Z"
 }
