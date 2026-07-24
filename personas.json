@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -1134,8 +1139,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jennifer Whiting",
@@ -1318,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-23T23:16:39.182Z"
+  "actualizado": "2026-07-24T00:16:10.440Z"
 }
