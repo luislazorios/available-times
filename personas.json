@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Andrew whetten",
-      "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA"
-    }
-  ],
+  "personas": [],
   "revisados": 219,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -869,8 +864,8 @@
     {
       "nombre": "Andrew whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexander Cannon",
@@ -1323,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-24T20:46:01.655Z"
+  "actualizado": "2026-07-24T21:59:58.722Z"
 }
