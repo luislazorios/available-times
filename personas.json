@@ -907,7 +907,7 @@
       "nombre": "Norma Shepperd",
       "link": "https://calendar.app.google/hDejfTKnBGY2Uaw67",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1318,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-24T10:57:54.667Z"
+  "actualizado": "2026-07-24T12:16:49.586Z"
 }
