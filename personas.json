@@ -1,7 +1,20 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Elder Kimball",
+      "link": "https://calendar.app.google/RwuUZ4qMpvUALPWLA"
+    },
+    {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
+    },
+    {
+      "nombre": "Parker Larson",
+      "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -66,8 +79,8 @@
     {
       "nombre": "Elder Kimball",
       "link": "https://calendar.app.google/RwuUZ4qMpvUALPWLA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jacob Nelson",
@@ -192,8 +205,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -804,8 +817,8 @@
     {
       "nombre": "Parker Larson",
       "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Cory Brinck",
@@ -1318,5 +1331,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-24T03:49:40.287Z"
+  "actualizado": "2026-07-24T06:22:39.579Z"
 }
