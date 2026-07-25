@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Lisa Pace",
+      "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -36,8 +41,8 @@
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Brooke N",
@@ -283,7 +288,7 @@
       "nombre": "Kerri McAlinden",
       "link": "https://calendar.app.google/V9CEQ6Kj18EhxoWr7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Conner Morris",
@@ -1318,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-25T10:50:19.515Z"
+  "actualizado": "2026-07-25T12:00:58.851Z"
 }
