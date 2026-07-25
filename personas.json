@@ -283,7 +283,7 @@
       "nombre": "Kerri McAlinden",
       "link": "https://calendar.app.google/V9CEQ6Kj18EhxoWr7",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Conner Morris",
@@ -1318,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-25T21:13:21.359Z"
+  "actualizado": "2026-07-25T22:15:32.732Z"
 }
