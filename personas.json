@@ -1,20 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
-    },
-    {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
-    },
-    {
       "nombre": "Sister Bateman",
       "link": "https://calendar.app.google/CDYxLsLXkYdEYR5y5"
     }
   ],
   "revisados": 219,
-  "total_disponibles": 3,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -577,8 +569,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -601,8 +593,8 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kiara Bitter",
@@ -1331,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-26T15:47:24.628Z"
+  "actualizado": "2026-07-26T16:50:51.368Z"
 }
