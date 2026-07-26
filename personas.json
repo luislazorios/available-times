@@ -1,16 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Jerica Nichols",
-      "link": "https://calendar.app.google/f6TNM3MgC93GyijY6"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 219,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -327,8 +323,8 @@
     {
       "nombre": "Jerica Nichols",
       "link": "https://calendar.app.google/f6TNM3MgC93GyijY6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Boone",
@@ -1327,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-26T11:58:35.641Z"
+  "actualizado": "2026-07-26T13:01:50.351Z"
 }
