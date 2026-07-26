@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "David Smith",
+      "link": "https://calendar.app.google/kyEgtzKnc3kPt7y59"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -624,8 +629,8 @@
     {
       "nombre": "David Smith",
       "link": "https://calendar.app.google/kyEgtzKnc3kPt7y59",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -1318,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-26T21:16:28.283Z"
+  "actualizado": "2026-07-26T22:18:22.752Z"
 }
