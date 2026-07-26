@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Sister Bateman",
-      "link": "https://calendar.app.google/CDYxLsLXkYdEYR5y5"
-    }
-  ],
+  "personas": [],
   "revisados": 219,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -1013,8 +1008,8 @@
     {
       "nombre": "Sister Bateman",
       "link": "https://calendar.app.google/CDYxLsLXkYdEYR5y5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Holladay",
@@ -1323,5 +1318,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-26T17:58:20.809Z"
+  "actualizado": "2026-07-26T19:00:27.195Z"
 }
