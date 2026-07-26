@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/f6TNM3MgC93GyijY6"
     },
     {
-      "nombre": "Rebecca Boren",
-      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
-    },
-    {
       "nombre": "Parker Larson",
       "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9"
     },
@@ -18,7 +14,7 @@
     }
   ],
   "revisados": 219,
-  "total_disponibles": 4,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -467,8 +463,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Claire Kenney",
@@ -1335,5 +1331,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-26T09:03:14.032Z"
+  "actualizado": "2026-07-26T10:49:10.496Z"
 }
