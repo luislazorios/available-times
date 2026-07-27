@@ -1,24 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
-    },
-    {
-      "nombre": "Sara Leigh",
-      "link": "https://calendar.app.google/CNdJmGXszT9QYJax5"
-    },
-    {
-      "nombre": "Sarah Leigh",
-      "link": "https://calendar.app.google/pxBtAcM5fLPPYFT48"
-    },
-    {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
+      "nombre": "Lina Fotmuller",
+      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 219,
-  "total_disponibles": 4,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -701,8 +689,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Christina Smith",
@@ -803,8 +791,8 @@
     {
       "nombre": "Sara Leigh",
       "link": "https://calendar.app.google/CNdJmGXszT9QYJax5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -947,8 +935,8 @@
     {
       "nombre": "Sarah Leigh",
       "link": "https://calendar.app.google/pxBtAcM5fLPPYFT48",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Heidi Henderson",
@@ -1061,8 +1049,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Hunter",
@@ -1313,8 +1301,8 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1335,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-27T04:07:53.756Z"
+  "actualizado": "2026-07-27T07:57:27.021Z"
 }
