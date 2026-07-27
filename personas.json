@@ -1,12 +1,24 @@
 {
   "personas": [
     {
-      "nombre": "Rebecca Boren",
-      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
+      "nombre": "Jacobie Hoopes",
+      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
+    },
+    {
+      "nombre": "Sara Leigh",
+      "link": "https://calendar.app.google/CNdJmGXszT9QYJax5"
+    },
+    {
+      "nombre": "Sarah Leigh",
+      "link": "https://calendar.app.google/pxBtAcM5fLPPYFT48"
+    },
+    {
+      "nombre": "Sister Alatini",
+      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
     }
   ],
   "revisados": 219,
-  "total_disponibles": 1,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -455,8 +467,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Claire Kenney",
@@ -689,8 +701,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Christina Smith",
@@ -791,8 +803,8 @@
     {
       "nombre": "Sara Leigh",
       "link": "https://calendar.app.google/CNdJmGXszT9QYJax5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -935,8 +947,8 @@
     {
       "nombre": "Sarah Leigh",
       "link": "https://calendar.app.google/pxBtAcM5fLPPYFT48",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Heidi Henderson",
@@ -1049,8 +1061,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Hunter",
@@ -1323,5 +1335,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-27T00:18:01.550Z"
+  "actualizado": "2026-07-27T04:07:53.756Z"
 }
