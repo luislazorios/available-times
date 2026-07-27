@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Elder Oliver Carter",
+      "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6"
+    }
+  ],
   "revisados": 219,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Elder Blasi",
@@ -319,7 +324,7 @@
       "nombre": "Jerica Nichols",
       "link": "https://calendar.app.google/f6TNM3MgC93GyijY6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Elder Boone",
@@ -522,8 +527,8 @@
     {
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Laurie Atanasio",
@@ -1318,5 +1323,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-27T13:49:09.148Z"
+  "actualizado": "2026-07-27T16:11:47.871Z"
 }
