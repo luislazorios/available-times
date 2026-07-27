@@ -1,16 +1,11 @@
 {
-  "personas": [
-    {
-      "nombre": "Elder Oliver Carter",
-      "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6"
-    }
-  ],
-  "revisados": 219,
-  "total_disponibles": 1,
+  "personas": [],
+  "revisados": 209,
+  "total_disponibles": 0,
   "detalle": [
     {
-      "nombre": "Elder Blasi",
-      "link": "https://calendar.app.google/PVySZp4fFffCQGt28",
+      "nombre": "Emma Peterson",
+      "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -101,12 +96,6 @@
     {
       "nombre": "Jason Harwood",
       "link": "https://calendar.app.google/1mZW87Bh73hccFZZ7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Stephanie Webber",
-      "link": "https://calendar.app.google/FwpuiuvxWvo2s3CS6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -225,12 +214,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Barbara Baugh",
-      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": false,
@@ -291,12 +274,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Conner Morris",
-      "link": "https://calendar.app.google/hUJ75Pd8ivZnL2M57",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
       "nombre": "Cheryl Hawker",
       "link": "https://calendar.app.google/BRMrtFjc847p8kuP7",
       "tiene_cita": false,
@@ -337,12 +314,6 @@
       "link": "https://calendar.app.google/51NmHbdiYGtTDK9JA",
       "tiene_cita": false,
       "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/E5t5nvcm1xrYqeJz5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Corinne Rands",
@@ -527,8 +498,8 @@
     {
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Laurie Atanasio",
@@ -545,12 +516,6 @@
     {
       "nombre": "Shelly Felt",
       "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Margo Aston",
-      "link": "https://calendar.app.google/dSVc7Toxyr9yCnLm6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -945,12 +910,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Cyndi Harrison",
-      "link": "https://calendar.app.google/FG3ac1yLiEcG2GnZ6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
       "nombre": "Claire Long",
       "link": "https://calendar.app.google/Lu9ns9cwCEAR2E5k8",
       "tiene_cita": false,
@@ -1003,12 +962,6 @@
       "link": "https://calendar.app.google/EJiQe1T1iv3efudi9",
       "tiene_cita": false,
       "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Bateman",
@@ -1065,12 +1018,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
       "nombre": "Melissa Gibson",
       "link": "https://calendar.app.google/yUi7u9MbJ8oF8hza6",
       "tiene_cita": false,
@@ -1109,12 +1056,6 @@
     {
       "nombre": "David Wise",
       "link": "https://calendar.app.google/JuFBVwRPZJrWuYJA7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Caleb Weiler",
-      "link": "https://calendar.app.google/wgQ2Jnt39H8QWn2c6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1181,12 +1122,6 @@
     {
       "nombre": "Hailey Moore",
       "link": "https://calendar.app.google/MtHTVTc6YoQ87ANv9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Caroline Williams",
-      "link": "https://calendar.app.google/f2dd8WmP5fLxmFnT8",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1323,5 +1258,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-27T16:11:47.871Z"
+  "actualizado": "2026-07-27T18:00:32.436Z"
 }
