@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "David Smith",
-      "link": "https://calendar.app.google/kyEgtzKnc3kPt7y59"
-    }
-  ],
+  "personas": [],
   "revisados": 209,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -599,8 +594,8 @@
     {
       "nombre": "David Smith",
       "link": "https://calendar.app.google/kyEgtzKnc3kPt7y59",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -1263,5 +1258,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-28T22:07:57.102Z"
+  "actualizado": "2026-07-28T23:20:24.539Z"
 }
