@@ -1,13 +1,18 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Emma Peterson",
+      "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6"
+    }
+  ],
   "revisados": 209,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
       "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Liam Webber",
@@ -1258,5 +1263,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-29T13:49:08.510Z"
+  "actualizado": "2026-07-29T15:48:33.583Z"
 }
