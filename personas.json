@@ -1,16 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Jessica Erickson",
-      "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
-    }
-  ],
+  "personas": [],
   "revisados": 209,
-  "total_disponibles": 2,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -135,8 +126,8 @@
     {
       "nombre": "Jessica Erickson",
       "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Peterson",
@@ -609,8 +600,8 @@
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Cantarero",
@@ -1267,5 +1258,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-29T09:28:31.219Z"
+  "actualizado": "2026-07-29T11:51:42.248Z"
 }
