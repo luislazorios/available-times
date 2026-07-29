@@ -1,18 +1,13 @@
 {
-  "personas": [
-    {
-      "nombre": "Emma Peterson",
-      "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6"
-    }
-  ],
-  "revisados": 209,
-  "total_disponibles": 1,
+  "personas": [],
+  "revisados": 213,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
       "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Liam Webber",
@@ -215,6 +210,12 @@
     {
       "nombre": "Elizabeth Martinez",
       "link": "https://calendar.app.google/ZaZzqa4Hcb3ymKf86",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Amelia Dahle",
+      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -521,6 +522,12 @@
     {
       "nombre": "Shelly Felt",
       "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Ashley Haslam",
+      "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -885,6 +892,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Jean Muir",
+      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "John Merrell",
       "link": "https://calendar.app.google/w5DmotEKmm1p78VE9",
       "tiene_cita": false,
@@ -947,6 +960,12 @@
     {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Sister Hansen",
+      "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1263,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-29T15:48:33.583Z"
+  "actualizado": "2026-07-29T17:08:07.249Z"
 }
