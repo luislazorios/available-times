@@ -1183,7 +1183,7 @@
       "nombre": "Elder Tu’ilautala",
       "link": "https://calendar.app.google/etHzsQLS9cvueoDv9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Sister Clark",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-29T19:49:18.613Z"
+  "actualizado": "2026-07-29T20:46:31.870Z"
 }
