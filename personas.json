@@ -673,7 +673,7 @@
       "nombre": "Christina Smith",
       "link": "https://calendar.app.google/WNVpgZeTaNPTCFwY9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Franz Sidney",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-29T21:52:53.201Z"
+  "actualizado": "2026-07-29T22:53:39.397Z"
 }
