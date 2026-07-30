@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Ashlyn Whitlock",
+      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
+    }
+  ],
   "revisados": 213,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -426,8 +431,8 @@
     {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rebecca Boren",
@@ -1282,5 +1287,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-30T17:10:19.087Z"
+  "actualizado": "2026-07-30T18:51:37.776Z"
 }
