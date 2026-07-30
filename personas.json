@@ -361,7 +361,7 @@
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Mesha Davis",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-30T20:15:04.389Z"
+  "actualizado": "2026-07-30T20:25:16.480Z"
 }
