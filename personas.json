@@ -607,7 +607,7 @@
       "nombre": "David Smith",
       "link": "https://calendar.app.google/kyEgtzKnc3kPt7y59",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-30T09:49:32.235Z"
+  "actualizado": "2026-07-30T11:49:34.284Z"
 }
