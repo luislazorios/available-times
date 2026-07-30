@@ -1093,7 +1093,7 @@
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Jennifer Tyler",
@@ -1153,7 +1153,7 @@
       "nombre": "Bonnie Webber",
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "Error page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://calendar.app.google/mhTN11LcQqkXAbDr8\", waiting until \"domcontentloaded\"\n"
     },
     {
       "nombre": "Elizabeth Astle",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-30T15:38:56.025Z"
+  "actualizado": "2026-07-30T16:05:43.779Z"
 }
