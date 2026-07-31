@@ -49,36 +49,49 @@ jobs:
             const browser = await chromium.launch();
             const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
             const page = await context.newPage();
+            
+            // Ir a la página y esperar que la red se estabilice
             await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
+            await page.waitForTimeout(5000);
 
-            // FIX 1: Scroll hasta el final real, no 15 fijos
+            // NUEVO SISTEMA DE SCROLL: Forzar scroll nativo bajando por la altura del documento
             let lastCount = 0, stable = 0;
-            for(let s=0; s<80; s++){
-              await page.mouse.wheel(0, 4000);
-              await page.waitForTimeout(1500);
+            for(let s=0; s<40; s++){
+              await page.evaluate(() => window.scrollBy(0, 1500));
+              await page.waitForTimeout(1000);
+              
               const count = await page.evaluate(() => document.querySelectorAll('a').length);
-              console.log(`Scroll ${s+1}: ${count} links`);
-              if(count === lastCount) stable++;
-              else stable = 0;
+              console.log(`Scroll ${s+1}: ${count} links detectados en el DOM`);
+              
+              if(count > 15) { 
+                // Si ya empiezan a aparecer los enlaces reales, seguimos evaluando estabilidad
+                if(count === lastCount) stable++;
+                else stable = 0;
+              }
               lastCount = count;
-              if(stable >= 5) break;
+              if(stable >= 6) break;
             }
-            await page.waitForTimeout(3000);
+            
+            // Asegurar un respiro final de renderizado
+            await page.waitForTimeout(4000);
 
             const html = await page.content();
             const $ = cheerio.load(html);
             let candidatos = [];
+            
             $('a').each((i,el)=>{
               let link=$(el).attr('href');
               const nombre=$(el).text().trim();
               if(!link) return;
-              link = decodeSafeLink(link); // FIX 2: Decodifica links de Outlook
+              link = decodeSafeLink(link);
+              
+              // Filtro limpio para extraer solo las plataformas de reserva externas
               if(link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google')) {
                 if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
               }
             });
 
-            console.log(`Encontrados ${candidatos.length}`);
+            console.log(`Total de voluntarios válidos filtrados: ${candidatos.length}`);
             if(candidatos.length < 10) throw new Error('Muy pocos candidatos, abortando para no borrar');
 
             let detalle=[], disponibles=[];
@@ -96,13 +109,11 @@ jobs:
                   let btns = await p.locator('button').allInnerTexts();
                   let hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
 
-                  // Si la semana actual ya tiene horarios, ahorramos tiempo y retornamos true
                   if (hasHora) {
                     await p.close();
                     return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS ESTA SEMANA' };
                   }
 
-                  // Selectores para botones de "Siguiente Semana" o "Siguiente Mes" en apps de citas
                   const nextButtonSelectors = [
                     'button[aria-label*="next" i]', 
                     'button[aria-label*="siguiente" i]',
@@ -116,14 +127,13 @@ jobs:
                     const btn = p.locator(selector).first();
                     if (await btn.isVisible() && await btn.isEnabled()) {
                       await btn.click();
-                      await p.waitForTimeout(3000); // Esperar que cargue la nueva semana
+                      await p.waitForTimeout(3000);
                       clickedNext = true;
                       break;
                     }
                   }
 
                   if (clickedNext) {
-                    // Re-evaluamos la página del calendario futuro
                     body = (await p.innerText('body')).toLowerCase();
                     btns = await p.locator('button').allInnerTexts();
                     hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
@@ -159,13 +169,10 @@ jobs:
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          # Guarda tu archivo nuevo fuera
           mv personas.json /tmp/personas.json.new
-          # Limpia todo y trae lo último de GitHub sin conflictos
           git stash push --include-untracked -m "tmp" || true
           git fetch origin main
           git reset --hard origin/main
-          # Vuelve a poner tu archivo nuevo encima
           mv /tmp/personas.json.new personas.json
           git add personas.json
           git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
