@@ -48,31 +48,36 @@ jobs:
             const base = "https://google.com";
             const browser = await chromium.launch();
             const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
+            
+            // OPTIMIZACIÓN: Bloquear peticiones de imágenes, estilos y fuentes para ahorrar ancho de banda y tiempo
+            await context.route('**/*', (route) => {
+              const type = route.request().resourceType();
+              if (['image', 'stylesheet', 'font', 'media'].includes(type)) {
+                route.abort();
+              } else {
+                route.continue();
+              }
+            });
+
             const page = await context.newPage();
             
-            // Ir a la página y esperar que la red se estabilice completamente
-            await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
-            await page.waitForTimeout(6000);
+            // Ir a la página base esperando el menor nivel de red necesario
+            await page.goto(base, { waitUntil: 'domcontentloaded', timeout: 30000 });
+            await page.waitForTimeout(3000);
 
-            // Hacer scroll bajando de forma nativa por la ventana de renderizado
-            for(let s=0; s<15; s++){
-              await page.evaluate(() => window.scrollBy(0, 2000));
-              await page.waitForTimeout(1000);
+            // Scroll rápido para activar la carga de elementos dinámicos
+            for(let s=0; s<10; s++){
+              await page.evaluate(() => window.scrollBy(0, 2500));
+              await page.waitForTimeout(400);
             }
-            
-            // Dar tiempo extra para que todos los iFrames terminen de procesar datos externos
-            await page.waitForTimeout(5000);
+            await page.waitForTimeout(2000);
 
             let candidatos = [];
-            
-            // --- NUEVO EXTRACTOR MULTI-FRAME ---
-            // Obtenemos todos los sub-documentos (frames) incluyendo la página base principal
             const todosLosFrames = page.frames();
-            console.log(`Analizando contenido en la página principal y sus ${todosLosFrames.length - 1} sub-frames incorporados...`);
+            console.log(`Analizando contenido en la página principal y sus ${todosLosFrames.length - 1} sub-frames...`);
 
             for (const frame of todosLosFrames) {
               try {
-                // Extrae los elementos "a" (links) de cada frame individualmente
                 const linksEnFrame = await frame.evaluate(() => {
                   const elementos = Array.from(document.querySelectorAll('a'));
                   return elementos.map(el => ({
@@ -88,15 +93,13 @@ jobs:
                   if (!link) continue;
                   link = decodeSafeLink(link);
                   
-                  // Validar que el link sea externo y cumpla la longitud del nombre de un tutor
                   if (link.startsWith('https://') && nombre.length > 2 && nombre.length < 60 && !link.includes('google.com') && !link.includes('sites.google')) {
                     if (!candidatos.find(c => c.link === link)) {
                       candidatos.push({ nombre, link });
                     }
                   }
                 }
-              } catch (frameError) {
-                // Silenciar errores menores si un frame de rastreo publicitario bloquea el acceso cruzado
+              } catch (e) {
                 continue;
               }
             }
@@ -105,15 +108,19 @@ jobs:
             if(candidatos.length < 10) throw new Error('Muy pocos candidatos, abortando para no borrar');
 
             let detalle=[], disponibles=[];
-            const CONCURRENCY=5;
-            for(let i=0;i<candidatos.length;i+=CONCURRENCY){
-              console.log(`Lote ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)} / ${candidatos.length}`);
-              const lote=candidatos.slice(i,i+CONCURRENCY);
-              const res=await Promise.all(lote.map(async c=>{
-                const p=await context.newPage();
+            
+            // OPTIMIZACIÓN: Subimos la concurrencia a 12 procesos simultáneos
+            const CONCURRENCY = 12;
+            for(let i=0; i<candidatos.length; i+=CONCURRENCY){
+              console.log(`Procesando lote ultra-rápido ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)} / ${candidatos.length}`);
+              const lote = candidatos.slice(i, i+CONCURRENCY);
+              
+              const res = await Promise.all(lote.map(async c => {
+                const p = await context.newPage();
                 try{
-                  await p.goto(c.link,{waitUntil:'domcontentloaded',timeout:20000});
-                  await p.waitForTimeout(4000);
+                  // Reducido el timeout drásticamente a 15 segundos máximo por enlace
+                  await p.goto(c.link,{waitUntil:'domcontentloaded',timeout:15000});
+                  await p.waitForTimeout(2000);
 
                   let body = (await p.innerText('body')).toLowerCase();
                   let btns = await p.locator('button').allInnerTexts();
@@ -137,7 +144,7 @@ jobs:
                     const btn = p.locator(selector).first();
                     if (await btn.isVisible() && await btn.isEnabled()) {
                       await btn.click();
-                      await p.waitForTimeout(3000);
+                      await p.waitForTimeout(2000); // Reducido el tiempo de espera del clic
                       clickedNext = true;
                       break;
                     }
