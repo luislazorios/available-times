@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Aaron Ludwig",
-      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
-    }
-  ],
+  "personas": [],
   "revisados": 213,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -749,8 +744,8 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Mark Warner",
@@ -1287,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-31T13:10:21.861Z"
+  "actualizado": "2026-07-31T14:07:48.473Z"
 }
