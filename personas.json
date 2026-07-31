@@ -931,7 +931,7 @@
       "nombre": "Claire Long",
       "link": "https://calendar.app.google/Lu9ns9cwCEAR2E5k8",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jonah Tietjen",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-31T08:23:13.909Z"
+  "actualizado": "2026-07-31T11:06:26.631Z"
 }
