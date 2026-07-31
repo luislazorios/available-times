@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Alexa Webb",
-      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
-    }
-  ],
+  "personas": [],
   "revisados": 213,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -833,8 +828,8 @@
     {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marianne Osborn",
@@ -1287,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-31T18:50:13.813Z"
+  "actualizado": "2026-07-31T20:21:56.206Z"
 }
