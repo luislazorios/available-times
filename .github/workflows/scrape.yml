@@ -83,14 +83,53 @@ jobs:
                 try{
                   await p.goto(c.link,{waitUntil:'domcontentloaded',timeout:20000});
                   await p.waitForTimeout(4000);
-                  const body=(await p.innerText('body')).toLowerCase();
-                  const sin=body.includes('no times')||body.includes('no availability')||body.includes('unavailable')||body.includes('sin disponibilidad');
-                  const btns=await p.locator('button').allInnerTexts();
-                  const hasHora=btns.some(t=>/\d{1,2}:\d{2}/.test(t)||/\d{1,2}\s*(am|pm)/i.test(t));
-                  await p.close();
-                  if(sin) return {...c,tiene_cita:false,motivo:'sin disponibilidad'};
-                  if(hasHora) return {...c,tiene_cita:true,motivo:'TIENE HORARIOS'};
-                  return {...c,tiene_cita:false,motivo:'sin botones hora'};
+                  // --- NEW CODE TO PASTE ---
+let body = (await p.innerText('body')).toLowerCase();
+let btns = await p.locator('button').allInnerTexts();
+let hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
+
+// If the current week already has slots, save time and return true immediately
+if (hasHora) {
+  await p.close();
+  return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS ESTA SEMANA' };
+}
+
+// Target common "Next Week" or "Next Month" buttons on calendar apps
+const nextButtonSelectors = [
+  'button[aria-label*="next" i]', 
+  'button[aria-label*="siguiente" i]',
+  'button:has-text(">")', 
+  '.next-month', 
+  '[class*="next" i]'
+];
+
+let clickedNext = false;
+for (const selector of nextButtonSelectors) {
+  const btn = p.locator(selector).first();
+  if (await btn.isVisible() && await btn.isEnabled()) {
+    await btn.click();
+    await p.waitForTimeout(3000); // Wait for the new week/month to load
+    clickedNext = true;
+    break;
+  }
+}
+
+if (clickedNext) {
+  // Re-check for times on the future calendar page
+  body = (await p.innerText('body')).toLowerCase();
+  btns = await p.locator('button').allInnerTexts();
+  hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
+  
+  await p.close();
+  if (hasHora) {
+    return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS EN FUTURAS SEMANAS' };
+  }
+  return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad en el futuro' };
+}
+
+await p.close();
+return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad actual y botón Siguiente no encontrado' };
+
                 }catch(e){ await p.close(); return {...c,tiene_cita:false,motivo:'Error '+e.message}; }
               }));
               res.forEach(r=>{ detalle.push(r); if(r.tiene_cita) disponibles.push({nombre:r.nombre,link:r.link}); });
