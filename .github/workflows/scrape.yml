@@ -16,12 +16,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
+
       - uses: actions/setup-node@v5
         with:
           node-version: '24'
+
       - run: |
           npm i playwright cheerio --no-save
           npx playwright install chromium --with-deps
+
       - name: Scrapear
         run: |
           node << 'EOF'
@@ -30,22 +33,24 @@ jobs:
 
           function decodeSafeLink(url){
             try {
-              if(url.includes('safelinks.protection.outlook.com')){
+              if(url.includes('://outlook.com')){
                 const u = new URL(url);
                 const real = u.searchParams.get('url');
                 if(real) return decodeURIComponent(real);
               }
               return url;
-            } catch { return url; }
+            } catch {
+              return url;
+            }
           }
 
           (async () => {
-            const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
+            const base = "https://google.com";
             const browser = await chromium.launch();
             const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
             const page = await context.newPage();
             await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
-            
+
             // FIX 1: Scroll hasta el final real, no 15 fijos
             let lastCount = 0, stable = 0;
             for(let s=0; s<80; s++){
@@ -53,7 +58,8 @@ jobs:
               await page.waitForTimeout(1500);
               const count = await page.evaluate(() => document.querySelectorAll('a').length);
               console.log(`Scroll ${s+1}: ${count} links`);
-              if(count === lastCount) stable++; else stable = 0;
+              if(count === lastCount) stable++;
+              else stable = 0;
               lastCount = count;
               if(stable >= 5) break;
             }
@@ -71,8 +77,10 @@ jobs:
                 if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
               }
             });
+
             console.log(`Encontrados ${candidatos.length}`);
             if(candidatos.length < 10) throw new Error('Muy pocos candidatos, abortando para no borrar');
+
             let detalle=[], disponibles=[];
             const CONCURRENCY=5;
             for(let i=0;i<candidatos.length;i+=CONCURRENCY){
@@ -83,79 +91,82 @@ jobs:
                 try{
                   await p.goto(c.link,{waitUntil:'domcontentloaded',timeout:20000});
                   await p.waitForTimeout(4000);
-                  // --- NEW CODE TO PASTE ---
-let body = (await p.innerText('body')).toLowerCase();
-let btns = await p.locator('button').allInnerTexts();
-let hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
 
-// If the current week already has slots, save time and return true immediately
-if (hasHora) {
-  await p.close();
-  return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS ESTA SEMANA' };
-}
+                  let body = (await p.innerText('body')).toLowerCase();
+                  let btns = await p.locator('button').allInnerTexts();
+                  let hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
 
-// Target common "Next Week" or "Next Month" buttons on calendar apps
-const nextButtonSelectors = [
-  'button[aria-label*="next" i]', 
-  'button[aria-label*="siguiente" i]',
-  'button:has-text(">")', 
-  '.next-month', 
-  '[class*="next" i]'
-];
+                  // Si la semana actual ya tiene horarios, ahorramos tiempo y retornamos true
+                  if (hasHora) {
+                    await p.close();
+                    return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS ESTA SEMANA' };
+                  }
 
-let clickedNext = false;
-for (const selector of nextButtonSelectors) {
-  const btn = p.locator(selector).first();
-  if (await btn.isVisible() && await btn.isEnabled()) {
-    await btn.click();
-    await p.waitForTimeout(3000); // Wait for the new week/month to load
-    clickedNext = true;
-    break;
-  }
-}
+                  // Selectores para botones de "Siguiente Semana" o "Siguiente Mes" en apps de citas
+                  const nextButtonSelectors = [
+                    'button[aria-label*="next" i]', 
+                    'button[aria-label*="siguiente" i]',
+                    'button:has-text(">")', 
+                    '.next-month', 
+                    '[class*="next" i]'
+                  ];
 
-if (clickedNext) {
-  // Re-check for times on the future calendar page
-  body = (await p.innerText('body')).toLowerCase();
-  btns = await p.locator('button').allInnerTexts();
-  hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
-  
-  await p.close();
-  if (hasHora) {
-    return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS EN FUTURAS SEMANAS' };
-  }
-  return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad en el futuro' };
-}
+                  let clickedNext = false;
+                  for (const selector of nextButtonSelectors) {
+                    const btn = p.locator(selector).first();
+                    if (await btn.isVisible() && await btn.isEnabled()) {
+                      await btn.click();
+                      await p.waitForTimeout(3000); // Esperar que cargue la nueva semana
+                      clickedNext = true;
+                      break;
+                    }
+                  }
 
-await p.close();
-return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad actual y botón Siguiente no encontrado' };
+                  if (clickedNext) {
+                    // Re-evaluamos la página del calendario futuro
+                    body = (await p.innerText('body')).toLowerCase();
+                    btns = await p.locator('button').allInnerTexts();
+                    hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
+                    await p.close();
+                    if (hasHora) {
+                      return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS EN FUTURAS SEMANAS' };
+                    }
+                    return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad en el futuro' };
+                  }
 
-                }catch(e){ await p.close(); return {...c,tiene_cita:false,motivo:'Error '+e.message}; }
+                  await p.close();
+                  return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad actual y botón Siguiente no encontrado' };
+                }catch(e){
+                  await p.close();
+                  return {...c,tiene_cita:false,motivo:'Error '+e.message};
+                }
               }));
-              res.forEach(r=>{ detalle.push(r); if(r.tiene_cita) disponibles.push({nombre:r.nombre,link:r.link}); });
+
+              res.forEach(r=>{
+                detalle.push(r);
+                if(r.tiene_cita) disponibles.push({nombre:r.nombre,link:r.link});
+              });
             }
+
             await browser.close();
             const out={personas:disponibles,revisados:candidatos.length,total_disponibles:disponibles.length,detalle,actualizado:new Date().toISOString()};
             require('fs').writeFileSync('personas.json',JSON.stringify(out,null,2));
             console.log(`FINAL ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
           })();
           EOF
+
       - name: Push
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          
           # Guarda tu archivo nuevo fuera
           mv personas.json /tmp/personas.json.new
-          
           # Limpia todo y trae lo último de GitHub sin conflictos
           git stash push --include-untracked -m "tmp" || true
           git fetch origin main
           git reset --hard origin/main
-          
           # Vuelve a poner tu archivo nuevo encima
           mv /tmp/personas.json.new personas.json
-          
           git add personas.json
           git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
           git push
