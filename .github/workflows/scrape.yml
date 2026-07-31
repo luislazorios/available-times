@@ -50,46 +50,56 @@ jobs:
             const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
             const page = await context.newPage();
             
-            // Ir a la página y esperar que la red se estabilice
+            // Ir a la página y esperar que la red se estabilice completamente
             await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
-            await page.waitForTimeout(5000);
+            await page.waitForTimeout(6000);
 
-            // NUEVO SISTEMA DE SCROLL: Forzar scroll nativo bajando por la altura del documento
-            let lastCount = 0, stable = 0;
-            for(let s=0; s<40; s++){
-              await page.evaluate(() => window.scrollBy(0, 1500));
+            // Hacer scroll bajando de forma nativa por la ventana de renderizado
+            for(let s=0; s<15; s++){
+              await page.evaluate(() => window.scrollBy(0, 2000));
               await page.waitForTimeout(1000);
-              
-              const count = await page.evaluate(() => document.querySelectorAll('a').length);
-              console.log(`Scroll ${s+1}: ${count} links detectados en el DOM`);
-              
-              if(count > 15) { 
-                // Si ya empiezan a aparecer los enlaces reales, seguimos evaluando estabilidad
-                if(count === lastCount) stable++;
-                else stable = 0;
-              }
-              lastCount = count;
-              if(stable >= 6) break;
             }
             
-            // Asegurar un respiro final de renderizado
-            await page.waitForTimeout(4000);
+            // Dar tiempo extra para que todos los iFrames terminen de procesar datos externos
+            await page.waitForTimeout(5000);
 
-            const html = await page.content();
-            const $ = cheerio.load(html);
             let candidatos = [];
             
-            $('a').each((i,el)=>{
-              let link=$(el).attr('href');
-              const nombre=$(el).text().trim();
-              if(!link) return;
-              link = decodeSafeLink(link);
-              
-              // Filtro limpio para extraer solo las plataformas de reserva externas
-              if(link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google')) {
-                if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
+            // --- NUEVO EXTRACTOR MULTI-FRAME ---
+            // Obtenemos todos los sub-documentos (frames) incluyendo la página base principal
+            const todosLosFrames = page.frames();
+            console.log(`Analizando contenido en la página principal y sus ${todosLosFrames.length - 1} sub-frames incorporados...`);
+
+            for (const frame of todosLosFrames) {
+              try {
+                // Extrae los elementos "a" (links) de cada frame individualmente
+                const linksEnFrame = await frame.evaluate(() => {
+                  const elementos = Array.from(document.querySelectorAll('a'));
+                  return elementos.map(el => ({
+                    href: el.getAttribute('href'),
+                    texto: el.innerText ? el.innerText.trim() : ''
+                  }));
+                });
+
+                for (const item of linksEnFrame) {
+                  let link = item.href;
+                  const nombre = item.texto;
+                  
+                  if (!link) continue;
+                  link = decodeSafeLink(link);
+                  
+                  // Validar que el link sea externo y cumpla la longitud del nombre de un tutor
+                  if (link.startsWith('https://') && nombre.length > 2 && nombre.length < 60 && !link.includes('google.com') && !link.includes('sites.google')) {
+                    if (!candidatos.find(c => c.link === link)) {
+                      candidatos.push({ nombre, link });
+                    }
+                  }
+                }
+              } catch (frameError) {
+                // Silenciar errores menores si un frame de rastreo publicitario bloquea el acceso cruzado
+                continue;
               }
-            });
+            }
 
             console.log(`Total de voluntarios válidos filtrados: ${candidatos.length}`);
             if(candidatos.length < 10) throw new Error('Muy pocos candidatos, abortando para no borrar');
