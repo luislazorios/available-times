@@ -991,7 +991,7 @@
       "nombre": "Sister Bateman",
       "link": "https://calendar.app.google/CDYxLsLXkYdEYR5y5",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Elder Holladay",
@@ -1201,7 +1201,7 @@
       "nombre": "Janice Salazar",
       "link": "https://calendar.app.google/PXXoKneWcDmAVsA77",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1282,5 +1282,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-07-31T20:21:56.206Z"
+  "actualizado": "2026-08-03T15:32:44.792Z"
 }
