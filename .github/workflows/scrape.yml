@@ -1,11 +1,14 @@
 name: Scrape
+
 on:
   schedule:
     - cron: '*/20 * * * *'
   workflow_dispatch:
+
 concurrency:
   group: scrape
   cancel-in-progress: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -27,165 +30,93 @@ jobs:
 
           function decodeSafeLink(url){
             try {
-              if(url.includes('://outlook.com')){
+              if(url.includes('safelinks.protection.outlook.com')){
                 const u = new URL(url);
                 const real = u.searchParams.get('url');
                 if(real) return decodeURIComponent(real);
               }
               return url;
-            } catch {
-              return url;
-            }
+            } catch { return url; }
           }
 
           (async () => {
-            const base = "https://google.com"; // ⚠️ REEMPLAZAR POR TU URL REAL
+            const base = "https://sites.google.com/view/english-chat-student-center/Scheduling?authuser=0";
             const browser = await chromium.launch();
+            const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
+            const page = await context.newPage();
+            await page.goto(base, { waitUntil: 'networkidle', timeout: 30000 });
             
-            try {
-              const context = await browser.newContext({ userAgent: 'Mozilla/5.0' });
-
-              // OPTIMIZACIÓN: Bloquear peticiones de imágenes, estilos y fuentes
-              await context.route('**/*', (route) => {
-                const type = route.request().resourceType();
-                if (['image', 'stylesheet', 'font', 'media'].includes(type)) {
-                  route.abort();
-                } else {
-                  route.continue();
-                }
-              });
-
-              const page = await context.newPage();
-              await page.goto(base, { waitUntil: 'domcontentloaded', timeout: 30000 });
-              await page.waitForTimeout(3000);
-
-              // Scroll rápido para activar la carga de elementos dinámicos
-              for(let s=0; s<10; s++){
-                await page.evaluate(() => window.scrollBy(0, 2500));
-                await page.waitForTimeout(400);
-              }
-              await page.waitForTimeout(2000);
-
-              let candidatos = [];
-              const todosLosFrames = page.frames();
-              console.log(`Analizando contenido en la página principal y sus ${todosLosFrames.length - 1} sub-frames...`);
-
-              for (const frame of todosLosFrames) {
-                try {
-                  const linksEnFrame = await frame.evaluate(() => {
-                    const elementos = Array.from(document.querySelectorAll('a'));
-                    return elementos.map(el => ({ href: el.getAttribute('href'), texto: el.innerText ? el.innerText.trim() : '' }));
-                  });
-
-                  for (const item of linksEnFrame) {
-                    let link = item.href;
-                    const nombre = item.texto;
-                    if (!link) continue;
-                    link = decodeSafeLink(link);
-                    if (link.startsWith('https://') && nombre.length > 2 && nombre.length < 60 && !link.includes('google.com') && !link.includes('sites.google')) {
-                      if (!candidatos.find(c => c.link === link)) {
-                        candidatos.push({ nombre, link });
-                      }
-                    }
-                  }
-                } catch (e) {
-                  continue;
-                }
-              }
-
-              console.log(`Total de voluntarios válidos filtrados: ${candidatos.length}`);
-              
-              if(candidatos.length < 10) {
-                throw new Error('Muy pocos candidatos, abortando para no borrar');
-              }
-
-              let detalle = [], disponibles = [];
-              const CONCURRENCY = 12;
-
-              for(let i=0; i<candidatos.length; i+=CONCURRENCY){
-                console.log(`Procesando lote ultra-rápido ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)} / ${candidatos.length}`);
-                const lote = candidatos.slice(i, i+CONCURRENCY);
-                
-                const res = await Promise.all(lote.map(async c => {
-                  const p = await context.newPage();
-                  try {
-                    await p.goto(c.link, {waitUntil:'domcontentloaded', timeout:15000});
-                    await p.waitForTimeout(2000);
-                    
-                    let body = (await p.innerText('body')).toLowerCase();
-                    let btns = await p.locator('button').allInnerTexts();
-                    let hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
-                    
-                    if (hasHora) {
-                      await p.close();
-                      return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS ESTA SEMANA' };
-                    }
-
-                    const nextButtonSelectors = [
-                      'button[aria-label*="next" i]',
-                      'button[aria-label*="siguiente" i]',
-                      'button:has-text(">")',
-                      '.next-month',
-                      '[class*="next" i]'
-                    ];
-                    
-                    let clickedNext = false;
-                    for (const selector of nextButtonSelectors) {
-                      const btn = p.locator(selector).first();
-                      if (await btn.isVisible() && await btn.isEnabled()) {
-                        await btn.click();
-                        await p.waitForTimeout(2000);
-                        clickedNext = true;
-                        break;
-                      }
-                    }
-
-                    if (clickedNext) {
-                      body = (await p.innerText('body')).toLowerCase();
-                      btns = await p.locator('button').allInnerTexts();
-                      hasHora = btns.some(t => /\d{1,2}:\d{2}/.test(t) || /\d{1,2}\s*(am|pm)/i.test(t));
-                      await p.close();
-                      if (hasHora) {
-                        return { ...c, tiene_cita: true, motivo: 'TIENE HORARIOS EN FUTURAS SEMANAS' };
-                      }
-                      return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad en el futuro' };
-                    }
-
-                    await p.close();
-                    return { ...c, tiene_cita: false, motivo: 'Sin disponibilidad actual y botón Siguiente no encontrado' };
-                  } catch(e) {
-                    await p.close();
-                    return {...c, tiene_cita: false, motivo: 'Error ' + e.message};
-                  }
-                }));
-
-                res.forEach(r => {
-                  detalle.push(r);
-                  if(r.tiene_cita) disponibles.push({nombre:r.nombre, link:r.link});
-                });
-              }
-
-              const out = {personas:disponibles, revisados:candidatos.length, total_disponibles:disponibles.length, detalle, actualizado:new Date().toISOString()};
-              require('fs').writeFileSync('personas.json', JSON.stringify(out, null, 2));
-              console.log(`FINAL ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
-
-            } catch (error) {
-              console.error("Error crítico durante la ejecución:", error.message);
-              throw error; // Lanza el error para que GitHub Actions registre la falla de manera correcta
-            } finally {
-              // Bloque de cierre garantizado: previene que el proceso de Chromium se quede colgado
-              await browser.close();
+            // FIX 1: Scroll hasta el final real, no 15 fijos
+            let lastCount = 0, stable = 0;
+            for(let s=0; s<80; s++){
+              await page.mouse.wheel(0, 4000);
+              await page.waitForTimeout(1500);
+              const count = await page.evaluate(() => document.querySelectorAll('a').length);
+              console.log(`Scroll ${s+1}: ${count} links`);
+              if(count === lastCount) stable++; else stable = 0;
+              lastCount = count;
+              if(stable >= 5) break;
             }
+            await page.waitForTimeout(3000);
+
+            const html = await page.content();
+            const $ = cheerio.load(html);
+            let candidatos = [];
+            $('a').each((i,el)=>{
+              let link=$(el).attr('href');
+              const nombre=$(el).text().trim();
+              if(!link) return;
+              link = decodeSafeLink(link); // FIX 2: Decodifica links de Outlook
+              if(link.startsWith('https://') && nombre.length>2 && nombre.length<60 && !link.includes('google.com') && !link.includes('sites.google')) {
+                if(!candidatos.find(c=>c.link===link)) candidatos.push({nombre, link});
+              }
+            });
+            console.log(`Encontrados ${candidatos.length}`);
+            if(candidatos.length < 10) throw new Error('Muy pocos candidatos, abortando para no borrar');
+            let detalle=[], disponibles=[];
+            const CONCURRENCY=5;
+            for(let i=0;i<candidatos.length;i+=CONCURRENCY){
+              console.log(`Lote ${i+1}-${Math.min(i+CONCURRENCY,candidatos.length)} / ${candidatos.length}`);
+              const lote=candidatos.slice(i,i+CONCURRENCY);
+              const res=await Promise.all(lote.map(async c=>{
+                const p=await context.newPage();
+                try{
+                  await p.goto(c.link,{waitUntil:'domcontentloaded',timeout:20000});
+                  await p.waitForTimeout(4000);
+                  const body=(await p.innerText('body')).toLowerCase();
+                  const sin=body.includes('no times')||body.includes('no availability')||body.includes('unavailable')||body.includes('sin disponibilidad');
+                  const btns=await p.locator('button').allInnerTexts();
+                  const hasHora=btns.some(t=>/\d{1,2}:\d{2}/.test(t)||/\d{1,2}\s*(am|pm)/i.test(t));
+                  await p.close();
+                  if(sin) return {...c,tiene_cita:false,motivo:'sin disponibilidad'};
+                  if(hasHora) return {...c,tiene_cita:true,motivo:'TIENE HORARIOS'};
+                  return {...c,tiene_cita:false,motivo:'sin botones hora'};
+                }catch(e){ await p.close(); return {...c,tiene_cita:false,motivo:'Error '+e.message}; }
+              }));
+              res.forEach(r=>{ detalle.push(r); if(r.tiene_cita) disponibles.push({nombre:r.nombre,link:r.link}); });
+            }
+            await browser.close();
+            const out={personas:disponibles,revisados:candidatos.length,total_disponibles:disponibles.length,detalle,actualizado:new Date().toISOString()};
+            require('fs').writeFileSync('personas.json',JSON.stringify(out,null,2));
+            console.log(`FINAL ${out.revisados} revisados, ${out.total_disponibles} disponibles`);
           })();
           EOF
       - name: Push
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          mv personas.json /tmp/personas.json.new git stash push --include-untracked -m "tmp" || true
+          
+          # Guarda tu archivo nuevo fuera
+          mv personas.json /tmp/personas.json.new
+          
+          # Limpia todo y trae lo último de GitHub sin conflictos
+          git stash push --include-untracked -m "tmp" || true
           git fetch origin main
           git reset --hard origin/main
+          
+          # Vuelve a poner tu archivo nuevo encima
           mv /tmp/personas.json.new personas.json
+          
           git add personas.json
           git commit -m "update personas $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
           git push
