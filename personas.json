@@ -1,7 +1,16 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
+    }
+  ],
   "revisados": 177,
-  "total_disponibles": 0,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -210,8 +219,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Burgon",
@@ -1026,8 +1035,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Erica Taney",
@@ -1066,5 +1075,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-03T21:49:54.671Z"
+  "actualizado": "2026-08-03T23:14:09.635Z"
 }
