@@ -1,8 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
+      "nombre": "Brenley Burton",
+      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A"
     }
   ],
   "revisados": 177,
@@ -95,8 +95,8 @@
     {
       "nombre": "Brenley Burton",
       "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Annie Porter",
@@ -1031,8 +1031,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Erica Taney",
@@ -1071,5 +1071,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-04T00:20:47.592Z"
+  "actualizado": "2026-08-04T03:47:24.786Z"
 }
