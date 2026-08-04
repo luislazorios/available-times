@@ -1,16 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
-    },
-    {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
+      "nombre": "Marni Kleinman",
+      "link": "https://calendar.app.google/4zMNYPLM1URfnp8a8"
     }
   ],
   "revisados": 177,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -123,8 +119,8 @@
     {
       "nombre": "Marni Kleinman",
       "link": "https://calendar.app.google/4zMNYPLM1URfnp8a8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jessica Erickson",
@@ -483,8 +479,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kymberli Draper",
@@ -873,8 +869,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Hunter",
@@ -1075,5 +1071,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-04T21:43:44.434Z"
+  "actualizado": "2026-08-04T22:48:26.775Z"
 }
