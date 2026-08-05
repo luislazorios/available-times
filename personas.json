@@ -157,7 +157,7 @@
       "nombre": "Rebecca Shae",
       "link": "https://calendar.app.google/juZuPLdqmbHFqwGFA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alyssa Burrell",
@@ -1066,5 +1066,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-05T21:55:45.311Z"
+  "actualizado": "2026-08-05T23:02:14.744Z"
 }
