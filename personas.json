@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Marni Kleinman",
-      "link": "https://calendar.app.google/4zMNYPLM1URfnp8a8"
-    }
-  ],
+  "personas": [],
   "revisados": 177,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -119,8 +114,8 @@
     {
       "nombre": "Marni Kleinman",
       "link": "https://calendar.app.google/4zMNYPLM1URfnp8a8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jessica Erickson",
@@ -1071,5 +1066,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-04T22:48:26.775Z"
+  "actualizado": "2026-08-05T00:06:17.683Z"
 }
