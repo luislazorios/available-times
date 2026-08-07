@@ -1,24 +1,16 @@
 {
   "personas": [
     {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
+      "nombre": "Alyse Collins",
+      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
     },
     {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
-      "nombre": "Alexa Webb",
-      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
-    },
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
+      "nombre": "Parker Larson",
+      "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9"
     }
   ],
   "revisados": 177,
-  "total_disponibles": 4,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -191,8 +183,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -401,8 +393,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -437,8 +429,8 @@
     {
       "nombre": "Parker Larson",
       "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Richard Young",
@@ -479,8 +471,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Crook",
@@ -743,8 +735,8 @@
     {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marianne Osborn",
@@ -941,8 +933,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1083,5 +1075,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-07T05:24:20.381Z"
+  "actualizado": "2026-08-07T06:55:22.019Z"
 }
