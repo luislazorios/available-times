@@ -1,8 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Jessica Erickson",
-      "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5"
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
     }
   ],
   "revisados": 177,
@@ -125,8 +125,8 @@
     {
       "nombre": "Jessica Erickson",
       "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Peterson",
@@ -215,8 +215,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Burgon",
@@ -882,7 +882,7 @@
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1071,5 +1071,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-07T23:03:03.847Z"
+  "actualizado": "2026-08-07T23:44:23.060Z"
 }
