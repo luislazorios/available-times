@@ -955,7 +955,7 @@
       "nombre": "Hailey Moore",
       "link": "https://calendar.app.google/MtHTVTc6YoQ87ANv9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1066,5 +1066,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-06T14:12:46.434Z"
+  "actualizado": "2026-08-07T00:28:02.529Z"
 }
