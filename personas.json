@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Nathan Johnson",
-      "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
-    }
-  ],
+  "personas": [],
   "revisados": 177,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -143,8 +138,8 @@
     {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ezra Bloomfield",
@@ -1071,5 +1066,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-07T11:15:11.352Z"
+  "actualizado": "2026-08-07T13:46:33.600Z"
 }
