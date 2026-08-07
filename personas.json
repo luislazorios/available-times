@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Jessica Erickson",
+      "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5"
+    }
+  ],
   "revisados": 177,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -120,8 +125,8 @@
     {
       "nombre": "Jessica Erickson",
       "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Peterson",
@@ -1066,5 +1071,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-07T15:59:08.554Z"
+  "actualizado": "2026-08-07T16:58:52.403Z"
 }
