@@ -882,7 +882,7 @@
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1071,5 +1071,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-07T23:44:23.060Z"
+  "actualizado": "2026-08-08T01:41:59.460Z"
 }
