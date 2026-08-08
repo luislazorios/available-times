@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Hudson Maxfield",
+      "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8"
+    },
+    {
       "nombre": "Donna Richardson",
       "link": "https://calendar.app.google/EEiZYhMBVGD2gcWw8"
     },
@@ -26,7 +30,7 @@
     }
   ],
   "revisados": 177,
-  "total_disponibles": 6,
+  "total_disponibles": 7,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -523,8 +527,8 @@
     {
       "nombre": "Hudson Maxfield",
       "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Oliver Carter",
@@ -1091,5 +1095,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-08T05:26:55.668Z"
+  "actualizado": "2026-08-08T06:27:18.608Z"
 }
