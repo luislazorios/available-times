@@ -11,14 +11,10 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     }
   ],
   "revisados": 177,
-  "total_disponibles": 4,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1037,8 +1033,8 @@
     {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sandra Hancock",
@@ -1083,5 +1079,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-08T15:05:16.314Z"
+  "actualizado": "2026-08-08T15:53:46.012Z"
 }
