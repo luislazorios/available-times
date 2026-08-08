@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8"
     },
     {
-      "nombre": "Donna Richardson",
-      "link": "https://calendar.app.google/EEiZYhMBVGD2gcWw8"
-    },
-    {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
     },
@@ -22,7 +18,7 @@
     }
   ],
   "revisados": 177,
-  "total_disponibles": 5,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -777,8 +773,8 @@
     {
       "nombre": "Donna Richardson",
       "link": "https://calendar.app.google/EEiZYhMBVGD2gcWw8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sydney Donavan",
@@ -1087,5 +1083,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-08T08:23:00.270Z"
+  "actualizado": "2026-08-08T09:09:16.112Z"
 }
