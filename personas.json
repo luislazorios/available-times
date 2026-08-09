@@ -1,7 +1,16 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
+    }
+  ],
   "revisados": 177,
-  "total_disponibles": 0,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -18,8 +27,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -174,8 +183,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -1066,5 +1075,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-09T03:46:01.530Z"
+  "actualizado": "2026-08-09T05:08:39.376Z"
 }
