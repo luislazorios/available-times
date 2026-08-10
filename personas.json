@@ -1,6 +1,6 @@
 {
   "personas": [],
-  "revisados": 177,
+  "revisados": 180,
   "total_disponibles": 0,
   "detalle": [
     {
@@ -130,14 +130,32 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Diane Pence",
+      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "Sister Urbina",
       "link": "https://calendar.app.google/jc7xesyE4ZibQEXY6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Frances Carlson",
+      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Matt Richards",
+      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1066,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-10T15:30:06.066Z"
+  "actualizado": "2026-08-10T16:31:50.313Z"
 }
