@@ -151,7 +151,7 @@
       "nombre": "Rebecca Stone",
       "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Rebecca Shae",
@@ -1066,5 +1066,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-10T11:31:43.258Z"
+  "actualizado": "2026-08-10T12:32:39.868Z"
 }
