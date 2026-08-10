@@ -1,7 +1,16 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Cecili Crandall",
+      "link": "https://calendar.app.google/qjkTpcAgsgzAWgfC8"
+    },
+    {
+      "nombre": "Jonas Hagman",
+      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86"
+    }
+  ],
   "revisados": 177,
-  "total_disponibles": 0,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -312,8 +321,8 @@
     {
       "nombre": "Cecili Crandall",
       "link": "https://calendar.app.google/qjkTpcAgsgzAWgfC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Emily Cole",
@@ -1008,8 +1017,8 @@
     {
       "nombre": "Jonas Hagman",
       "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Owen Parker",
@@ -1066,5 +1075,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-10T05:30:21.923Z"
+  "actualizado": "2026-08-10T06:57:47.519Z"
 }
