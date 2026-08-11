@@ -1,12 +1,16 @@
 {
   "personas": [
     {
+      "nombre": "Charisse",
+      "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5"
+    },
+    {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 1,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -113,8 +117,8 @@
     {
       "nombre": "Charisse",
       "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Marni Kleinman",
@@ -1089,5 +1093,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-11T20:25:31.838Z"
+  "actualizado": "2026-08-11T21:30:12.274Z"
 }
