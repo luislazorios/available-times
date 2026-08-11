@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Johnny Johnson",
-      "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9"
-    }
-  ],
+  "personas": [],
   "revisados": 180,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -515,8 +510,8 @@
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Hudson Maxfield",
@@ -1089,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-11T16:07:31.646Z"
+  "actualizado": "2026-08-11T17:19:51.320Z"
 }
