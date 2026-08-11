@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Parker Larson",
-      "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9"
-    }
-  ],
+  "personas": [],
   "revisados": 180,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -443,8 +438,8 @@
     {
       "nombre": "Parker Larson",
       "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Richard Young",
@@ -1089,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-11T06:11:18.382Z"
+  "actualizado": "2026-08-11T07:45:06.687Z"
 }
