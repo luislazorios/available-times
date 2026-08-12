@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Theresa Sexton",
+      "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA"
+    }
+  ],
   "revisados": 180,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -60,8 +65,8 @@
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Demetrios Stagikas",
@@ -1084,5 +1089,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-12T22:43:50.972Z"
+  "actualizado": "2026-08-12T23:44:32.605Z"
 }
