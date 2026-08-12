@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Elder Gall",
-      "link": "https://calendar.app.google/eGgDiyTVEFdQufbH8"
-    }
-  ],
+  "personas": [],
   "revisados": 180,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -773,8 +768,8 @@
     {
       "nombre": "Elder Gall",
       "link": "https://calendar.app.google/eGgDiyTVEFdQufbH8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Donna Richardson",
@@ -1089,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-12T00:44:09.267Z"
+  "actualizado": "2026-08-12T03:26:49.040Z"
 }
