@@ -577,7 +577,7 @@
       "nombre": "Shaw Jensen",
       "link": "https://calendar.app.google/vdxWkQNqC8WwEAHm6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sarah Idiart",
@@ -1084,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-12T13:12:15.637Z"
+  "actualizado": "2026-08-12T14:36:45.107Z"
 }
