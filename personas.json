@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Allen Graff",
+      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
+    }
+  ],
   "revisados": 180,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -852,8 +857,8 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Holladay",
@@ -1084,5 +1089,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-13T07:30:25.967Z"
+  "actualizado": "2026-08-13T08:57:17.658Z"
 }
