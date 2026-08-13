@@ -259,7 +259,7 @@
       "nombre": "Sotckton Lott",
       "link": "https://calendar.app.google/QyqvBfLWfRCvZv7JA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Selena Miskin",
@@ -1084,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-13T15:01:14.025Z"
+  "actualizado": "2026-08-13T16:06:40.424Z"
 }
