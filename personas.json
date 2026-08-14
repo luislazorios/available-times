@@ -643,7 +643,7 @@
       "nombre": "Christina Smith",
       "link": "https://calendar.app.google/WNVpgZeTaNPTCFwY9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Kerri Andersen",
@@ -1084,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-14T20:03:31.073Z"
+  "actualizado": "2026-08-14T20:41:55.726Z"
 }
