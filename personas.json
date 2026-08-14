@@ -1,7 +1,24 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Nathan Johnson",
+      "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
+    },
+    {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
+    },
+    {
+      "nombre": "Ralph C Lewis",
+      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
+    },
+    {
+      "nombre": "Owen Parker",
+      "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA"
+    }
+  ],
   "revisados": 180,
-  "total_disponibles": 0,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -150,8 +167,8 @@
     {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Matt Richards",
@@ -480,8 +497,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Crook",
@@ -606,8 +623,8 @@
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Cantarero",
@@ -1032,8 +1049,8 @@
     {
       "nombre": "Owen Parker",
       "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Damian Idiart",
@@ -1084,5 +1101,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-14T03:05:49.268Z"
+  "actualizado": "2026-08-14T05:13:10.430Z"
 }
