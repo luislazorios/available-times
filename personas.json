@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Alyssa Burrell",
+      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
+    },
+    {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
     },
@@ -11,10 +15,14 @@
     {
       "nombre": "Hudson Maxfield",
       "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8"
+    },
+    {
+      "nombre": "Jacobie Hoopes",
+      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 3,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -193,8 +201,8 @@
     {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Douglas Taylor",
@@ -649,8 +657,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Christina Smith",
@@ -1097,5 +1105,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-15T09:03:46.659Z"
+  "actualizado": "2026-08-15T09:38:28.427Z"
 }
