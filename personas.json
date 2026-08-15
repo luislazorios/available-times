@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
     },
     {
+      "nombre": "Sister Williamson",
+      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
+    },
+    {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
     },
@@ -18,7 +22,7 @@
     }
   ],
   "revisados": 180,
-  "total_disponibles": 4,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -443,8 +447,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Justin Ware",
@@ -1101,5 +1105,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-15T20:59:31.311Z"
+  "actualizado": "2026-08-15T21:27:52.646Z"
 }
