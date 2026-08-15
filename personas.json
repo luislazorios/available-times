@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Justin Ware",
+      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
+    },
+    {
       "nombre": "Parker Larson",
       "link": "https://calendar.app.google/ZpYkZnM9R1PmMffr9"
     },
@@ -10,7 +14,7 @@
     }
   ],
   "revisados": 180,
-  "total_disponibles": 2,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -441,8 +445,8 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Parker Larson",
@@ -1093,5 +1097,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-15T06:54:11.823Z"
+  "actualizado": "2026-08-15T07:34:09.446Z"
 }
