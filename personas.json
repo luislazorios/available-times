@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
     },
     {
-      "nombre": "Alyssa Burrell",
-      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
-    },
-    {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
     },
@@ -29,10 +25,6 @@
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
     {
-      "nombre": "Hudson Maxfield",
-      "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8"
-    },
-    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
@@ -46,7 +38,7 @@
     }
   ],
   "revisados": 180,
-  "total_disponibles": 11,
+  "total_disponibles": 9,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -225,8 +217,8 @@
     {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Douglas Taylor",
@@ -561,8 +553,8 @@
     {
       "nombre": "Hudson Maxfield",
       "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Oliver Carter",
@@ -1129,5 +1121,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T09:04:35.623Z"
+  "actualizado": "2026-08-16T09:49:57.152Z"
 }
