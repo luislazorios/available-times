@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
     },
@@ -22,7 +26,7 @@
     }
   ],
   "revisados": 180,
-  "total_disponibles": 5,
+  "total_disponibles": 6,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -39,8 +43,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -1105,5 +1109,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T00:00:44.408Z"
+  "actualizado": "2026-08-16T01:45:52.201Z"
 }
