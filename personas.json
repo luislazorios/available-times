@@ -9,16 +9,16 @@
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
     },
     {
+      "nombre": "Amelia Dahle",
+      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9"
+    },
+    {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
-    },
-    {
-      "nombre": "MJ Jouttenus",
-      "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7"
     }
   ],
   "revisados": 180,
@@ -243,8 +243,8 @@
     {
       "nombre": "Amelia Dahle",
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Maria Kommers",
@@ -1095,8 +1095,8 @@
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Allison Fullmer",
@@ -1105,5 +1105,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T16:27:37.699Z"
+  "actualizado": "2026-08-16T17:00:50.070Z"
 }
