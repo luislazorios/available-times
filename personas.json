@@ -27,18 +27,10 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
-    },
-    {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
-    },
-    {
-      "nombre": "Aaron Ludwig",
-      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 9,
+  "total_disponibles": 7,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -673,8 +665,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Christina Smith",
@@ -727,8 +719,8 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marcy Burr",
@@ -1121,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T09:49:57.152Z"
+  "actualizado": "2026-08-16T10:25:58.756Z"
 }
