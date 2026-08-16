@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
+      "nombre": "Cole Stearman",
+      "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
+    },
+    {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
     },
@@ -21,12 +25,20 @@
       "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8"
     },
     {
+      "nombre": "Reed Blau",
+      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
+    },
+    {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
+    },
+    {
+      "nombre": "Aaron Ludwig",
+      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 6,
+  "total_disponibles": 9,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -103,8 +115,8 @@
     {
       "nombre": "Cole Stearman",
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jason Harwood",
@@ -589,8 +601,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -715,8 +727,8 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Marcy Burr",
@@ -1109,5 +1121,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T04:39:00.580Z"
+  "actualizado": "2026-08-16T05:07:57.140Z"
 }
