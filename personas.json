@@ -9,20 +9,12 @@
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
     },
     {
-      "nombre": "Amelia Dahle",
-      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9"
-    },
-    {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
-    },
-    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 5,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -243,8 +235,8 @@
     {
       "nombre": "Amelia Dahle",
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Maria Kommers",
@@ -513,8 +505,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kymberli Draper",
@@ -1105,5 +1097,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T17:00:50.070Z"
+  "actualizado": "2026-08-16T17:27:48.293Z"
 }
