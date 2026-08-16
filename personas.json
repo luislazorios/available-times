@@ -27,10 +27,14 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
+    },
+    {
+      "nombre": "MJ Jouttenus",
+      "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 7,
+  "total_disponibles": 8,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1103,8 +1107,8 @@
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Allison Fullmer",
@@ -1113,5 +1117,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T12:41:54.862Z"
+  "actualizado": "2026-08-16T13:21:19.611Z"
 }
