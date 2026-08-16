@@ -9,18 +9,6 @@
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
     },
     {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
-    },
-    {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
-      "nombre": "Rebecca Boren",
-      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
-    },
-    {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
@@ -34,7 +22,7 @@
     }
   ],
   "revisados": 180,
-  "total_disponibles": 8,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -261,8 +249,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Burgon",
@@ -459,8 +447,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Justin Ware",
@@ -495,8 +483,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tate Larson",
@@ -1117,5 +1105,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T15:57:55.202Z"
+  "actualizado": "2026-08-16T16:27:37.699Z"
 }
