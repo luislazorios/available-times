@@ -1,16 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Cole Stearman",
-      "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
-    }
-  ],
+  "personas": [],
   "revisados": 180,
-  "total_disponibles": 2,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -87,8 +78,8 @@
     {
       "nombre": "Cole Stearman",
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jason Harwood",
@@ -573,8 +564,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -1093,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-16T17:56:17.191Z"
+  "actualizado": "2026-08-16T18:31:58.559Z"
 }
