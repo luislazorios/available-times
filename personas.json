@@ -241,7 +241,7 @@
       "nombre": "Hattie Maughan",
       "link": "https://calendar.app.google/8CyJHKWQ9vayYLaS6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Ken Bryant",
@@ -1084,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-17T19:49:16.948Z"
+  "actualizado": "2026-08-17T20:30:41.893Z"
 }
