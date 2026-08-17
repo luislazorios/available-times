@@ -1,16 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Charisse",
-      "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5"
-    },
-    {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
-    }
-  ],
+  "personas": [],
   "revisados": 180,
-  "total_disponibles": 2,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -117,8 +108,8 @@
     {
       "nombre": "Charisse",
       "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marni Kleinman",
@@ -526,7 +517,7 @@
       "nombre": "Hudson Maxfield",
       "link": "https://calendar.app.google/Fq1xguQzsWuJC4Zw8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Elder Oliver Carter",
@@ -801,8 +792,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1093,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-17T17:51:34.674Z"
+  "actualizado": "2026-08-17T18:42:09.270Z"
 }
