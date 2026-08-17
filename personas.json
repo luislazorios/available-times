@@ -997,7 +997,7 @@
       "nombre": "Emily MacLean",
       "link": "https://calendar.app.google/oo4RLksZrf8APA846",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Clark",
@@ -1084,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-17T13:42:16.494Z"
+  "actualizado": "2026-08-17T14:08:26.485Z"
 }
