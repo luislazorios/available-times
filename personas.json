@@ -126,7 +126,7 @@
       "nombre": "Jessica Erickson",
       "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "John Peterson",
@@ -1089,5 +1089,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-17T16:35:06.921Z"
+  "actualizado": "2026-08-17T17:03:49.737Z"
 }
