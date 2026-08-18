@@ -1,12 +1,16 @@
 {
   "personas": [
     {
+      "nombre": "Elder Lau",
+      "link": "https://calendar.app.google/iV52wAV21uRGXnjG7"
+    },
+    {
       "nombre": "Jonas Hagman",
       "link": "https://calendar.app.google/R3bVmcn5wrUqufG86"
     }
   ],
   "revisados": 180,
-  "total_disponibles": 1,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -810,7 +814,7 @@
       "nombre": "Lynzy Gonzales",
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sarah Leigh",
@@ -971,8 +975,8 @@
     {
       "nombre": "Elder Lau",
       "link": "https://calendar.app.google/iV52wAV21uRGXnjG7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Hailey Moore",
@@ -1089,5 +1093,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-18T08:40:05.516Z"
+  "actualizado": "2026-08-18T09:10:39.317Z"
 }
