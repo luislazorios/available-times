@@ -1,7 +1,16 @@
 {
-  "personas": [],
-  "revisados": 180,
-  "total_disponibles": 0,
+  "personas": [
+    {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
+    }
+  ],
+  "revisados": 182,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -550,6 +559,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": false,
@@ -560,6 +575,12 @@
       "link": "https://calendly.com/d/cwht-6xm-t6b/english-chat-session?month=2025-12",
       "tiene_cita": false,
       "motivo": "sin botones hora"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Reed Blau",
@@ -847,7 +868,7 @@
       "nombre": "Sister Hansen",
       "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Allen Graff",
@@ -1084,5 +1105,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-18T17:53:19.192Z"
+  "actualizado": "2026-08-18T18:41:50.697Z"
 }
