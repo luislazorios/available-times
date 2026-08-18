@@ -1021,7 +1021,7 @@
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jonas Hagman",
@@ -1084,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-18T11:37:49.139Z"
+  "actualizado": "2026-08-18T12:01:30.399Z"
 }
