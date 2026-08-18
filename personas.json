@@ -1,16 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Elder Lau",
-      "link": "https://calendar.app.google/iV52wAV21uRGXnjG7"
-    },
-    {
-      "nombre": "Jonas Hagman",
-      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86"
-    }
-  ],
+  "personas": [],
   "revisados": 180,
-  "total_disponibles": 2,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -975,8 +966,8 @@
     {
       "nombre": "Elder Lau",
       "link": "https://calendar.app.google/iV52wAV21uRGXnjG7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Hailey Moore",
@@ -1035,8 +1026,8 @@
     {
       "nombre": "Jonas Hagman",
       "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Owen Parker",
@@ -1093,5 +1084,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-18T09:10:39.317Z"
+  "actualizado": "2026-08-18T10:05:33.250Z"
 }
