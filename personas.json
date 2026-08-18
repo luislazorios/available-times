@@ -1,7 +1,12 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Jonas Hagman",
+      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86"
+    }
+  ],
   "revisados": 180,
-  "total_disponibles": 0,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -805,7 +810,7 @@
       "nombre": "Lynzy Gonzales",
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Sarah Leigh",
@@ -1026,8 +1031,8 @@
     {
       "nombre": "Jonas Hagman",
       "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Owen Parker",
@@ -1084,5 +1089,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-18T07:48:13.225Z"
+  "actualizado": "2026-08-18T08:40:05.516Z"
 }
