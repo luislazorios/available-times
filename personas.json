@@ -900,7 +900,7 @@
       "nombre": "Elder Zach Carter",
       "link": "https://calendar.app.google/vyuBGPNXYxYQNqRh9",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Alatini",
@@ -1107,5 +1107,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T19:12:41.960Z"
+  "actualizado": "2026-08-19T19:48:28.397Z"
 }
