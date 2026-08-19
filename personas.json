@@ -7,7 +7,7 @@
       "nombre": "Emma Peterson",
       "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "Error page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://calendar.app.google/zUtK3nQ2ZuSxncfL6\", waiting until \"domcontentloaded\"\n"
     },
     {
       "nombre": "Liam Webber",
@@ -19,7 +19,7 @@
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Lisa Pace",
@@ -805,7 +805,7 @@
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Jean Muir",
@@ -877,7 +877,7 @@
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "James McPhie",
@@ -1051,7 +1051,7 @@
       "nombre": "Owen Parker",
       "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Damian Idiart",
@@ -1102,5 +1102,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T13:53:11.511Z"
+  "actualizado": "2026-08-19T14:40:07.205Z"
 }
