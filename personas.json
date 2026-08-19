@@ -1,20 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
-    },
-    {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    },
-    {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
-    }
-  ],
+  "personas": [],
   "revisados": 183,
-  "total_disponibles": 3,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -139,8 +126,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Diane Pence",
@@ -205,8 +192,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -241,8 +228,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Burgon",
@@ -890,7 +877,7 @@
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "James McPhie",
@@ -1115,5 +1102,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T06:04:45.668Z"
+  "actualizado": "2026-08-19T07:16:07.555Z"
 }
