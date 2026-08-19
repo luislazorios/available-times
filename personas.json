@@ -1,16 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Nathan Johnson",
-      "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
-    },
-    {
-      "nombre": "Cheryl Hawker",
-      "link": "https://calendar.app.google/BRMrtFjc847p8kuP7"
-    }
-  ],
+  "personas": [],
   "revisados": 183,
-  "total_disponibles": 2,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -159,8 +150,8 @@
     {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Matt Richards",
@@ -303,8 +294,8 @@
     {
       "nombre": "Cheryl Hawker",
       "link": "https://calendar.app.google/BRMrtFjc847p8kuP7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kathy Villeda",
@@ -1012,7 +1003,7 @@
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1111,5 +1102,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T15:39:11.098Z"
+  "actualizado": "2026-08-19T16:38:44.057Z"
 }
