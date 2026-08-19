@@ -1,13 +1,22 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Nathan Johnson",
+      "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
+    },
+    {
+      "nombre": "Cheryl Hawker",
+      "link": "https://calendar.app.google/BRMrtFjc847p8kuP7"
+    }
+  ],
   "revisados": 183,
-  "total_disponibles": 0,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
       "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6",
       "tiene_cita": false,
-      "motivo": "Error page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://calendar.app.google/zUtK3nQ2ZuSxncfL6\", waiting until \"domcontentloaded\"\n"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Liam Webber",
@@ -19,7 +28,7 @@
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -150,8 +159,8 @@
     {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Matt Richards",
@@ -294,8 +303,8 @@
     {
       "nombre": "Cheryl Hawker",
       "link": "https://calendar.app.google/BRMrtFjc847p8kuP7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kathy Villeda",
@@ -805,7 +814,7 @@
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
@@ -877,7 +886,7 @@
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "James McPhie",
@@ -1051,7 +1060,7 @@
       "nombre": "Owen Parker",
       "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Damian Idiart",
@@ -1102,5 +1111,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T14:40:07.205Z"
+  "actualizado": "2026-08-19T15:39:11.098Z"
 }
