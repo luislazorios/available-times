@@ -877,7 +877,7 @@
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "James McPhie",
@@ -1102,5 +1102,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T07:16:07.555Z"
+  "actualizado": "2026-08-19T08:01:52.161Z"
 }
