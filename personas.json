@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
-    },
-    {
       "nombre": "Kiara Bitter",
       "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7"
     },
@@ -18,7 +14,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 4,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -245,8 +241,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Burgon",
@@ -1125,5 +1121,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T23:31:23.583Z"
+  "actualizado": "2026-08-19T23:59:19.754Z"
 }
