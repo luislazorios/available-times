@@ -1,7 +1,20 @@
 {
-  "personas": [],
-  "revisados": 183,
-  "total_disponibles": 0,
+  "personas": [
+    {
+      "nombre": "Kiara Bitter",
+      "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7"
+    },
+    {
+      "nombre": "Ann Fenton",
+      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
+    },
+    {
+      "nombre": "Jean Muir",
+      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
+    }
+  ],
+  "revisados": 184,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -450,8 +463,8 @@
     {
       "nombre": "Kiara Bitter",
       "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -602,6 +615,12 @@
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Ann Fenton",
+      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nicole Remund",
@@ -810,8 +829,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Merrell",
@@ -1102,5 +1121,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T22:34:45.419Z"
+  "actualizado": "2026-08-19T23:00:54.785Z"
 }
