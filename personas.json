@@ -1003,7 +1003,7 @@
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1102,5 +1102,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T16:38:44.057Z"
+  "actualizado": "2026-08-19T17:15:54.677Z"
 }
