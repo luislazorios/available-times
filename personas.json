@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    }
-  ],
+  "personas": [],
   "revisados": 184,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -971,8 +966,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1113,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-20T08:54:04.408Z"
+  "actualizado": "2026-08-20T09:37:45.982Z"
 }
