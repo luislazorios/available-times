@@ -775,7 +775,7 @@
       "nombre": "Marianne Osborn",
       "link": "https://calendar.app.google/VUsGkBUJ7KvF6VEd7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Andrew whetten",
@@ -1108,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-20T12:03:19.459Z"
+  "actualizado": "2026-08-20T13:08:06.615Z"
 }
