@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
-    }
-  ],
+  "personas": [],
   "revisados": 184,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -497,8 +492,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kymberli Draper",
@@ -1113,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-20T15:44:33.054Z"
+  "actualizado": "2026-08-20T16:38:27.185Z"
 }
