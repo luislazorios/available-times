@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Kiara Bitter",
-      "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7"
-    },
-    {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
     },
@@ -14,7 +10,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 3,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -463,8 +459,8 @@
     {
       "nombre": "Kiara Bitter",
       "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -1121,5 +1117,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-19T23:59:19.754Z"
+  "actualizado": "2026-08-20T01:21:01.578Z"
 }
