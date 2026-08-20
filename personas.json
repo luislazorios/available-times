@@ -85,7 +85,7 @@
       "nombre": "Jason Harwood",
       "link": "https://calendar.app.google/1mZW87Bh73hccFZZ7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Brenley Burton",
@@ -1108,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-20T21:50:59.865Z"
+  "actualizado": "2026-08-20T22:31:18.988Z"
 }
