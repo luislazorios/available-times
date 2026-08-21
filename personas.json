@@ -396,7 +396,7 @@
       "nombre": "Sara Paulsen",
       "link": "https://calendar.app.google/ttpa3u1zir7uCx1b6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Mesha Davis",
@@ -1113,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-21T22:00:57.859Z"
+  "actualizado": "2026-08-21T22:33:49.434Z"
 }
