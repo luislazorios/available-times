@@ -1,16 +1,52 @@
 {
   "personas": [
     {
+      "nombre": "John Peterson",
+      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
+    },
+    {
+      "nombre": "Nathan Johnson",
+      "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
+    },
+    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
+      "nombre": "Sister Williamson",
+      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
+    },
+    {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
+    },
+    {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
+    },
+    {
+      "nombre": "Rebecca Holmstrom",
+      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
+    },
+    {
+      "nombre": "Kerri Andersen",
+      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
+    },
+    {
+      "nombre": "Andrew whetten",
+      "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA"
+    },
+    {
+      "nombre": "Owen Parker",
+      "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 2,
+  "total_disponibles": 11,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -135,8 +171,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Diane Pence",
@@ -159,8 +195,8 @@
     {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Matt Richards",
@@ -435,8 +471,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Justin Ware",
@@ -489,8 +525,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Crook",
@@ -591,8 +627,8 @@
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Barbara Baugh",
@@ -681,8 +717,8 @@
     {
       "nombre": "Kerri Andersen",
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Scott Magnum",
@@ -789,8 +825,8 @@
     {
       "nombre": "Andrew whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Alexander Cannon",
@@ -1065,8 +1101,8 @@
     {
       "nombre": "Owen Parker",
       "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Damian Idiart",
@@ -1077,8 +1113,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Erica Taney",
@@ -1117,5 +1153,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-21T06:49:10.344Z"
+  "actualizado": "2026-08-21T07:45:29.321Z"
 }
