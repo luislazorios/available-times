@@ -72,7 +72,7 @@
       "nombre": "Demetrios Stagikas",
       "link": "https://calendar.app.google/F7TD9e5JbNj3Ayt76",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Sarah Dunn",
@@ -1113,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-21T17:08:29.381Z"
+  "actualizado": "2026-08-21T17:53:01.065Z"
 }
