@@ -3,14 +3,10 @@
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
-    },
-    {
-      "nombre": "Andrew whetten",
-      "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -789,8 +785,8 @@
     {
       "nombre": "Andrew whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexander Cannon",
@@ -1117,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-21T15:10:54.283Z"
+  "actualizado": "2026-08-21T15:55:07.607Z"
 }
