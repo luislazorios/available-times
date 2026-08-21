@@ -5,14 +5,6 @@
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
     },
     {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
@@ -27,14 +19,10 @@
     {
       "nombre": "Owen Parker",
       "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 8,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -459,8 +447,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Justin Ware",
@@ -513,8 +501,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Crook",
@@ -1101,8 +1089,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Erica Taney",
@@ -1141,5 +1129,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-21T13:48:20.799Z"
+  "actualizado": "2026-08-21T14:38:28.236Z"
 }
