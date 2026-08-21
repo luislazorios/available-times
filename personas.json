@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Rebecca Holmstrom",
-      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
-    }
-  ],
+  "personas": [],
   "revisados": 184,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -587,8 +582,8 @@
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Baugh",
@@ -1113,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-21T22:33:49.434Z"
+  "actualizado": "2026-08-21T23:00:49.255Z"
 }
