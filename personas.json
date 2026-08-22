@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
+    },
+    {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
@@ -34,7 +38,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 8,
+  "total_disponibles": 9,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -261,8 +265,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Burgon",
@@ -1141,5 +1145,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-22T19:05:39.770Z"
+  "actualizado": "2026-08-22T19:43:58.678Z"
 }
