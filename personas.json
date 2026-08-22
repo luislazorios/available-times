@@ -5,12 +5,44 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
+      "nombre": "Ashlyn Whitlock",
+      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
+    },
+    {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
+    },
+    {
+      "nombre": "Kymberli Draper",
+      "link": "https://calendar.app.google/5kQxvm2cfVFo3tq4A"
+    },
+    {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
+    },
+    {
+      "nombre": "Tamara Foote",
+      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
+    },
+    {
+      "nombre": "Lisa Northrup",
+      "link": "https://calendar.app.google/jewB15osUK9sPe6e7"
+    },
+    {
+      "nombre": "James McPhie",
+      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
+    },
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 2,
+  "total_disponibles": 10,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -465,8 +497,8 @@
     {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rebecca Boren",
@@ -507,8 +539,8 @@
     {
       "nombre": "Kymberli Draper",
       "link": "https://calendar.app.google/5kQxvm2cfVFo3tq4A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Franz Sidney",
@@ -561,8 +593,8 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ashley Haslam",
@@ -651,14 +683,14 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Barbara Martin",
@@ -765,8 +797,8 @@
     {
       "nombre": "Lisa Northrup",
       "link": "https://calendar.app.google/jewB15osUK9sPe6e7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sharlene Gibson",
@@ -897,8 +929,8 @@
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Dane Struve",
@@ -975,8 +1007,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1117,5 +1149,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-22T06:02:17.250Z"
+  "actualizado": "2026-08-22T06:56:50.318Z"
 }
