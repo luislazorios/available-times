@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
     {
-      "nombre": "Rebecca Boren",
-      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
-    },
-    {
       "nombre": "Kymberli Draper",
       "link": "https://calendar.app.google/5kQxvm2cfVFo3tq4A"
     },
@@ -38,7 +34,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 9,
+  "total_disponibles": 8,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -499,8 +495,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tate Larson",
@@ -1145,5 +1141,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-22T16:26:59.499Z"
+  "actualizado": "2026-08-22T17:00:16.056Z"
 }
