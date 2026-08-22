@@ -74,7 +74,7 @@
       "nombre": "Wendy Grainger",
       "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Nicholas Budd",
@@ -1145,5 +1145,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-22T14:24:33.766Z"
+  "actualizado": "2026-08-22T14:59:13.403Z"
 }
