@@ -41,10 +41,6 @@
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
     },
     {
-      "nombre": "Tamara Foote",
-      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
-    },
-    {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
@@ -62,7 +58,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 15,
+  "total_disponibles": 14,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -709,8 +705,8 @@
     {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Martin",
@@ -1169,5 +1165,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T09:30:47.170Z"
+  "actualizado": "2026-08-23T10:00:20.461Z"
 }
