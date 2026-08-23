@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
     },
     {
+      "nombre": "Diane Pence",
+      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
+    },
+    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
@@ -42,7 +46,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 10,
+  "total_disponibles": 11,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -173,8 +177,8 @@
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Urbina",
@@ -1149,5 +1153,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T17:29:55.509Z"
+  "actualizado": "2026-08-23T17:57:05.326Z"
 }
