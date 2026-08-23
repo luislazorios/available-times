@@ -21,6 +21,10 @@
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
     },
     {
+      "nombre": "Sierra Herrick",
+      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
+    },
+    {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
@@ -58,7 +62,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 14,
+  "total_disponibles": 15,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -441,8 +445,8 @@
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sara Paulsen",
@@ -1165,5 +1169,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T13:53:23.601Z"
+  "actualizado": "2026-08-23T14:26:29.863Z"
 }
