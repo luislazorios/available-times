@@ -33,10 +33,6 @@
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
     {
-      "nombre": "Carter Hill",
-      "link": "https://calendar.app.google/NcbydcaWJbggEhHm9"
-    },
-    {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
@@ -46,7 +42,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 11,
+  "total_disponibles": 10,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -771,8 +767,8 @@
     {
       "nombre": "Carter Hill",
       "link": "https://calendar.app.google/NcbydcaWJbggEhHm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -1153,5 +1149,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T17:57:05.326Z"
+  "actualizado": "2026-08-23T18:32:16.028Z"
 }
