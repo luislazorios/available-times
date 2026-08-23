@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
     },
     {
+      "nombre": "Sierra Herrick",
+      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
+    },
+    {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
@@ -30,7 +34,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 7,
+  "total_disponibles": 8,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -413,8 +417,8 @@
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sara Paulsen",
@@ -1137,5 +1141,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T22:59:00.228Z"
+  "actualizado": "2026-08-23T23:24:17.604Z"
 }
