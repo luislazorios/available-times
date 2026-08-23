@@ -1132,7 +1132,7 @@
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sharon Elwell",
@@ -1165,5 +1165,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T08:02:45.741Z"
+  "actualizado": "2026-08-23T08:43:57.628Z"
 }
