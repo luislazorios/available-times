@@ -13,6 +13,10 @@
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
     },
     {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
+    },
+    {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
     },
@@ -54,7 +58,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 13,
+  "total_disponibles": 14,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -245,8 +249,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -1161,5 +1165,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T04:24:13.426Z"
+  "actualizado": "2026-08-23T05:09:27.147Z"
 }
