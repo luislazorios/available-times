@@ -5,16 +5,8 @@
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
     },
     {
-      "nombre": "Diane Pence",
-      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    },
-    {
-      "nombre": "Ashlyn Whitlock",
-      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
     {
       "nombre": "Sister Olson",
@@ -42,7 +34,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 10,
+  "total_disponibles": 8,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -173,8 +165,8 @@
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Urbina",
@@ -497,8 +489,8 @@
     {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Boren",
@@ -1149,5 +1141,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T18:32:16.028Z"
+  "actualizado": "2026-08-23T19:04:47.954Z"
 }
