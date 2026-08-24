@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
     },
     {
+      "nombre": "John Peterson",
+      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
+    },
+    {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
     },
@@ -34,7 +38,7 @@
     }
   ],
   "revisados": 184,
-  "total_disponibles": 8,
+  "total_disponibles": 9,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -159,8 +163,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Diane Pence",
@@ -1141,5 +1145,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-23T23:58:18.005Z"
+  "actualizado": "2026-08-24T01:19:42.525Z"
 }
