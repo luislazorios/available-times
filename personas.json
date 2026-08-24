@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
-    },
-    {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
@@ -13,16 +9,12 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     },
     {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 5,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -573,8 +565,8 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashley Haslam",
@@ -987,8 +979,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1129,5 +1121,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-24T07:35:51.371Z"
+  "actualizado": "2026-08-24T08:27:55.192Z"
 }
