@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97"
-    }
-  ],
+  "personas": [],
   "revisados": 184,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1031,8 +1026,8 @@
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Jones",
@@ -1113,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-24T17:41:31.099Z"
+  "actualizado": "2026-08-24T18:06:54.824Z"
 }
