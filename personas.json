@@ -577,7 +577,7 @@
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "Error page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://calendar.app.google/tzLWUQirmcsvt7d67\", waiting until \"domcontentloaded\"\n"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -1108,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-25T16:07:21.347Z"
+  "actualizado": "2026-08-25T17:03:17.695Z"
 }
