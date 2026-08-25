@@ -697,7 +697,7 @@
       "nombre": "Elder Calvin Smith",
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Kate Pratt",
@@ -1108,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-25T10:57:07.351Z"
+  "actualizado": "2026-08-25T11:30:50.100Z"
 }
