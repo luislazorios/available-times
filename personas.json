@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Leslie Thomas",
-      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
-    }
-  ],
+  "personas": [],
   "revisados": 184,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -977,8 +972,8 @@
     {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Curtis Whiting",
@@ -1113,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-25T19:06:13.781Z"
+  "actualizado": "2026-08-25T19:52:23.793Z"
 }
