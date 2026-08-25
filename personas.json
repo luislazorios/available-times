@@ -43,7 +43,7 @@
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Nancy Moore",
@@ -979,7 +979,7 @@
       "nombre": "Curtis Whiting",
       "link": "https://calendar.app.google/npBodoDT3DAw93Nz7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Corbin Ray",
@@ -1033,7 +1033,7 @@
       "nombre": "Sister Jones",
       "link": "https://calendar.app.google/a68jsMYqBMVRdwyK6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "Error page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://calendar.app.google/a68jsMYqBMVRdwyK6\", waiting until \"domcontentloaded\"\n"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1075,7 +1075,7 @@
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Sharon Elwell",
@@ -1108,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-25T17:42:19.248Z"
+  "actualizado": "2026-08-25T18:07:05.775Z"
 }
