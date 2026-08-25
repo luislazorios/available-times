@@ -3,14 +3,10 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1035,8 +1031,8 @@
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Jones",
@@ -1117,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-25T08:45:00.746Z"
+  "actualizado": "2026-08-25T09:38:23.232Z"
 }
