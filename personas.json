@@ -790,7 +790,7 @@
       "nombre": "Andrew whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Alexander Cannon",
@@ -1117,5 +1117,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-25T05:19:20.816Z"
+  "actualizado": "2026-08-25T05:54:41.366Z"
 }
