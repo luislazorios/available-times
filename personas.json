@@ -3,14 +3,10 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    },
-    {
-      "nombre": "Curtis Whiting",
-      "link": "https://calendar.app.google/npBodoDT3DAw93Nz7"
     }
   ],
   "revisados": 184,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -987,8 +983,8 @@
     {
       "nombre": "Curtis Whiting",
       "link": "https://calendar.app.google/npBodoDT3DAw93Nz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Corbin Ray",
@@ -1117,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-26T05:57:02.804Z"
+  "actualizado": "2026-08-26T06:52:48.588Z"
 }
