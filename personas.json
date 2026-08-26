@@ -1,7 +1,24 @@
 {
-  "personas": [],
-  "revisados": 184,
-  "total_disponibles": 0,
+  "personas": [
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
+    },
+    {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
+    },
+    {
+      "nombre": "katherine Baxter",
+      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9"
+    },
+    {
+      "nombre": "Elder Hollinger",
+      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
+    }
+  ],
+  "revisados": 188,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -451,7 +468,7 @@
       "nombre": "Kiara Bitter",
       "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -616,6 +633,12 @@
       "motivo": "sin botones hora"
     },
     {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Kim Wheeler",
       "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
       "tiene_cita": false,
@@ -626,6 +649,12 @@
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -640,6 +669,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "katherine Baxter",
+      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": false,
@@ -650,6 +685,12 @@
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Elder Hollinger",
+      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Barbara Martin",
@@ -1108,5 +1149,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-26T20:13:03.060Z"
+  "actualizado": "2026-08-26T23:46:37.997Z"
 }
