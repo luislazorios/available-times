@@ -372,7 +372,7 @@
       "nombre": "Norma Shepperd",
       "link": "https://calendar.app.google/hDejfTKnBGY2Uaw67",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Amy Henderson",
@@ -1113,5 +1113,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-26T13:57:55.112Z"
+  "actualizado": "2026-08-26T14:47:32.528Z"
 }
