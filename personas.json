@@ -451,7 +451,7 @@
       "nombre": "Kiara Bitter",
       "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -613,7 +613,7 @@
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/2DuvKPSzprR1iFd97",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Kim Wheeler",
@@ -865,7 +865,7 @@
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Hansen",
@@ -1108,5 +1108,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-26T18:11:38.611Z"
+  "actualizado": "2026-08-26T20:13:03.060Z"
 }
