@@ -1,16 +1,36 @@
 {
   "personas": [
     {
+      "nombre": "Jacob Nelson",
+      "link": "https://calendar.app.google/TKaTenAceJ2prd596"
+    },
+    {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
+    },
+    {
+      "nombre": "Elder Hollinger",
+      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
+    },
+    {
+      "nombre": "Donna Richardson",
+      "link": "https://calendar.app.google/EEiZYhMBVGD2gcWw8"
+    },
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     }
   ],
   "revisados": 188,
-  "total_disponibles": 2,
+  "total_disponibles": 7,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -63,8 +83,8 @@
     {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Theresa Sexton",
@@ -669,8 +689,8 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tamara Foote",
@@ -681,8 +701,8 @@
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Barbara Martin",
@@ -754,7 +774,7 @@
       "nombre": "Marcy Burr",
       "link": "https://calendar.app.google/eJ6nBdmA1guCuZY6A",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Carter Hill",
@@ -831,8 +851,8 @@
     {
       "nombre": "Donna Richardson",
       "link": "https://calendar.app.google/EEiZYhMBVGD2gcWw8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sydney Donavan",
@@ -999,8 +1019,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1141,5 +1161,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-28T23:43:28.156Z"
+  "actualizado": "2026-08-29T04:23:23.914Z"
 }
