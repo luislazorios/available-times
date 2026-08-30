@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Stacy Woods",
-      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
@@ -21,10 +17,6 @@
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
     },
     {
-      "nombre": "Justin Ware",
-      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
-    },
-    {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
@@ -33,12 +25,12 @@
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
     },
     {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
-    },
-    {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
     },
     {
       "nombre": "Sydney Donavan",
@@ -50,7 +42,7 @@
     }
   ],
   "revisados": 188,
-  "total_disponibles": 12,
+  "total_disponibles": 10,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -151,8 +143,8 @@
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Charisse",
@@ -481,8 +473,8 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Parker Larson",
@@ -625,8 +617,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -709,8 +701,8 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tamara Foote",
@@ -1181,5 +1173,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-30T20:04:42.889Z"
+  "actualizado": "2026-08-30T22:52:46.002Z"
 }
