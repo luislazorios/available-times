@@ -1,7 +1,24 @@
 {
-  "personas": [],
-  "revisados": 188,
-  "total_disponibles": 0,
+  "personas": [
+    {
+      "nombre": "Alyse Collins",
+      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
+    },
+    {
+      "nombre": "Samantha Johnson",
+      "link": "https://calendar.app.google/8Qqd4346prribAD2A"
+    },
+    {
+      "nombre": "Kerri Andersen",
+      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
+    },
+    {
+      "nombre": "Elder Harris",
+      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
+    }
+  ],
+  "revisados": 192,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -402,8 +419,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -682,8 +699,20 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Samantha Johnson",
+      "link": "https://calendar.app.google/8Qqd4346prribAD2A",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Tatiana Moura",
+      "link": "https://calendar.app.google/e896ahdUNdMGD4K77",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -694,16 +723,28 @@
       "motivo": "sin botones hora"
     },
     {
-      "nombre": "Kerri Andersen",
-      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7",
+      "nombre": "Curtis Bateman",
+      "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Kerri Andersen",
+      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Scott Magnum",
       "link": "https://calendar.app.google/u2axz9NrYSFVZeKy7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Elder Harris",
+      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Davies",
@@ -1132,5 +1173,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-31T15:14:36.970Z"
+  "actualizado": "2026-08-31T20:56:14.647Z"
 }
