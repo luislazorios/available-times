@@ -9,16 +9,16 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
     },
     {
+      "nombre": "Cecili Crandall",
+      "link": "https://calendar.app.google/qjkTpcAgsgzAWgfC8"
+    },
+    {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
     },
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
-    },
-    {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
     {
       "nombre": "Sister Spackman",
@@ -29,12 +29,12 @@
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
-    },
-    {
       "nombre": "Sydney Donavan",
       "link": "https://calendar.app.google/XchFkxQmMag6F5VJA"
+    },
+    {
+      "nombre": "Jean Muir",
+      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
     },
     {
       "nombre": "Sister Alatini",
@@ -371,8 +371,8 @@
     {
       "nombre": "Cecili Crandall",
       "link": "https://calendar.app.google/qjkTpcAgsgzAWgfC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Emily Cole",
@@ -533,8 +533,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kymberli Draper",
@@ -690,7 +690,7 @@
       "nombre": "Sister Cantarero",
       "link": "https://calendar.app.google/dbuRm1NVJEfXwkCd8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "katherine Baxter",
@@ -701,8 +701,8 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tamara Foote",
@@ -792,7 +792,7 @@
       "nombre": "Carter Hill",
       "link": "https://calendar.app.google/NcbydcaWJbggEhHm9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -881,8 +881,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Merrell",
@@ -1173,5 +1173,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-31T01:10:31.084Z"
+  "actualizado": "2026-08-31T07:08:27.389Z"
 }
