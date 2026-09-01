@@ -1,24 +1,28 @@
 {
   "personas": [
     {
-      "nombre": "Stacy Woods",
-      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
+      "nombre": "Elder Oliver Carter",
+      "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6"
     },
     {
-      "nombre": "Samantha Johnson",
-      "link": "https://calendar.app.google/8Qqd4346prribAD2A"
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
     },
     {
-      "nombre": "Kerri Andersen",
-      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
+      "nombre": "Tatiana Moura",
+      "link": "https://calendar.app.google/e896ahdUNdMGD4K77"
     },
     {
-      "nombre": "Elder Harris",
-      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
+      "nombre": "Eric Conover",
+      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
+    },
+    {
+      "nombre": "Allen Graff",
+      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     }
   ],
   "revisados": 192,
-  "total_disponibles": 4,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -119,8 +123,8 @@
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Charisse",
@@ -539,8 +543,8 @@
     {
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Shelly Felt",
@@ -653,8 +657,8 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -701,8 +705,8 @@
     {
       "nombre": "Samantha Johnson",
       "link": "https://calendar.app.google/8Qqd4346prribAD2A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jacobie Hoopes",
@@ -713,8 +717,8 @@
     {
       "nombre": "Tatiana Moura",
       "link": "https://calendar.app.google/e896ahdUNdMGD4K77",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Christina Smith",
@@ -731,8 +735,8 @@
     {
       "nombre": "Kerri Andersen",
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Scott Magnum",
@@ -743,8 +747,8 @@
     {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Davies",
@@ -923,8 +927,8 @@
     {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tana Grames",
@@ -941,8 +945,8 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Holladay",
@@ -1173,5 +1177,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-01T00:28:11.963Z"
+  "actualizado": "2026-09-01T05:41:41.759Z"
 }
