@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    }
-  ],
+  "personas": [],
   "revisados": 192,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -863,8 +858,8 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
@@ -1002,7 +997,7 @@
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emily Felix",
@@ -1044,7 +1039,7 @@
       "nombre": "Elder Lau",
       "link": "https://calendar.app.google/iV52wAV21uRGXnjG7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Hailey Moore",
@@ -1161,5 +1156,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-01T21:23:14.937Z"
+  "actualizado": "2026-09-01T23:28:15.491Z"
 }
