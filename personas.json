@@ -1,8 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
+      "nombre": "Stacy Woods",
+      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
     },
     {
       "nombre": "Samantha Johnson",
@@ -119,8 +119,8 @@
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Charisse",
@@ -419,8 +419,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -1173,5 +1173,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-08-31T20:56:14.647Z"
+  "actualizado": "2026-09-01T00:28:11.963Z"
 }
