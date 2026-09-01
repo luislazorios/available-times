@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Tatiana Moura",
-      "link": "https://calendar.app.google/e896ahdUNdMGD4K77"
-    }
-  ],
+  "personas": [],
   "revisados": 192,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -120,7 +115,7 @@
       "nombre": "Marni Kleinman",
       "link": "https://calendar.app.google/4zMNYPLM1URfnp8a8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Jessica Erickson",
@@ -642,7 +637,7 @@
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -701,8 +696,8 @@
     {
       "nombre": "Tatiana Moura",
       "link": "https://calendar.app.google/e896ahdUNdMGD4K77",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Christina Smith",
@@ -978,7 +973,7 @@
       "nombre": "Melissa Gibson",
       "link": "https://calendar.app.google/yUi7u9MbJ8oF8hza6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bethany Solis",
@@ -1161,5 +1156,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-01T15:14:18.692Z"
+  "actualizado": "2026-09-01T18:41:19.412Z"
 }
