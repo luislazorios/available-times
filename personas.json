@@ -139,7 +139,7 @@
       "nombre": "Sister Urbina",
       "link": "https://calendar.app.google/jc7xesyE4ZibQEXY6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Frances Carlson",
@@ -1156,5 +1156,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-01T23:28:15.491Z"
+  "actualizado": "2026-09-02T01:26:25.035Z"
 }
