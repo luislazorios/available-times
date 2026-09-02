@@ -1,12 +1,20 @@
 {
   "personas": [
     {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
+      "nombre": "Alyse Collins",
+      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
+    },
+    {
+      "nombre": "Richard Young",
+      "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA"
+    },
+    {
+      "nombre": "Elder Brigham Bailey",
+      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     }
   ],
-  "revisados": 192,
-  "total_disponibles": 1,
+  "revisados": 193,
+  "total_disponibles": 3,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -149,8 +157,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nathan Johnson",
@@ -407,8 +415,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -449,8 +457,8 @@
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kiara Bitter",
@@ -745,6 +753,12 @@
       "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Elder Brigham Bailey",
+      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Calvin Smith",
@@ -1161,5 +1175,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-02T16:07:44.940Z"
+  "actualizado": "2026-09-02T19:28:25.542Z"
 }
