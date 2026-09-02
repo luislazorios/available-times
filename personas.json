@@ -1,12 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Richard Young",
-      "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA"
+      "nombre": "Ralph C Lewis",
+      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
     },
     {
       "nombre": "Elder Brigham Bailey",
@@ -14,7 +10,7 @@
     }
   ],
   "revisados": 193,
-  "total_disponibles": 3,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -415,8 +411,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -457,8 +453,8 @@
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kiara Bitter",
@@ -655,8 +651,8 @@
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Cantarero",
@@ -1175,5 +1171,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-02T19:28:25.542Z"
+  "actualizado": "2026-09-02T22:01:41.871Z"
 }
