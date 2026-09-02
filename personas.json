@@ -1,7 +1,24 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "John Peterson",
+      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
+    },
+    {
+      "nombre": "Frances Carlson",
+      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
+    },
+    {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
+    },
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
+    }
+  ],
   "revisados": 192,
-  "total_disponibles": 0,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -126,8 +143,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Diane Pence",
@@ -144,8 +161,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nathan Johnson",
@@ -192,8 +209,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -1014,8 +1031,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1156,5 +1173,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-02T01:26:25.035Z"
+  "actualizado": "2026-09-02T06:27:18.162Z"
 }
