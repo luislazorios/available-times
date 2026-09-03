@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Nathan Johnson",
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
     },
@@ -13,8 +9,16 @@
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767"
     },
     {
+      "nombre": "Elder Oliver Carter",
+      "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6"
+    },
+    {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
+    },
+    {
+      "nombre": "Reed Blau",
+      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
     {
       "nombre": "Ann Fenton",
@@ -57,10 +61,6 @@
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8"
     },
     {
-      "nombre": "Emily Felix",
-      "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6"
-    },
-    {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
     },
@@ -95,8 +95,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -599,8 +599,8 @@
     {
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Shelly Felt",
@@ -653,8 +653,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -930,7 +930,7 @@
       "nombre": "Donna Richardson",
       "link": "https://calendar.app.google/EEiZYhMBVGD2gcWw8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Sydney Donavan",
@@ -1085,8 +1085,8 @@
     {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lauryn Spilsbury",
@@ -1239,5 +1239,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-03T09:02:45.119Z"
+  "actualizado": "2026-09-03T13:34:02.784Z"
 }
