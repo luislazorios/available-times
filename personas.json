@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
     },
     {
-      "nombre": "Sister Spackman",
-      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
@@ -45,20 +41,12 @@
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8"
     },
     {
-      "nombre": "Leslie Thomas",
-      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
-    },
-    {
-      "nombre": "Lindsay Dance",
-      "link": "https://calendar.app.google/knVhiWzyUsukrrQH6"
-    },
-    {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97"
     }
   ],
   "revisados": 193,
-  "total_disponibles": 14,
+  "total_disponibles": 11,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -627,8 +615,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Reed Blau",
@@ -1083,8 +1071,8 @@
     {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Curtis Whiting",
@@ -1125,8 +1113,8 @@
     {
       "nombre": "Lindsay Dance",
       "link": "https://calendar.app.google/knVhiWzyUsukrrQH6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emily MacLean",
@@ -1219,5 +1207,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-03T19:59:25.389Z"
+  "actualizado": "2026-09-03T22:24:50.756Z"
 }
