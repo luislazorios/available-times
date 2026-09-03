@@ -3,14 +3,10 @@
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
-    },
-    {
-      "nombre": "Elder Brigham Bailey",
-      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     }
   ],
   "revisados": 193,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -753,8 +749,8 @@
     {
       "nombre": "Elder Brigham Bailey",
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Calvin Smith",
@@ -1171,5 +1167,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-02T22:01:41.871Z"
+  "actualizado": "2026-09-03T00:03:25.935Z"
 }
