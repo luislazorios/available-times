@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
     },
     {
-      "nombre": "Elder Oliver Carter",
-      "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6"
-    },
-    {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
     },
@@ -37,10 +33,6 @@
       "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8"
     },
     {
-      "nombre": "Kerri Andersen",
-      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
-    },
-    {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
     },
@@ -66,7 +58,7 @@
     }
   ],
   "revisados": 193,
-  "total_disponibles": 16,
+  "total_disponibles": 14,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -587,8 +579,8 @@
     {
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Shelly Felt",
@@ -779,8 +771,8 @@
     {
       "nombre": "Kerri Andersen",
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Scott Magnum",
@@ -1227,5 +1219,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-03T17:15:47.685Z"
+  "actualizado": "2026-09-03T19:59:25.389Z"
 }
