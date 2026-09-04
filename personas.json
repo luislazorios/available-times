@@ -37,10 +37,6 @@
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
     {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
-    },
-    {
       "nombre": "Kristen Matley",
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9"
     },
@@ -57,12 +53,32 @@
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     },
     {
+      "nombre": "Cindy Harrison",
+      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7"
+    },
+    {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
     {
+      "nombre": "Caroline Williams",
+      "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6"
+    },
+    {
+      "nombre": "Margo Aston",
+      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7"
+    },
+    {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
+    },
+    {
+      "nombre": "Stephanie Webber",
+      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
+    },
+    {
+      "nombre": "Brent Baugh",
+      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
     {
       "nombre": "Jenny Draper",
@@ -85,8 +101,8 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     }
   ],
-  "revisados": 193,
-  "total_disponibles": 21,
+  "revisados": 201,
+  "total_disponibles": 25,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -691,8 +707,8 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -845,6 +861,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Cindy Harrison",
+      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Raegan Monson",
       "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
       "tiene_cita": false,
@@ -853,6 +875,12 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
+      "nombre": "Caroline Williams",
+      "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
       "tiene_cita": true,
       "motivo": "TIENE HORARIOS"
     },
@@ -869,6 +897,12 @@
       "motivo": "sin botones hora"
     },
     {
+      "nombre": "Margo Aston",
+      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
       "tiene_cita": true,
@@ -881,6 +915,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Stephanie Webber",
+      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
       "tiene_cita": false,
@@ -889,6 +929,12 @@
     {
       "nombre": "Sara Apke",
       "link": "https://calendar.app.google/FhTHukG1M65wuvZ2A",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Grace Olsen",
+      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -905,6 +951,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Brent Baugh",
+      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
       "tiene_cita": false,
@@ -917,6 +969,12 @@
       "motivo": "sin botones hora"
     },
     {
+      "nombre": "Gary Hall",
+      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "Andrew whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
       "tiene_cita": false,
@@ -925,6 +983,12 @@
     {
       "nombre": "Alexander Cannon",
       "link": "https://calendar.app.google/AQLP6c5CPJMAMEYE6",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Elise Hall",
+      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1247,5 +1311,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-04T17:43:02.681Z"
+  "actualizado": "2026-09-04T19:55:34.518Z"
 }
