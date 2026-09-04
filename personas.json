@@ -37,10 +37,6 @@
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
     {
-      "nombre": "Kristen Matley",
-      "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9"
-    },
-    {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
     },
@@ -102,7 +98,7 @@
     }
   ],
   "revisados": 201,
-  "total_disponibles": 25,
+  "total_disponibles": 24,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -731,8 +727,8 @@
     {
       "nombre": "Kristen Matley",
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Mckeon",
@@ -1311,5 +1307,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-04T19:55:34.518Z"
+  "actualizado": "2026-09-04T22:13:29.267Z"
 }
