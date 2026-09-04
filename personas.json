@@ -5,6 +5,14 @@
       "link": "https://calendar.app.google/oFs5taATLWW6CQtd8"
     },
     {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
+    },
+    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
@@ -25,6 +33,10 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
+      "nombre": "Jean Muir",
+      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
+    },
+    {
       "nombre": "Lynzy Gonzales",
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8"
     },
@@ -34,7 +46,7 @@
     }
   ],
   "revisados": 193,
-  "total_disponibles": 8,
+  "total_disponibles": 11,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -225,8 +237,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -603,8 +615,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Reed Blau",
@@ -903,8 +915,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Merrell",
@@ -1195,5 +1207,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-04T00:25:48.418Z"
+  "actualizado": "2026-09-04T05:07:35.895Z"
 }
