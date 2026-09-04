@@ -13,20 +13,8 @@
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
     },
     {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
-    },
-    {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9"
-    },
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
-    },
-    {
-      "nombre": "Curtis Bateman",
-      "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8"
     },
     {
       "nombre": "Elder Harris",
@@ -46,7 +34,7 @@
     }
   ],
   "revisados": 193,
-  "total_disponibles": 11,
+  "total_disponibles": 8,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -681,8 +669,8 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -723,8 +711,8 @@
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Samantha Johnson",
@@ -753,8 +741,8 @@
     {
       "nombre": "Curtis Bateman",
       "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kerri Andersen",
@@ -1207,5 +1195,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-03T22:24:50.756Z"
+  "actualizado": "2026-09-04T00:25:48.418Z"
 }
