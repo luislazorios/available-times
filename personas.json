@@ -129,14 +129,6 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
-    },
-    {
-      "nombre": "Heidi Henderson",
-      "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77"
-    },
-    {
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48"
     },
@@ -186,7 +178,7 @@
     }
   ],
   "revisados": 201,
-  "total_disponibles": 46,
+  "total_disponibles": 44,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1103,8 +1095,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1127,8 +1119,8 @@
     {
       "nombre": "Heidi Henderson",
       "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Claire Long",
@@ -1395,5 +1387,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-05T12:05:53.138Z"
+  "actualizado": "2026-09-05T15:23:32.753Z"
 }
