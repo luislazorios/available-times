@@ -41,6 +41,10 @@
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
     },
     {
+      "nombre": "Tatiana Moura",
+      "link": "https://calendar.app.google/e896ahdUNdMGD4K77"
+    },
+    {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
     },
@@ -98,7 +102,7 @@
     }
   ],
   "revisados": 201,
-  "total_disponibles": 24,
+  "total_disponibles": 25,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -793,8 +797,8 @@
     {
       "nombre": "Tatiana Moura",
       "link": "https://calendar.app.google/e896ahdUNdMGD4K77",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Christina Smith",
@@ -1307,5 +1311,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-04T22:13:29.267Z"
+  "actualizado": "2026-09-05T00:14:53.389Z"
 }
