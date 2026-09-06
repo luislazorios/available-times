@@ -41,6 +41,10 @@
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
     },
     {
+      "nombre": "Elder Oliver Carter",
+      "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6"
+    },
+    {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
@@ -87,14 +91,6 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
-    },
-    {
-      "nombre": "Caroline Williams",
-      "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6"
-    },
-    {
-      "nombre": "Margo Aston",
-      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -162,7 +158,7 @@
     }
   ],
   "revisados": 201,
-  "total_disponibles": 40,
+  "total_disponibles": 39,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -683,8 +679,8 @@
     {
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Shelly Felt",
@@ -941,8 +937,8 @@
     {
       "nombre": "Caroline Williams",
       "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marcy Burr",
@@ -959,8 +955,8 @@
     {
       "nombre": "Margo Aston",
       "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -1371,5 +1367,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-06T14:17:37.655Z"
+  "actualizado": "2026-09-06T17:11:38.879Z"
 }
