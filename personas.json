@@ -33,6 +33,10 @@
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
     },
     {
+      "nombre": "Justin Ware",
+      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
+    },
+    {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
@@ -47,10 +51,6 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -597,8 +597,8 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Parker Larson",
@@ -741,8 +741,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -1375,5 +1375,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-06T06:08:51.568Z"
+  "actualizado": "2026-09-06T11:08:49.370Z"
 }
