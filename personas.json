@@ -1,12 +1,28 @@
 {
   "personas": [
     {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
+      "nombre": "Nancy Moore",
+      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
+    },
+    {
+      "nombre": "Cole Stearman",
+      "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
+    },
+    {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
+    },
+    {
+      "nombre": "Sierra Herrick",
+      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
     },
     {
       "nombre": "Alyse Collins",
@@ -15,10 +31,6 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
-      "nombre": "Kiara Bitter",
-      "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -47,6 +59,10 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
+    },
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -150,7 +166,7 @@
     }
   ],
   "revisados": 201,
-  "total_disponibles": 37,
+  "total_disponibles": 41,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -167,8 +183,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -197,8 +213,8 @@
     {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jacob Nelson",
@@ -227,8 +243,8 @@
     {
       "nombre": "Cole Stearman",
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jason Harwood",
@@ -293,8 +309,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nathan Johnson",
@@ -341,8 +357,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -533,8 +549,8 @@
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sara Paulsen",
@@ -599,8 +615,8 @@
     {
       "nombre": "Kiara Bitter",
       "link": "https://calendar.app.google/sAkGwrRzeN2Mi4nU7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -767,8 +783,8 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1359,5 +1375,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-06T01:22:59.450Z"
+  "actualizado": "2026-09-06T06:08:51.568Z"
 }
