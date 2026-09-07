@@ -523,7 +523,7 @@
       "nombre": "Elder Oliver Carter",
       "link": "https://calendar.app.google/HfbE3MRYUWMXuGJe6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Shelly Felt",
@@ -1210,5 +1210,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-07T18:11:09.585Z"
+  "actualizado": "2026-09-07T21:38:54.209Z"
 }
