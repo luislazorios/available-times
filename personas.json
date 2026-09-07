@@ -1,24 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    },
-    {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
     },
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
-    },
-    {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Justin Ware",
-      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
     },
     {
       "nombre": "Sister Randall",
@@ -31,10 +19,6 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Rebecca Holmstrom",
-      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
     {
       "nombre": "Sarah Idiart",
@@ -65,16 +49,8 @@
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     },
     {
-      "nombre": "Cindy Harrison",
-      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7"
-    },
-    {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
-    },
-    {
-      "nombre": "Bonnie Forrest",
-      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
     },
     {
       "nombre": "Stephanie Webber",
@@ -83,10 +59,6 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
     {
       "nombre": "Elder Holladay",
@@ -101,28 +73,16 @@
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
-      "nombre": "Lauryn Spilsbury",
-      "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98"
+      "nombre": "Sister Alatini",
+      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97"
-    },
-    {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
-    },
-    {
-      "nombre": "Lina Fotmuller",
-      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 201,
-  "total_disponibles": 30,
+  "total_disponibles": 20,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -313,8 +273,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -523,8 +483,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -553,8 +513,8 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Parker Larson",
@@ -703,8 +663,8 @@
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Baugh",
@@ -883,8 +843,8 @@
     {
       "nombre": "Cindy Harrison",
       "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Raegan Monson",
@@ -925,8 +885,8 @@
     {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Heather Johnson",
@@ -973,8 +933,8 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexa Webb",
@@ -1129,8 +1089,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Hunter",
@@ -1183,8 +1143,8 @@
     {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1249,8 +1209,8 @@
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Jones",
@@ -1285,8 +1245,8 @@
     {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sandra Hancock",
@@ -1309,8 +1269,8 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1331,5 +1291,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-07T01:09:06.906Z"
+  "actualizado": "2026-09-07T06:14:16.732Z"
 }
