@@ -1,7 +1,36 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Justin Ware",
+      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
+    },
+    {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
+    },
+    {
+      "nombre": "Tatiana Moura",
+      "link": "https://calendar.app.google/e896ahdUNdMGD4K77"
+    },
+    {
+      "nombre": "Kerri Andersen",
+      "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
+    },
+    {
+      "nombre": "Bonnie Forrest",
+      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
+    },
+    {
+      "nombre": "Lynzy Gonzales",
+      "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8"
+    },
+    {
+      "nombre": "Elizabeth Astle",
+      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
+    }
+  ],
   "revisados": 201,
-  "total_disponibles": 0,
+  "total_disponibles": 7,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -432,8 +461,8 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Parker Larson",
@@ -636,8 +665,8 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -696,8 +725,8 @@
     {
       "nombre": "Tatiana Moura",
       "link": "https://calendar.app.google/e896ahdUNdMGD4K77",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Christina Smith",
@@ -714,8 +743,8 @@
     {
       "nombre": "Kerri Andersen",
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Scott Magnum",
@@ -804,8 +833,8 @@
     {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Heather Johnson",
@@ -930,8 +959,8 @@
     {
       "nombre": "Lynzy Gonzales",
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sarah Leigh",
@@ -1110,8 +1139,8 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1210,5 +1239,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-08T03:29:12.313Z"
+  "actualizado": "2026-09-08T08:23:48.405Z"
 }
