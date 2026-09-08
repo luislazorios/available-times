@@ -1,20 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
-    },
-    {
-      "nombre": "Elder Jolley",
-      "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
-    },
-    {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
     },
     {
       "nombre": "Tatiana Moura",
@@ -25,16 +13,12 @@
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
     },
     {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
     }
   ],
   "revisados": 201,
-  "total_disponibles": 8,
+  "total_disponibles": 4,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -261,8 +245,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Burgon",
@@ -393,8 +377,8 @@
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Norma Shepperd",
@@ -675,8 +659,8 @@
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Cantarero",
@@ -1101,8 +1085,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1243,5 +1227,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-08T17:09:57.635Z"
+  "actualizado": "2026-09-08T20:00:31.051Z"
 }
