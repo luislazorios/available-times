@@ -5,20 +5,24 @@
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
     },
     {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
+    },
+    {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
     },
     {
-      "nombre": "Elder Harris",
-      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
+      "nombre": "Barbara Martin",
+      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
     },
     {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
+      "nombre": "Elder Harris",
+      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
     }
   ],
   "revisados": 205,
-  "total_disponibles": 4,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -497,8 +501,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Crook",
@@ -695,8 +699,8 @@
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Samantha Johnson",
@@ -935,8 +939,8 @@
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
@@ -1251,5 +1255,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-09T20:35:28.099Z"
+  "actualizado": "2026-09-09T22:47:55.828Z"
 }
