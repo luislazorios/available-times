@@ -5,16 +5,8 @@
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
     },
     {
-      "nombre": "Rebecca Shae",
-      "link": "https://calendar.app.google/juZuPLdqmbHFqwGFA"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    },
-    {
-      "nombre": "Amy Chappell",
-      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA"
     },
     {
       "nombre": "Elder Jolley",
@@ -41,8 +33,20 @@
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9"
     },
     {
+      "nombre": "Margo Aston",
+      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7"
+    },
+    {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
+    },
+    {
+      "nombre": "Luke Arnott",
+      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
+    },
+    {
+      "nombre": "Jesse Sparks",
+      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
       "nombre": "Allen Graff",
@@ -53,15 +57,11 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
     {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
-    },
-    {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     }
   ],
-  "revisados": 201,
+  "revisados": 204,
   "total_disponibles": 15,
   "detalle": [
     {
@@ -235,8 +235,8 @@
     {
       "nombre": "Rebecca Shae",
       "link": "https://calendar.app.google/juZuPLdqmbHFqwGFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alyssa Burrell",
@@ -313,8 +313,8 @@
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sotckton Lott",
@@ -859,8 +859,8 @@
     {
       "nombre": "Margo Aston",
       "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -977,6 +977,12 @@
       "motivo": "TIENE HORARIOS"
     },
     {
+      "nombre": "Luke Arnott",
+      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
       "tiene_cita": false,
@@ -989,8 +995,20 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Jesse Sparks",
+      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Lynzy Gonzales",
       "link": "https://calendar.app.google/b4BBQGQM4WQPw7ei8",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Amy Zinn",
+      "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1208,7 +1226,7 @@
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Jonas Hagman",
@@ -1225,8 +1243,8 @@
     {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sandra Hancock",
@@ -1271,5 +1289,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-09T09:55:53.090Z"
+  "actualizado": "2026-09-09T14:15:49.028Z"
 }
