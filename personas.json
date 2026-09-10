@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Nicholas Budd",
+      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
+    },
+    {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
     },
@@ -22,7 +26,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 5,
+  "total_disponibles": 6,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -63,8 +67,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nancy Moore",
@@ -1255,5 +1259,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-09T22:47:55.828Z"
+  "actualizado": "2026-09-10T00:56:16.479Z"
 }
