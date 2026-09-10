@@ -1,24 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Diane Pence",
-      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
-      "nombre": "Cheryl Hawker",
-      "link": "https://calendar.app.google/BRMrtFjc847p8kuP7"
-    },
-    {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
-    },
-    {
-      "nombre": "Elisabeth Maughan",
-      "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA"
-    },
-    {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
     },
     {
       "nombre": "Reed Blau",
@@ -65,10 +49,6 @@
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
     {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6"
     },
@@ -90,7 +70,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 22,
+  "total_disponibles": 17,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -221,8 +201,8 @@
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Urbina",
@@ -383,8 +363,8 @@
     {
       "nombre": "Cheryl Hawker",
       "link": "https://calendar.app.google/BRMrtFjc847p8kuP7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kathy Villeda",
@@ -503,8 +483,8 @@
     {
       "nombre": "Elisabeth Maughan",
       "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Candace Fielding",
@@ -569,8 +549,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Crook",
@@ -1001,8 +981,8 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Luke Arnott",
@@ -1323,5 +1303,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-10T14:33:46.308Z"
+  "actualizado": "2026-09-10T17:55:09.528Z"
 }
