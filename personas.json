@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sierra Herrick",
-      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
-    },
-    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
@@ -31,10 +27,6 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
-    },
-    {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
     },
     {
       "nombre": "Elder Harris",
@@ -70,7 +62,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 17,
+  "total_disponibles": 15,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -453,8 +445,8 @@
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sara Paulsen",
@@ -759,8 +751,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tatiana Moura",
@@ -1303,5 +1295,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-10T20:32:45.413Z"
+  "actualizado": "2026-09-10T22:49:39.575Z"
 }
