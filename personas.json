@@ -5,24 +5,8 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
     {
-      "nombre": "Amy Chappell",
-      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA"
-    },
-    {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
-    },
-    {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
     },
     {
       "nombre": "Elder Mckeon",
@@ -31,10 +15,6 @@
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
-    },
-    {
-      "nombre": "katherine Baxter",
-      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9"
     },
     {
       "nombre": "Elder Hollinger",
@@ -63,10 +43,6 @@
     {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
-    },
-    {
-      "nombre": "Jennalyn Stuart",
-      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9"
     },
     {
       "nombre": "Alexa Webb",
@@ -110,7 +86,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 27,
+  "total_disponibles": 21,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -361,8 +337,8 @@
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sotckton Lott",
@@ -511,8 +487,8 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -685,8 +661,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -709,8 +685,8 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ann Fenton",
@@ -763,8 +739,8 @@
     {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marlea Haberkamp",
@@ -931,8 +907,8 @@
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sara Apke",
@@ -1343,5 +1319,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-11T17:57:12.794Z"
+  "actualizado": "2026-09-11T20:36:57.713Z"
 }
