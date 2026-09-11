@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
     },
     {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
-    },
-    {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
     },
@@ -61,10 +57,6 @@
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
-      "nombre": "Jennifer Tyler",
-      "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8"
-    },
-    {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
@@ -86,7 +78,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 21,
+  "total_disponibles": 19,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -721,8 +713,8 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -1159,8 +1151,8 @@
     {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emily Felix",
@@ -1319,5 +1311,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-11T20:36:57.713Z"
+  "actualizado": "2026-09-11T22:50:21.569Z"
 }
