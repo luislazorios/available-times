@@ -1,36 +1,16 @@
 {
   "personas": [
     {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
-    },
-    {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
-    },
-    {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA"
     },
     {
-      "nombre": "Ethan Rasmussen",
-      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
-    },
-    {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
     },
     {
       "nombre": "Sister Spackman",
@@ -43,10 +23,6 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
-    },
-    {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
     },
     {
       "nombre": "Elder Mckeon",
@@ -71,10 +47,6 @@
     {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
-    },
-    {
-      "nombre": "Kate Brown",
-      "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8"
     },
     {
       "nombre": "Elder Brigham Bailey",
@@ -103,10 +75,6 @@
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
     {
       "nombre": "Alexa Webb",
@@ -150,7 +118,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 37,
+  "total_disponibles": 29,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -275,8 +243,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Diane Pence",
@@ -341,8 +309,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -497,8 +465,8 @@
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kay Merrell",
@@ -575,8 +543,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Justin Ware",
@@ -629,8 +597,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Crook",
@@ -755,8 +723,8 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -887,8 +855,8 @@
     {
       "nombre": "Kate Brown",
       "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Brigham Bailey",
@@ -1001,8 +969,8 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexa Webb",
@@ -1383,5 +1351,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-11T10:04:39.155Z"
+  "actualizado": "2026-09-11T14:32:59.905Z"
 }
