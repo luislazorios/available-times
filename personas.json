@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
@@ -15,10 +11,6 @@
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
-    },
-    {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -101,6 +93,10 @@
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
+      "nombre": "Nathan Brady",
+      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
+    },
+    {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98"
     },
@@ -127,14 +123,10 @@
     {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6"
-    },
-    {
-      "nombre": "Lina Fotmuller",
-      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 205,
-  "total_disponibles": 33,
+  "total_disponibles": 31,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -151,8 +143,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -361,8 +353,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Burgon",
@@ -458,7 +450,7 @@
       "nombre": "Elder Boone",
       "link": "https://calendar.app.google/aHScpqpMQAgqREpp9",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cecili Crandall",
@@ -1177,8 +1169,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1345,8 +1337,8 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1367,5 +1359,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-12T05:31:17.236Z"
+  "actualizado": "2026-09-12T09:37:42.211Z"
 }
