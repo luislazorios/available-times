@@ -77,16 +77,8 @@
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
     },
     {
-      "nombre": "Lauryn Spilsbury",
-      "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98"
-    },
-    {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
-      "nombre": "Lindsay Dance",
-      "link": "https://calendar.app.google/knVhiWzyUsukrrQH6"
     },
     {
       "nombre": "Sister Raskey",
@@ -102,7 +94,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 25,
+  "total_disponibles": 23,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1187,8 +1179,8 @@
     {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1241,8 +1233,8 @@
     {
       "nombre": "Lindsay Dance",
       "link": "https://calendar.app.google/knVhiWzyUsukrrQH6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emily MacLean",
@@ -1335,5 +1327,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-12T16:25:49.964Z"
+  "actualizado": "2026-09-12T18:47:54.134Z"
 }
