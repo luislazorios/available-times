@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
     {
-      "nombre": "Sister Spackman",
-      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
     },
@@ -35,10 +31,6 @@
     {
       "nombre": "Margo Aston",
       "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7"
-    },
-    {
-      "nombre": "Stephanie Webber",
-      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
     },
     {
       "nombre": "Alexa Webb",
@@ -78,7 +70,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 19,
+  "total_disponibles": 17,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -647,8 +639,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Reed Blau",
@@ -893,8 +885,8 @@
     {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jennalyn Stuart",
@@ -1311,5 +1303,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-11T22:50:21.569Z"
+  "actualizado": "2026-09-12T00:59:39.383Z"
 }
