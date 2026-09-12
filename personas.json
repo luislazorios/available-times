@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
     {
-      "nombre": "Matt Richards",
-      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
-    },
-    {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
@@ -49,20 +45,12 @@
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
     {
-      "nombre": "Margo Aston",
-      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7"
-    },
-    {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
     },
     {
       "nombre": "Lisa Northrup",
       "link": "https://calendar.app.google/jewB15osUK9sPe6e7"
-    },
-    {
-      "nombre": "Alexa Webb",
-      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
     },
     {
       "nombre": "Sydney Donavan",
@@ -114,7 +102,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 28,
+  "total_disponibles": 25,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -269,8 +257,8 @@
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ezra Bloomfield",
@@ -911,8 +899,8 @@
     {
       "nombre": "Margo Aston",
       "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -971,8 +959,8 @@
     {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marianne Osborn",
@@ -1347,5 +1335,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-12T13:10:46.795Z"
+  "actualizado": "2026-09-12T16:25:49.964Z"
 }
