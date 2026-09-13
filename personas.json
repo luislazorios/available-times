@@ -1,20 +1,40 @@
 {
   "personas": [
     {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
+    },
+    {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
     {
+      "nombre": "Rebecca Boren",
+      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
+    },
+    {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
     },
     {
+      "nombre": "Brent Higginson",
+      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
+    },
+    {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -94,7 +114,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 23,
+  "total_disponibles": 28,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -111,8 +131,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -285,8 +305,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -555,8 +575,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tate Larson",
@@ -585,8 +605,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kymberli Draper",
@@ -663,8 +683,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Reed Blau",
@@ -1327,5 +1347,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-13T01:10:39.843Z"
+  "actualizado": "2026-09-13T06:21:14.155Z"
 }
