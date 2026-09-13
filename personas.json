@@ -49,10 +49,6 @@
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
     },
     {
-      "nombre": "Elder Hollinger",
-      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
-    },
-    {
       "nombre": "Samantha Johnson",
       "link": "https://calendar.app.google/8Qqd4346prribAD2A"
     },
@@ -114,7 +110,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 28,
+  "total_disponibles": 27,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -785,8 +781,8 @@
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Martin",
@@ -1347,5 +1343,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-13T18:59:57.976Z"
+  "actualizado": "2026-09-13T21:20:35.670Z"
 }
