@@ -33,10 +33,6 @@
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
     },
     {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
-    },
-    {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
@@ -118,7 +114,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 29,
+  "total_disponibles": 28,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -609,8 +605,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kymberli Draper",
@@ -1351,5 +1347,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-13T16:29:54.159Z"
+  "actualizado": "2026-09-13T18:59:57.976Z"
 }
