@@ -5,28 +5,12 @@
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
-      "nombre": "Aaron Ludwig",
-      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
-    },
-    {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
-    },
-    {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
-    },
-    {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
-    },
-    {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
+      "nombre": "Jordan Haws",
+      "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8"
     }
   ],
-  "revisados": 205,
-  "total_disponibles": 6,
+  "revisados": 206,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -799,8 +783,8 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Caroline Williams",
@@ -1007,10 +991,16 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
+      "nombre": "Jordan Haws",
+      "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8",
       "tiene_cita": true,
       "motivo": "TIENE HORARIOS"
+    },
+    {
+      "nombre": "Eric Conover",
+      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tana Grames",
@@ -1027,8 +1017,8 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Holladay",
@@ -1057,8 +1047,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Hunter",
@@ -1069,8 +1059,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1259,5 +1249,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-14T18:47:12.937Z"
+  "actualizado": "2026-09-14T22:20:29.394Z"
 }
