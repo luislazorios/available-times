@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Curtis Whiting",
-      "link": "https://calendar.app.google/npBodoDT3DAw93Nz7"
-    }
-  ],
+  "personas": [],
   "revisados": 206,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1115,8 +1110,8 @@
     {
       "nombre": "Curtis Whiting",
       "link": "https://calendar.app.google/npBodoDT3DAw93Nz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Corbin Ray",
@@ -1245,5 +1240,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-15T05:58:16.273Z"
+  "actualizado": "2026-09-15T11:17:45.732Z"
 }
