@@ -1,8 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
+      "nombre": "Curtis Whiting",
+      "link": "https://calendar.app.google/npBodoDT3DAw93Nz7"
     }
   ],
   "revisados": 206,
@@ -1013,8 +1013,8 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Holladay",
@@ -1115,8 +1115,8 @@
     {
       "nombre": "Curtis Whiting",
       "link": "https://calendar.app.google/npBodoDT3DAw93Nz7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Corbin Ray",
@@ -1245,5 +1245,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-15T00:46:01.571Z"
+  "actualizado": "2026-09-15T05:58:16.273Z"
 }
