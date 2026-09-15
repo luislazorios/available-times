@@ -1,16 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Lucy Todd",
-      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
-    },
-    {
-      "nombre": "Jordan Haws",
-      "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8"
+      "nombre": "Allen Graff",
+      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     }
   ],
   "revisados": 206,
-  "total_disponibles": 2,
+  "total_disponibles": 1,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -627,8 +623,8 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kim Wheeler",
@@ -993,8 +989,8 @@
     {
       "nombre": "Jordan Haws",
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Eric Conover",
@@ -1017,8 +1013,8 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Holladay",
@@ -1249,5 +1245,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-14T22:20:29.394Z"
+  "actualizado": "2026-09-15T00:46:01.571Z"
 }
