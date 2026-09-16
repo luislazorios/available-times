@@ -1,12 +1,7 @@
 {
-  "personas": [
-    {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    }
-  ],
+  "personas": [],
   "revisados": 206,
-  "total_disponibles": 1,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -197,8 +192,8 @@
     {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jenisy Arnegård",
@@ -1245,5 +1240,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-16T05:17:06.981Z"
+  "actualizado": "2026-09-16T10:05:43.662Z"
 }
