@@ -1,6 +1,6 @@
 {
   "personas": [],
-  "revisados": 206,
+  "revisados": 205,
   "total_disponibles": 0,
   "detalle": [
     {
@@ -694,12 +694,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Tatiana Moura",
-      "link": "https://calendar.app.google/e896ahdUNdMGD4K77",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
       "nombre": "Christina Smith",
       "link": "https://calendar.app.google/WNVpgZeTaNPTCFwY9",
       "tiene_cita": false,
@@ -1240,5 +1234,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-16T18:59:46.290Z"
+  "actualizado": "2026-09-16T22:00:33.573Z"
 }
