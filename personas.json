@@ -1,44 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Cheryl Rosenberg",
-      "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7"
-    },
-    {
-      "nombre": "Franz Sidney",
-      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6"
-    },
-    {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
-    },
-    {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
-    },
-    {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
     },
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
-      "nombre": "Dane Struve",
-      "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
       "nombre": "Elder Sungalu",
@@ -57,16 +25,12 @@
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8"
     },
     {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
-    },
-    {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     }
   ],
   "revisados": 205,
-  "total_disponibles": 16,
+  "total_disponibles": 7,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -473,8 +437,8 @@
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elisabeth Maughan",
@@ -569,8 +533,8 @@
     {
       "nombre": "Franz Sidney",
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Johnny Johnson",
@@ -671,8 +635,8 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -701,14 +665,14 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Cantarero",
@@ -725,8 +689,8 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tamara Foote",
@@ -971,8 +935,8 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Luke Arnott",
@@ -1085,8 +1049,8 @@
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Zach Carter",
@@ -1259,8 +1223,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Erica Taney",
@@ -1299,5 +1263,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-17T14:48:35.355Z"
+  "actualizado": "2026-09-17T18:53:58.530Z"
 }
