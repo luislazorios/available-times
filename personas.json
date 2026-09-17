@@ -1,7 +1,84 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
+      "nombre": "James Jensen",
+      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767"
+    },
+    {
+      "nombre": "Franz Sidney",
+      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
+    },
+    {
+      "nombre": "Ann Fenton",
+      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
+    },
+    {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
+    },
+    {
+      "nombre": "Ralph C Lewis",
+      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
+    },
+    {
+      "nombre": "katherine Baxter",
+      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
+    },
+    {
+      "nombre": "Elder Harris",
+      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
+    },
+    {
+      "nombre": "Brent Baugh",
+      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
+    },
+    {
+      "nombre": "Jenny Draper",
+      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
+    },
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
+    },
+    {
+      "nombre": "Lindsay Dance",
+      "link": "https://calendar.app.google/knVhiWzyUsukrrQH6"
+    },
+    {
+      "nombre": "Sister Clark",
+      "link": "https://calendar.app.google/4so8BR62KznpWNN97"
+    },
+    {
+      "nombre": "Sister Raskey",
+      "link": "https://calendar.app.google/dSquAApaiQurGWTc8"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
+    },
+    {
+      "nombre": "Sharon Elwell",
+      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
+    },
+    {
+      "nombre": "Lina Fotmuller",
+      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
+    }
+  ],
   "revisados": 205,
-  "total_disponibles": 0,
+  "total_disponibles": 19,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -18,8 +95,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -306,8 +383,8 @@
     {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ty Wakefield",
@@ -504,8 +581,8 @@
     {
       "nombre": "Franz Sidney",
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Johnny Johnson",
@@ -570,8 +647,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Reed Blau",
@@ -606,8 +683,8 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nicole Remund",
@@ -636,14 +713,14 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Cantarero",
@@ -654,14 +731,14 @@
     {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tamara Foote",
@@ -720,8 +797,8 @@
     {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Davies",
@@ -846,8 +923,8 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Alexa Webb",
@@ -906,8 +983,8 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Luke Arnott",
@@ -961,7 +1038,7 @@
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Claire Long",
@@ -1092,8 +1169,8 @@
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1140,8 +1217,8 @@
     {
       "nombre": "Lindsay Dance",
       "link": "https://calendar.app.google/knVhiWzyUsukrrQH6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Emily MacLean",
@@ -1152,8 +1229,8 @@
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Jones",
@@ -1170,8 +1247,8 @@
     {
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jonas Hagman",
@@ -1194,8 +1271,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Erica Taney",
@@ -1206,14 +1283,14 @@
     {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1234,5 +1311,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-17T00:16:52.532Z"
+  "actualizado": "2026-09-17T05:03:38.121Z"
 }
