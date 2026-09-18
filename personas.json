@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Nancy Moore",
+      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
+    },
+    {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
     },
@@ -22,7 +26,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 5,
+  "total_disponibles": 6,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -69,8 +73,8 @@
     {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jacob Nelson",
@@ -796,7 +800,7 @@
       "nombre": "Caroline Williams",
       "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Marcy Burr",
@@ -1255,5 +1259,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-17T22:00:16.045Z"
+  "actualizado": "2026-09-18T00:01:39.086Z"
 }
