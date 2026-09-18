@@ -326,7 +326,7 @@
       "nombre": "Kathy Villeda",
       "link": "https://calendar.app.google/LKpXKziRJ2LtpTSs9",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "James Jensen",
@@ -1259,5 +1259,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-18T17:16:37.403Z"
+  "actualizado": "2026-09-18T19:46:18.151Z"
 }
