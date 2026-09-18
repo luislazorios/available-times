@@ -25,28 +25,12 @@
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     },
     {
-      "nombre": "Aaron Ludwig",
-      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
-    },
-    {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
     },
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
-    },
-    {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
-    },
-    {
-      "nombre": "Amy Zinn",
-      "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6"
-    },
-    {
-      "nombre": "Heidi Henderson",
-      "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77"
     },
     {
       "nombre": "Elder Sungalu",
@@ -62,7 +46,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 15,
+  "total_disponibles": 11,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -829,8 +813,8 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Caroline Williams",
@@ -991,8 +975,8 @@
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lynzy Gonzales",
@@ -1003,8 +987,8 @@
     {
       "nombre": "Amy Zinn",
       "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sarah Leigh",
@@ -1015,8 +999,8 @@
     {
       "nombre": "Heidi Henderson",
       "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1058,7 +1042,7 @@
       "nombre": "Sister Hansen",
       "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Allen Graff",
@@ -1295,5 +1279,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-18T09:07:54.619Z"
+  "actualizado": "2026-09-18T13:43:18.450Z"
 }
