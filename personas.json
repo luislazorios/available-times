@@ -109,10 +109,6 @@
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
     },
     {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
-    },
-    {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98"
     },
@@ -146,7 +142,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 36,
+  "total_disponibles": 35,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1189,8 +1185,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1379,5 +1375,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-19T09:39:18.561Z"
+  "actualizado": "2026-09-19T13:26:50.271Z"
 }
