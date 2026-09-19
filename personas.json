@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
@@ -69,16 +65,8 @@
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
     },
     {
-      "nombre": "Samantha Johnson",
-      "link": "https://calendar.app.google/8Qqd4346prribAD2A"
-    },
-    {
       "nombre": "Kerri Andersen",
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
-    },
-    {
-      "nombre": "Elder Harris",
-      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7"
     },
     {
       "nombre": "Grace Olsen",
@@ -129,10 +117,6 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     },
     {
-      "nombre": "Erica Taney",
-      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     },
@@ -142,7 +126,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 35,
+  "total_disponibles": 31,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -159,8 +143,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -825,8 +809,8 @@
     {
       "nombre": "Samantha Johnson",
       "link": "https://calendar.app.google/8Qqd4346prribAD2A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jacobie Hoopes",
@@ -861,8 +845,8 @@
     {
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Davies",
@@ -1341,8 +1325,8 @@
     {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sharon Elwell",
@@ -1375,5 +1359,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-19T13:26:50.271Z"
+  "actualizado": "2026-09-19T16:51:21.334Z"
 }
