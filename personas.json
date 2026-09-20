@@ -41,10 +41,6 @@
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
     },
     {
-      "nombre": "Elder Jolley",
-      "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
-    },
-    {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
     },
@@ -142,7 +138,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 35,
+  "total_disponibles": 34,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -501,8 +497,8 @@
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Norma Shepperd",
@@ -1375,5 +1371,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-20T12:17:26.239Z"
+  "actualizado": "2026-09-20T16:18:45.286Z"
 }
