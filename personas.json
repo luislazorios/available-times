@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
+      "nombre": "Nicholas Budd",
+      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
+    },
+    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
@@ -25,12 +29,20 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
+      "nombre": "Donna Cardon",
+      "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
+    },
+    {
       "nombre": "Jason Nielson",
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9"
     },
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
+    },
+    {
+      "nombre": "Elder Jolley",
+      "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
     },
     {
       "nombre": "Sierra Herrick",
@@ -51,10 +63,6 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
-    },
-    {
-      "nombre": "Sister Spackman",
-      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
     },
     {
       "nombre": "Sarah Idiart",
@@ -121,10 +129,6 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
     {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97"
-    },
-    {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     },
@@ -138,7 +142,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 34,
+  "total_disponibles": 35,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -179,8 +183,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nancy Moore",
@@ -347,8 +351,8 @@
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elizabeth Martinez",
@@ -497,8 +501,8 @@
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Norma Shepperd",
@@ -707,8 +711,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Reed Blau",
@@ -1289,8 +1293,8 @@
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Jones",
@@ -1371,5 +1375,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-20T07:02:30.201Z"
+  "actualizado": "2026-09-20T12:17:26.239Z"
 }
