@@ -1,20 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
-      "nombre": "Nicholas Budd",
-      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
-    },
-    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
-    },
-    {
-      "nombre": "Cole Stearman",
-      "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8"
     },
     {
       "nombre": "Charisse",
@@ -47,10 +35,6 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
-      "nombre": "Sister Crook",
-      "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6"
     },
     {
       "nombre": "Sister Olson",
@@ -138,7 +122,7 @@
     }
   ],
   "revisados": 205,
-  "total_disponibles": 34,
+  "total_disponibles": 30,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -155,8 +139,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -179,8 +163,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nancy Moore",
@@ -215,8 +199,8 @@
     {
       "nombre": "Cole Stearman",
       "link": "https://calendar.app.google/HpKziTFUJ6wwMWZV8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jason Harwood",
@@ -623,8 +607,8 @@
     {
       "nombre": "Sister Crook",
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Brent Higginson",
@@ -1371,5 +1355,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-09-20T23:21:30.788Z"
+  "actualizado": "2026-09-21T01:17:48.154Z"
 }
