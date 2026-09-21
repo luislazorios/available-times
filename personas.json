@@ -5,24 +5,12 @@
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
     },
     {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6"
-    },
-    {
-      "nombre": "Sister Plummer",
-      "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/rQhQB55eavN2GasC7"
-    },
-    {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6"
     }
   ],
-  "revisados": 209,
-  "total_disponibles": 5,
+  "revisados": 210,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -645,8 +633,8 @@
     {
       "nombre": "Kim Wheeler",
       "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kristen Matley",
@@ -1059,12 +1047,18 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Sister Whitney Morgan",
+      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1209,8 +1203,8 @@
     {
       "nombre": "Kim Wheeler",
       "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Raskey",
@@ -1279,5 +1273,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-21T18:51:43.563Z"
+  "actualizado": "2026-09-21T22:31:36.841Z"
 }
