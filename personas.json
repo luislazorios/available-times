@@ -1,6 +1,6 @@
 {
   "personas": [],
-  "revisados": 210,
+  "revisados": 216,
   "total_disponibles": 0,
   "detalle": [
     {
@@ -875,9 +875,9 @@
     },
     {
       "nombre": "Andrew whetten",
-      "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
+      "link": "https://calendar.app.google/5X9UM6BWKFNBmAZ87",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexander Cannon",
@@ -1066,6 +1066,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Helen Williamson",
+      "link": "https://calendar.app.google/kpBiYUqc6JVcbozu8",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "Sister Hunter",
       "link": "https://calendar.app.google/NUdjeGY4vZZLUA7M8",
       "tiene_cita": false,
@@ -1074,6 +1080,12 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Rachel Vogelman",
+      "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1090,8 +1102,26 @@
       "motivo": "sin botones hora"
     },
     {
+      "nombre": "Henry Wheeler",
+      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "Rachel Hopkins",
       "link": "https://calendar.app.google/vX7N1c2z5oGhrXPr7",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Matthew Olsen",
+      "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Garth Knudson",
+      "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1234,6 +1264,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Andrew Whetten",
+      "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
+      "tiene_cita": false,
+      "motivo": "sin botones hora"
+    },
+    {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
       "tiene_cita": false,
@@ -1264,5 +1300,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-22T17:06:45.920Z"
+  "actualizado": "2026-09-22T20:17:56.022Z"
 }
