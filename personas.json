@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
@@ -29,28 +25,16 @@
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
     },
     {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
-    },
-    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
-      "nombre": "Jennifer Tyler",
-      "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8"
-    },
-    {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     }
   ],
   "revisados": 216,
-  "total_disponibles": 12,
+  "total_disponibles": 8,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -475,8 +459,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Justin Ware",
@@ -973,8 +957,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1183,8 +1167,8 @@
     {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emily Felix",
@@ -1297,8 +1281,8 @@
     {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sandra Hancock",
@@ -1349,5 +1333,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-23T06:42:07.634Z"
+  "actualizado": "2026-09-23T12:13:56.065Z"
 }
