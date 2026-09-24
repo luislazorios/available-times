@@ -65,10 +65,6 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
-      "nombre": "Elder Holladay",
-      "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48"
-    },
-    {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
@@ -105,10 +101,6 @@
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8"
     },
     {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
-    },
-    {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     },
@@ -122,7 +114,7 @@
     }
   ],
   "revisados": 218,
-  "total_disponibles": 30,
+  "total_disponibles": 28,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1147,8 +1139,8 @@
     {
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "James McPhie",
@@ -1381,8 +1373,8 @@
     {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sandra Hancock",
@@ -1433,5 +1425,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-24T17:36:03.612Z"
+  "actualizado": "2026-09-24T20:50:05.623Z"
 }
