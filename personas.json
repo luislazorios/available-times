@@ -1,6 +1,18 @@
 {
   "personas": [
     {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
+      "nombre": "Rebecca Boren",
+      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
+    },
+    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
@@ -10,7 +22,7 @@
     }
   ],
   "revisados": 218,
-  "total_disponibles": 2,
+  "total_disponibles": 5,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -27,8 +39,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -471,8 +483,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tate Larson",
@@ -579,8 +591,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Reed Blau",
@@ -1321,5 +1333,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-24T01:32:48.408Z"
+  "actualizado": "2026-09-24T06:47:09.479Z"
 }
