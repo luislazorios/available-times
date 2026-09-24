@@ -1,16 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Nicholas Budd",
-      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
-    },
-    {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9"
-    },
-    {
-      "nombre": "James Jensen",
-      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767"
     },
     {
       "nombre": "Sierra Herrick",
@@ -114,7 +106,7 @@
     }
   ],
   "revisados": 218,
-  "total_disponibles": 28,
+  "total_disponibles": 26,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -155,8 +147,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nancy Moore",
@@ -419,8 +411,8 @@
     {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ty Wakefield",
@@ -1425,5 +1417,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-24T20:50:05.623Z"
+  "actualizado": "2026-09-24T23:50:43.380Z"
 }
