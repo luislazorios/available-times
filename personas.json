@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
-    },
-    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
@@ -14,7 +10,7 @@
     }
   ],
   "revisados": 218,
-  "total_disponibles": 3,
+  "total_disponibles": 2,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -547,8 +543,8 @@
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Laurie Atanasio",
@@ -1325,5 +1321,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-23T23:11:23.788Z"
+  "actualizado": "2026-09-24T01:32:48.408Z"
 }
