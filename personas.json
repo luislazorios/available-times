@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7"
-    },
-    {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9"
     },
@@ -129,16 +125,8 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
-    },
-    {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6"
-    },
-    {
-      "nombre": "Sister Hansen",
-      "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86"
     },
     {
       "nombre": "Stanley Bingham",
@@ -173,6 +161,18 @@
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
     },
     {
+      "nombre": "Max Wilson",
+      "link": "https://calendar.app.google/2ScJokEvcP2sLDTcA"
+    },
+    {
+      "nombre": "Elder Levi",
+      "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7"
+    },
+    {
+      "nombre": "Suzanne Fullmer",
+      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
+    },
+    {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97"
     },
@@ -189,7 +189,7 @@
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     }
   ],
-  "revisados": 218,
+  "revisados": 221,
   "total_disponibles": 47,
   "detalle": [
     {
@@ -393,8 +393,8 @@
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Donna Cardon",
@@ -1125,8 +1125,8 @@
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lynzy Gonzales",
@@ -1197,8 +1197,8 @@
     {
       "nombre": "Sister Hansen",
       "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Allen Graff",
@@ -1363,6 +1363,12 @@
       "motivo": "TIENE HORARIOS"
     },
     {
+      "nombre": "Max Wilson",
+      "link": "https://calendar.app.google/2ScJokEvcP2sLDTcA",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Curtis Whiting",
       "link": "https://calendar.app.google/npBodoDT3DAw93Nz7",
       "tiene_cita": false,
@@ -1375,6 +1381,12 @@
       "motivo": "sin botones hora"
     },
     {
+      "nombre": "Elder Levi",
+      "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Elder Lau",
       "link": "https://calendar.app.google/iV52wAV21uRGXnjG7",
       "tiene_cita": false,
@@ -1385,6 +1397,12 @@
       "link": "https://calendar.app.google/MtHTVTc6YoQ87ANv9",
       "tiene_cita": false,
       "motivo": "sin botones hora"
+    },
+    {
+      "nombre": "Suzanne Fullmer",
+      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1501,5 +1519,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-25T14:47:43.224Z"
+  "actualizado": "2026-09-25T19:13:18.661Z"
 }
