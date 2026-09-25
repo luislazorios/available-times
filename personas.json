@@ -57,6 +57,10 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
+      "nombre": "Jonah Tietjen",
+      "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6"
+    },
+    {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
@@ -81,10 +85,6 @@
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
     },
     {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97"
     },
@@ -99,14 +99,10 @@
     {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
-    },
-    {
-      "nombre": "Lina Fotmuller",
-      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 218,
-  "total_disponibles": 26,
+  "total_disponibles": 25,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1083,8 +1079,8 @@
     {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jordan Haws",
@@ -1311,8 +1307,8 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1395,8 +1391,8 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1417,5 +1413,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-24T23:50:43.380Z"
+  "actualizado": "2026-09-25T03:48:02.201Z"
 }
