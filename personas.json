@@ -113,10 +113,6 @@
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
     {
-      "nombre": "Bonnie Forrest",
-      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
-    },
-    {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
     },
@@ -230,7 +226,7 @@
     }
   ],
   "revisados": 221,
-  "total_disponibles": 57,
+  "total_disponibles": 56,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1033,8 +1029,8 @@
     {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Heather Johnson",
@@ -1559,5 +1555,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-26T14:57:47.398Z"
+  "actualizado": "2026-09-26T18:26:40.028Z"
 }
