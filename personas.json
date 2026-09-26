@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
@@ -217,16 +213,12 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     },
     {
-      "nombre": "Sharon Elwell",
-      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 221,
-  "total_disponibles": 56,
+  "total_disponibles": 54,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -243,8 +235,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -1527,8 +1519,8 @@
     {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lina Fotmuller",
@@ -1555,5 +1547,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-26T18:26:40.028Z"
+  "actualizado": "2026-09-26T21:35:58.606Z"
 }
