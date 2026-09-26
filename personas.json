@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
@@ -137,6 +141,10 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
     {
+      "nombre": "Sister Alatini",
+      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
+    },
+    {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
     },
@@ -190,7 +198,7 @@
     }
   ],
   "revisados": 221,
-  "total_disponibles": 47,
+  "total_disponibles": 49,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -207,8 +215,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -1251,8 +1259,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Helen Williamson",
@@ -1519,5 +1527,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-26T00:55:51.237Z"
+  "actualizado": "2026-09-26T05:58:02.177Z"
 }
