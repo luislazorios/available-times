@@ -125,10 +125,6 @@
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
     },
     {
-      "nombre": "Elise Hall",
-      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7"
-    },
-    {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
@@ -214,7 +210,7 @@
     }
   ],
   "revisados": 221,
-  "total_disponibles": 53,
+  "total_disponibles": 52,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1101,8 +1097,8 @@
     {
       "nombre": "Elise Hall",
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Gall",
@@ -1543,5 +1539,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-27T19:05:58.906Z"
+  "actualizado": "2026-09-27T22:22:36.822Z"
 }
