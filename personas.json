@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
     },
@@ -129,10 +125,6 @@
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9"
     },
     {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
-    },
-    {
       "nombre": "Lisa Northrup",
       "link": "https://calendar.app.google/jewB15osUK9sPe6e7"
     },
@@ -213,10 +205,6 @@
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7"
     },
     {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
-    },
-    {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97"
     },
@@ -238,7 +226,7 @@
     }
   ],
   "revisados": 221,
-  "total_disponibles": 59,
+  "total_disponibles": 56,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -255,8 +243,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -1071,8 +1059,8 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1449,8 +1437,8 @@
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1567,5 +1555,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-27T10:01:22.528Z"
+  "actualizado": "2026-09-27T15:07:12.395Z"
 }
