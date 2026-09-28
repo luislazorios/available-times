@@ -13,10 +13,6 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
-      "nombre": "Ethan Rasmussen",
-      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
-    },
-    {
       "nombre": "Sara Paulsen",
       "link": "https://calendar.app.google/ttpa3u1zir7uCx1b6"
     },
@@ -147,6 +143,10 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
+    },
+    {
+      "nombre": "Sister Alatini",
+      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -557,8 +557,8 @@
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kay Merrell",
@@ -1271,8 +1271,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Helen Williamson",
@@ -1539,5 +1539,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-28T00:58:34.036Z"
+  "actualizado": "2026-09-28T06:25:13.980Z"
 }
