@@ -1,24 +1,8 @@
 {
   "personas": [
     {
-      "nombre": "Nicholas Budd",
-      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
-    },
-    {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
-      "nombre": "Sierra Herrick",
-      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
-    },
-    {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Cheryl Rosenberg",
-      "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -53,10 +37,6 @@
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
     },
     {
-      "nombre": "Elder Hollinger",
-      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
-    },
-    {
       "nombre": "Sister Thompson",
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6"
     },
@@ -89,20 +69,8 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     },
     {
-      "nombre": "James McPhie",
-      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
-    },
-    {
-      "nombre": "Sister Plummer",
-      "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
-    },
-    {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
-    },
-    {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
     },
     {
       "nombre": "Sister Worthington",
@@ -111,14 +79,6 @@
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
-    },
-    {
-      "nombre": "Leslie Thomas",
-      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
-    },
-    {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
     },
     {
       "nombre": "Teresa Walker",
@@ -130,7 +90,7 @@
     }
   ],
   "revisados": 222,
-  "total_disponibles": 32,
+  "total_disponibles": 22,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -171,8 +131,8 @@
     {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nancy Moore",
@@ -513,8 +473,8 @@
     {
       "nombre": "Sierra Herrick",
       "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sara Paulsen",
@@ -531,14 +491,14 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elisabeth Maughan",
@@ -801,8 +761,8 @@
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Martin",
@@ -1161,14 +1121,14 @@
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Dane Struve",
@@ -1191,8 +1151,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Helen Williamson",
@@ -1299,8 +1259,8 @@
     {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Max Wilson",
@@ -1353,8 +1313,8 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Teresa Walker",
@@ -1465,5 +1425,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-29T13:22:49.421Z"
+  "actualizado": "2026-09-29T18:46:13.657Z"
 }
