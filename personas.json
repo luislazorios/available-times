@@ -13,16 +13,16 @@
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
     },
     {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
       "nombre": "Sister Crook",
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6"
     },
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
+    },
+    {
+      "nombre": "Ashley Haslam",
+      "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7"
     },
     {
       "nombre": "Sarah Idiart",
@@ -65,10 +65,6 @@
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
     },
     {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
@@ -95,10 +91,6 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
-    },
-    {
-      "nombre": "Henry Wheeler",
-      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7"
     },
     {
       "nombre": "David Wise",
@@ -129,28 +121,12 @@
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7"
     },
     {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
-    },
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97"
-    },
-    {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
   "revisados": 222,
-  "total_disponibles": 37,
+  "total_disponibles": 31,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -629,8 +605,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Crook",
@@ -707,8 +683,8 @@
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Carolyn Mildenhall",
@@ -1061,8 +1037,8 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Luke Arnott",
@@ -1253,8 +1229,8 @@
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Hopkins",
@@ -1379,8 +1355,8 @@
     {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1397,8 +1373,8 @@
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Jones",
@@ -1433,14 +1409,14 @@
     {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Erica Taney",
@@ -1485,5 +1461,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-28T20:50:40.379Z"
+  "actualizado": "2026-09-29T00:54:21.552Z"
 }
