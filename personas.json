@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Brenley Burton",
+      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A"
+    },
+    {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
     },
@@ -86,7 +90,7 @@
     }
   ],
   "revisados": 226,
-  "total_disponibles": 21,
+  "total_disponibles": 22,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -175,8 +179,8 @@
     {
       "nombre": "Brenley Burton",
       "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Annie Porter",
@@ -1445,5 +1449,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-29T22:55:15.970Z"
+  "actualizado": "2026-09-30T01:55:51.533Z"
 }
