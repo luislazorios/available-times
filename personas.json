@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
-    },
-    {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
     },
@@ -137,11 +133,15 @@
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     },
     {
+      "nombre": "Anne Marie Coleman",
+      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
+    },
+    {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     }
   ],
-  "revisados": 226,
+  "revisados": 227,
   "total_disponibles": 35,
   "detalle": [
     {
@@ -267,8 +267,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Diane Pence",
@@ -1459,6 +1459,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Anne Marie Coleman",
+      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "tiene_cita": false,
@@ -1501,5 +1507,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-30T20:00:12.862Z"
+  "actualizado": "2026-09-30T23:35:51.852Z"
 }
