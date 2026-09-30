@@ -1,14 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Wendy Grainger",
-      "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6"
-    },
-    {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
-    },
-    {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
     },
@@ -33,8 +25,8 @@
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
     {
-      "nombre": "Lucy Todd",
-      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
+      "nombre": "Reed Blau",
+      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
     {
       "nombre": "Elder Mckeon",
@@ -75,10 +67,6 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
-    },
-    {
-      "nombre": "Elise Hall",
-      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7"
     },
     {
       "nombre": "Luke Arnott",
@@ -146,7 +134,7 @@
     }
   ],
   "revisados": 226,
-  "total_disponibles": 36,
+  "total_disponibles": 33,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -170,7 +158,7 @@
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Brooke N",
@@ -181,8 +169,8 @@
     {
       "nombre": "Wendy Grainger",
       "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicholas Budd",
@@ -271,8 +259,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Diane Pence",
@@ -721,8 +709,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -763,8 +751,8 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1033,8 +1021,8 @@
     {
       "nombre": "Elise Hall",
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Gall",
@@ -1505,5 +1493,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-30T08:09:53.486Z"
+  "actualizado": "2026-09-30T15:09:56.768Z"
 }
