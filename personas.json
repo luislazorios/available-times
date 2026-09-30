@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "John Peterson",
+      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
+    },
+    {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
     },
@@ -25,8 +29,16 @@
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
     {
+      "nombre": "Ashley Haslam",
+      "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7"
+    },
+    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
+    },
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
       "nombre": "Elder Mckeon",
@@ -125,16 +137,12 @@
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     },
     {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
-    },
-    {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     }
   ],
   "revisados": 226,
-  "total_disponibles": 33,
+  "total_disponibles": 35,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -158,7 +166,7 @@
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Brooke N",
@@ -259,8 +267,8 @@
     {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Diane Pence",
@@ -691,8 +699,8 @@
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Carolyn Mildenhall",
@@ -751,8 +759,8 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1447,8 +1455,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Erica Taney",
@@ -1493,5 +1501,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-09-30T15:09:56.768Z"
+  "actualizado": "2026-09-30T20:00:12.862Z"
 }
