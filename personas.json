@@ -5,20 +5,12 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
-      "nombre": "Diane Pence",
-      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
-    },
-    {
-      "nombre": "James Jensen",
-      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767"
     },
     {
       "nombre": "Elder Jolley",
@@ -31,10 +23,6 @@
     {
       "nombre": "Sara Paulsen",
       "link": "https://calendar.app.google/ttpa3u1zir7uCx1b6"
-    },
-    {
-      "nombre": "Elisabeth Maughan",
-      "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA"
     },
     {
       "nombre": "Sister Williamson",
@@ -51,10 +39,6 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
     {
       "nombre": "Sister Spackman",
@@ -218,7 +202,7 @@
     }
   ],
   "revisados": 227,
-  "total_disponibles": 54,
+  "total_disponibles": 50,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -349,8 +333,8 @@
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Urbina",
@@ -523,8 +507,8 @@
     {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ty Wakefield",
@@ -631,8 +615,8 @@
     {
       "nombre": "Elisabeth Maughan",
       "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Candace Fielding",
@@ -769,8 +753,8 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashley Haslam",
@@ -1583,5 +1567,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-01T16:45:42.406Z"
+  "actualizado": "2026-10-01T21:38:26.772Z"
 }
