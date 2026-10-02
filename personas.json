@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Lisa Pace",
-      "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7"
-    },
-    {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA"
     },
@@ -71,10 +67,6 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -165,10 +157,6 @@
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9"
     },
     {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
-    },
-    {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
@@ -207,10 +195,6 @@
     {
       "nombre": "Jordan Haws",
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8"
-    },
-    {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
     {
       "nombre": "Stanley Bingham",
@@ -253,10 +237,6 @@
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8"
     },
     {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
     },
@@ -297,16 +277,16 @@
       "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
     },
     {
-      "nombre": "Sharon Elwell",
-      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
+      "nombre": "Chelise Pykles",
+      "link": "https://calendar.app.google/s6j9pZuKbzHQt6bL6"
     },
     {
-      "nombre": "Lina Fotmuller",
-      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
+      "nombre": "Sharon Elwell",
+      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     }
   ],
-  "revisados": 226,
-  "total_disponibles": 76,
+  "revisados": 228,
+  "total_disponibles": 71,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -329,8 +309,8 @@
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Brooke N",
@@ -881,8 +861,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -1139,8 +1119,8 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1295,8 +1275,8 @@
     {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tana Grames",
@@ -1529,8 +1509,8 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Teresa Walker",
@@ -1605,6 +1585,12 @@
       "motivo": "sin botones hora"
     },
     {
+      "nombre": "EmilyLeMasters",
+      "link": "https://calendar.app.google/1r8NzYES3EgNnjak7",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
       "tiene_cita": true,
@@ -1629,6 +1615,12 @@
       "motivo": "sin disponibilidad"
     },
     {
+      "nombre": "Chelise Pykles",
+      "link": "https://calendar.app.google/s6j9pZuKbzHQt6bL6",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Andrew Whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
       "tiene_cita": false,
@@ -1643,8 +1635,8 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1665,5 +1657,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-02T14:00:41.606Z"
+  "actualizado": "2026-10-02T19:07:06.251Z"
 }
