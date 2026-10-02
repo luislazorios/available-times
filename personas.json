@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
-      "nombre": "Donna Cardon",
-      "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
-    },
-    {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
     },
@@ -202,7 +198,7 @@
     }
   ],
   "revisados": 227,
-  "total_disponibles": 50,
+  "total_disponibles": 49,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -411,8 +407,8 @@
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elizabeth Martinez",
@@ -1567,5 +1563,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-01T21:38:26.772Z"
+  "actualizado": "2026-10-02T01:08:15.509Z"
 }
