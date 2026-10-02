@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7"
     },
@@ -241,10 +237,6 @@
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6"
     },
     {
-      "nombre": "Brennan Burnett",
-      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
-    },
-    {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
@@ -293,10 +285,6 @@
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
     },
     {
-      "nombre": "McKinley Adams",
-      "link": "https://calendar.app.google/yAb8qGN7jEjfvNah8"
-    },
-    {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     },
@@ -317,8 +305,8 @@
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     }
   ],
-  "revisados": 227,
-  "total_disponibles": 79,
+  "revisados": 226,
+  "total_disponibles": 76,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -335,8 +323,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -1475,8 +1463,8 @@
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1617,12 +1605,6 @@
       "motivo": "sin botones hora"
     },
     {
-      "nombre": "McKinley Adams",
-      "link": "https://calendar.app.google/yAb8qGN7jEjfvNah8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
       "tiene_cita": true,
@@ -1683,5 +1665,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-02T07:08:25.651Z"
+  "actualizado": "2026-10-02T14:00:41.606Z"
 }
