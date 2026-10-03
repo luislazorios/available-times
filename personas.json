@@ -241,10 +241,6 @@
       "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6"
     },
     {
-      "nombre": "Heidi Henderson",
-      "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77"
-    },
-    {
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA"
     },
@@ -374,7 +370,7 @@
     }
   ],
   "revisados": 228,
-  "total_disponibles": 93,
+  "total_disponibles": 92,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1333,8 +1329,8 @@
     {
       "nombre": "Heidi Henderson",
       "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1745,5 +1741,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-03T08:19:31.684Z"
+  "actualizado": "2026-10-03T13:33:34.528Z"
 }
