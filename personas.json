@@ -261,10 +261,6 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
     {
-      "nombre": "Rachel Vogelman",
-      "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
-    },
-    {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7"
     },
@@ -337,10 +333,6 @@
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA"
     },
     {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
-    },
-    {
       "nombre": "Chelise Pykles",
       "link": "https://calendar.app.google/s6j9pZuKbzHQt6bL6"
     },
@@ -358,7 +350,7 @@
     }
   ],
   "revisados": 228,
-  "total_disponibles": 89,
+  "total_disponibles": 87,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1443,8 +1435,8 @@
     {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1671,8 +1663,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Anne Marie Coleman",
@@ -1729,5 +1721,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-04T18:39:34.176Z"
+  "actualizado": "2026-10-04T21:58:40.198Z"
 }
