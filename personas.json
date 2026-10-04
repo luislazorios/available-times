@@ -357,10 +357,6 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
     },
     {
-      "nombre": "Anne Marie Coleman",
-      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
-    },
-    {
       "nombre": "Chelise Pykles",
       "link": "https://calendar.app.google/s6j9pZuKbzHQt6bL6"
     },
@@ -378,7 +374,7 @@
     }
   ],
   "revisados": 228,
-  "total_disponibles": 94,
+  "total_disponibles": 93,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1697,8 +1693,8 @@
     {
       "nombre": "Anne Marie Coleman",
       "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Erica Taney",
@@ -1749,5 +1745,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-04T09:27:34.620Z"
+  "actualizado": "2026-10-04T15:03:23.530Z"
 }
