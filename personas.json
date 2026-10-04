@@ -5,6 +5,10 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
+      "nombre": "Nancy Moore",
+      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
+    },
+    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
@@ -25,10 +29,6 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
     {
-      "nombre": "Rebecca Stone",
-      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA"
-    },
-    {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
     },
@@ -41,12 +41,12 @@
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7"
     },
     {
-      "nombre": "Amy Chappell",
-      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA"
-    },
-    {
       "nombre": "Jason Nielson",
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9"
+    },
+    {
+      "nombre": "Ethan Rasmussen",
+      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7"
     },
     {
       "nombre": "Elder Jolley",
@@ -119,6 +119,10 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
+    },
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
       "nombre": "Kim Wheeler",
@@ -273,6 +277,10 @@
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
     },
     {
+      "nombre": "Henry Wheeler",
+      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7"
+    },
+    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
@@ -283,6 +291,10 @@
     {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98"
+    },
+    {
+      "nombre": "Brennan Burnett",
+      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
     },
     {
       "nombre": "Elder Sungalu",
@@ -366,7 +378,7 @@
     }
   ],
   "revisados": 228,
-  "total_disponibles": 91,
+  "total_disponibles": 94,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -413,8 +425,8 @@
     {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Jacob Nelson",
@@ -533,8 +545,8 @@
     {
       "nombre": "Rebecca Stone",
       "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Shae",
@@ -617,8 +629,8 @@
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sotckton Lott",
@@ -713,8 +725,8 @@
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kay Merrell",
@@ -983,8 +995,8 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1469,8 +1481,8 @@
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rachel Hopkins",
@@ -1523,8 +1535,8 @@
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1737,5 +1749,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-04T02:47:51.010Z"
+  "actualizado": "2026-10-04T09:27:34.620Z"
 }
