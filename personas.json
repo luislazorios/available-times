@@ -33,10 +33,6 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7"
-    },
-    {
       "nombre": "Jason Nielson",
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9"
     },
@@ -117,10 +113,6 @@
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9"
     },
     {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
-    },
-    {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
     },
@@ -157,14 +149,6 @@
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     },
     {
-      "nombre": "Elder Calvin Smith",
-      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9"
-    },
-    {
-      "nombre": "Cindy Harrison",
-      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7"
-    },
-    {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
@@ -193,10 +177,6 @@
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
     {
-      "nombre": "Alexa Webb",
-      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
-    },
-    {
       "nombre": "Elise Hall",
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7"
     },
@@ -207,10 +187,6 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
     },
     {
       "nombre": "Jesse Sparks",
@@ -239,10 +215,6 @@
     {
       "nombre": "Stanley Bingham",
       "link": "https://calendar.app.google/SvmiZZSKQAAS65x28"
-    },
-    {
-      "nombre": "Elder Holladay",
-      "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48"
     },
     {
       "nombre": "James McPhie",
@@ -321,10 +293,6 @@
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8"
     },
     {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
-    },
-    {
       "nombre": "EmilyLeMasters",
       "link": "https://calendar.app.google/1r8NzYES3EgNnjak7"
     },
@@ -354,7 +322,7 @@
     }
   ],
   "revisados": 228,
-  "total_disponibles": 88,
+  "total_disponibles": 80,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -557,8 +525,8 @@
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Donna Cardon",
@@ -989,8 +957,8 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -1103,8 +1071,8 @@
     {
       "nombre": "Elder Calvin Smith",
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kate Pratt",
@@ -1115,8 +1083,8 @@
     {
       "nombre": "Cindy Harrison",
       "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Raegan Monson",
@@ -1211,8 +1179,8 @@
     {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marianne Osborn",
@@ -1271,8 +1239,8 @@
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
@@ -1379,8 +1347,8 @@
     {
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "James McPhie",
@@ -1637,8 +1605,8 @@
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jonas Hagman",
@@ -1725,5 +1693,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-05T06:15:20.511Z"
+  "actualizado": "2026-10-05T14:59:13.182Z"
 }
