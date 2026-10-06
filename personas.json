@@ -25,8 +25,8 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
     {
-      "nombre": "Jason Nielson",
-      "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9"
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
     },
     {
       "nombre": "Ethan Rasmussen",
@@ -47,10 +47,6 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
-      "nombre": "Justin Ware",
-      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9"
     },
     {
       "nombre": "Ashlyn Whitlock",
@@ -75,10 +71,6 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -175,10 +167,6 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
       "nombre": "Nicole Remund",
@@ -282,7 +270,7 @@
     }
   ],
   "revisados": 228,
-  "total_disponibles": 70,
+  "total_disponibles": 67,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -509,8 +497,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Burgon",
@@ -551,8 +539,8 @@
     {
       "nombre": "Jason Nielson",
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Paul M. Scherbel",
@@ -713,8 +701,8 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Parker Larson",
@@ -857,8 +845,8 @@
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -1217,8 +1205,8 @@
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lynzy Gonzales",
@@ -1653,5 +1641,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-05T21:54:53.711Z"
+  "actualizado": "2026-10-06T02:09:00.629Z"
 }
