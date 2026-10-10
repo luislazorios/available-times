@@ -37,10 +37,6 @@
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
     },
     {
-      "nombre": "Elisabeth Maughan",
-      "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA"
-    },
-    {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
     },
@@ -55,10 +51,6 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
     },
     {
       "nombre": "Sister Olson",
@@ -165,16 +157,8 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
     {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
-    },
-    {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
-    },
-    {
-      "nombre": "Henry Wheeler",
-      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7"
     },
     {
       "nombre": "Sister Worthington",
@@ -238,7 +222,7 @@
     }
   ],
   "revisados": 229,
-  "total_disponibles": 59,
+  "total_disponibles": 55,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -651,8 +635,8 @@
     {
       "nombre": "Elisabeth Maughan",
       "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Candace Fielding",
@@ -771,8 +755,8 @@
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Laurie Atanasio",
@@ -1317,8 +1301,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1341,8 +1325,8 @@
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Hopkins",
@@ -1615,5 +1599,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-10T15:15:45.386Z"
+  "actualizado": "2026-10-10T19:24:10.399Z"
 }
