@@ -153,8 +153,16 @@
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
     },
     {
+      "nombre": "Sister Plummer",
+      "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
+    },
+    {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
+    },
+    {
+      "nombre": "Nathan Brady",
+      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -222,7 +230,7 @@
     }
   ],
   "revisados": 229,
-  "total_disponibles": 55,
+  "total_disponibles": 57,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1259,8 +1267,8 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Dane Struve",
@@ -1301,8 +1309,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1599,5 +1607,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-10T19:24:10.399Z"
+  "actualizado": "2026-10-10T22:47:03.667Z"
 }
