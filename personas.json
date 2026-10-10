@@ -21,10 +21,6 @@
       "link": "https://calendar.app.google/juZuPLdqmbHFqwGFA"
     },
     {
-      "nombre": "Alyssa Burrell",
-      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
@@ -167,6 +163,10 @@
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
+    },
+    {
+      "nombre": "Nathan Brady",
+      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -417,8 +417,8 @@
     {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Douglas Taylor",
@@ -1317,8 +1317,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1615,5 +1615,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-10T09:01:59.148Z"
+  "actualizado": "2026-10-10T15:15:45.386Z"
 }
