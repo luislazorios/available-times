@@ -129,10 +129,6 @@
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
     },
     {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
-    },
-    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
@@ -230,7 +226,7 @@
     }
   ],
   "revisados": 229,
-  "total_disponibles": 57,
+  "total_disponibles": 56,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1147,8 +1143,8 @@
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
@@ -1607,5 +1603,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-10T22:47:03.667Z"
+  "actualizado": "2026-10-11T01:39:17.405Z"
 }
