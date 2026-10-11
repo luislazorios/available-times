@@ -149,6 +149,10 @@
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
     },
     {
+      "nombre": "Andrew whetten",
+      "link": "https://calendar.app.google/5X9UM6BWKFNBmAZ87"
+    },
+    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
@@ -171,10 +175,6 @@
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
-    },
-    {
-      "nombre": "Sister Plummer",
-      "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
     },
     {
       "nombre": "Sister Whitney Morgan",
@@ -1133,8 +1133,8 @@
     {
       "nombre": "Andrew whetten",
       "link": "https://calendar.app.google/5X9UM6BWKFNBmAZ87",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Alexander Cannon",
@@ -1295,8 +1295,8 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Dane Struve",
@@ -1635,5 +1635,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-11T19:26:05.586Z"
+  "actualizado": "2026-10-11T23:12:07.158Z"
 }
