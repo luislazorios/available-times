@@ -153,10 +153,6 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
-      "nombre": "Nicole Remund",
-      "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA"
-    },
-    {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA"
     },
@@ -262,7 +258,7 @@
     }
   ],
   "revisados": 229,
-  "total_disponibles": 65,
+  "total_disponibles": 64,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1227,8 +1223,8 @@
     {
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Claire Long",
@@ -1639,5 +1635,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-11T14:45:52.184Z"
+  "actualizado": "2026-10-11T19:26:05.586Z"
 }
