@@ -153,6 +153,10 @@
       "link": "https://calendar.app.google/5X9UM6BWKFNBmAZ87"
     },
     {
+      "nombre": "Jean Muir",
+      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
+    },
+    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
@@ -258,7 +262,7 @@
     }
   ],
   "revisados": 229,
-  "total_disponibles": 64,
+  "total_disponibles": 65,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1181,8 +1185,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Merrell",
@@ -1635,5 +1639,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-11T23:12:07.158Z"
+  "actualizado": "2026-10-12T02:32:50.924Z"
 }
