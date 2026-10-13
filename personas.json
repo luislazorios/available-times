@@ -17,24 +17,12 @@
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
     {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
-    },
-    {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
     },
     {
-      "nombre": "Lisa Northrup",
-      "link": "https://calendar.app.google/jewB15osUK9sPe6e7"
-    },
-    {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
-    },
-    {
-      "nombre": "Sister Hansen",
-      "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86"
     },
     {
       "nombre": "Allen Graff",
@@ -90,7 +78,7 @@
     }
   ],
   "revisados": 229,
-  "total_disponibles": 22,
+  "total_disponibles": 19,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -695,8 +683,8 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -929,8 +917,8 @@
     {
       "nombre": "Lisa Northrup",
       "link": "https://calendar.app.google/jewB15osUK9sPe6e7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sharlene Gibson",
@@ -1097,8 +1085,8 @@
     {
       "nombre": "Sister Hansen",
       "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Allen Graff",
@@ -1467,5 +1455,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-12T19:42:53.335Z"
+  "actualizado": "2026-10-13T01:41:35.948Z"
 }
