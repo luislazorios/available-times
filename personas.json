@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Theresa Sexton",
-      "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA"
-    },
-    {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
     },
@@ -23,10 +19,6 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
-    },
-    {
-      "nombre": "katherine Baxter",
-      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9"
     },
     {
       "nombre": "Marlea Haberkamp",
@@ -69,10 +61,6 @@
       "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7"
     },
     {
-      "nombre": "Garth Knudson",
-      "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5"
-    },
-    {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
     },
@@ -102,7 +90,7 @@
     }
   ],
   "revisados": 231,
-  "total_disponibles": 25,
+  "total_disponibles": 22,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -161,8 +149,8 @@
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Demetrios Stagikas",
@@ -755,8 +743,8 @@
     {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Marlea Haberkamp",
@@ -1223,8 +1211,8 @@
     {
       "nombre": "Garth Knudson",
       "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "David Wise",
@@ -1491,5 +1479,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-13T21:36:17.698Z"
+  "actualizado": "2026-10-14T00:40:00.465Z"
 }
