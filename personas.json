@@ -89,10 +89,6 @@
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
-    },
-    {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
     },
@@ -142,7 +138,7 @@
     }
   ],
   "revisados": 231,
-  "total_disponibles": 35,
+  "total_disponibles": 34,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1221,8 +1217,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1531,5 +1527,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-14T19:44:50.132Z"
+  "actualizado": "2026-10-14T23:03:59.829Z"
 }
