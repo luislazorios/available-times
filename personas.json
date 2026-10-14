@@ -69,10 +69,6 @@
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
     },
     {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
-    },
-    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
@@ -91,6 +87,10 @@
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
+    },
+    {
+      "nombre": "Nathan Brady",
+      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -121,10 +121,6 @@
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
     },
     {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49"
-    },
-    {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     },
@@ -146,7 +142,7 @@
     }
   ],
   "revisados": 231,
-  "total_disponibles": 36,
+  "total_disponibles": 35,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1069,8 +1065,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1225,8 +1221,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1405,8 +1401,8 @@
     {
       "nombre": "Sister Evie Vaughn",
       "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1535,5 +1531,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-14T15:31:44.606Z"
+  "actualizado": "2026-10-14T19:44:50.132Z"
 }
