@@ -1,6 +1,10 @@
 {
   "personas": [
     {
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
+    },
+    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
@@ -27,6 +31,10 @@
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
     },
     {
       "nombre": "Lucy Todd",
@@ -77,16 +85,16 @@
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
     {
+      "nombre": "Tana Grames",
+      "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA"
+    },
+    {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     },
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
-    },
-    {
-      "nombre": "Rachel Vogelman",
-      "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
     },
     {
       "nombre": "Henry Wheeler",
@@ -134,7 +142,7 @@
     }
   ],
   "revisados": 231,
-  "total_disponibles": 33,
+  "total_disponibles": 35,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -151,8 +159,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lisa Pace",
@@ -164,7 +172,7 @@
       "nombre": "Brooke N",
       "link": "https://calendar.app.google/GUdtEdetjovprLxW7",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Wendy Grainger",
@@ -703,8 +711,8 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Reed Blau",
@@ -1129,8 +1137,8 @@
     {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Haylee Coots",
@@ -1219,8 +1227,8 @@
     {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1523,5 +1531,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-15T01:27:17.113Z"
+  "actualizado": "2026-10-15T06:28:41.392Z"
 }
