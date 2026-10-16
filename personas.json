@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA"
     },
     {
-      "nombre": "Stacy Woods",
-      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
-    },
-    {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
@@ -29,6 +25,10 @@
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9"
     },
     {
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
+    },
+    {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA"
     },
@@ -43,10 +43,6 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
     },
     {
       "nombre": "Sister Randall",
@@ -173,10 +169,6 @@
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8"
     },
     {
-      "nombre": "Tana Grames",
-      "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA"
-    },
-    {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     },
@@ -277,8 +269,8 @@
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     }
   ],
-  "revisados": 231,
-  "total_disponibles": 69,
+  "revisados": 232,
+  "total_disponibles": 67,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -379,8 +371,8 @@
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Charisse",
@@ -395,10 +387,10 @@
       "motivo": "sin botones hora"
     },
     {
-      "nombre": "Jessica Erickson",
-      "link": "https://calendar.app.google/5J8JFeW76fzgkyiw5",
+      "nombre": "Trina Jacobson",
+      "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Peterson",
@@ -505,8 +497,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "John Burgon",
@@ -703,8 +695,8 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Justin Ware",
@@ -1273,8 +1265,8 @@
     {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Haylee Coots",
@@ -1665,7 +1657,13 @@
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "tiene_cita": true,
       "motivo": "TIENE HORARIOS"
+    },
+    {
+      "nombre": "Sister McKinley Adams",
+      "link": "https://calendar.app.google/yAb8qGN7jEjfvNah8",
+      "tiene_cita": false,
+      "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-16T11:43:42.632Z"
+  "actualizado": "2026-10-16T15:37:43.163Z"
 }
