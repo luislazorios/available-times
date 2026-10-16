@@ -21,10 +21,6 @@
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7"
-    },
-    {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
     },
@@ -125,10 +121,6 @@
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
     },
     {
-      "nombre": "Kate Brown",
-      "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8"
-    },
-    {
       "nombre": "Elder Brigham Bailey",
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     },
@@ -201,10 +193,6 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
     {
-      "nombre": "Henry Wheeler",
-      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7"
-    },
-    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
@@ -235,10 +223,6 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
     },
     {
       "nombre": "Sister McDowell",
@@ -294,7 +278,7 @@
     }
   ],
   "revisados": 231,
-  "total_disponibles": 73,
+  "total_disponibles": 69,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -497,8 +481,8 @@
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Donna Cardon",
@@ -1031,8 +1015,8 @@
     {
       "nombre": "Kate Brown",
       "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Brigham Bailey",
@@ -1397,8 +1381,8 @@
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Hopkins",
@@ -1452,7 +1436,7 @@
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1517,8 +1501,8 @@
     {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1683,5 +1667,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-16T06:24:33.449Z"
+  "actualizado": "2026-10-16T11:43:42.632Z"
 }
