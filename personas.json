@@ -245,10 +245,6 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
     {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
-    },
-    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
@@ -342,7 +338,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 85,
+  "total_disponibles": 84,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1421,8 +1417,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1737,5 +1733,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-17T09:12:13.694Z"
+  "actualizado": "2026-10-17T13:05:34.233Z"
 }
