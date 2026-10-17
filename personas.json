@@ -41,10 +41,6 @@
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767"
     },
     {
-      "nombre": "Elder Jolley",
-      "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
-    },
-    {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
     },
@@ -266,7 +262,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 66,
+  "total_disponibles": 65,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -625,8 +621,8 @@
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Norma Shepperd",
@@ -1661,5 +1657,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-17T00:38:20.111Z"
+  "actualizado": "2026-10-17T05:02:00.753Z"
 }
