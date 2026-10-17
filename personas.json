@@ -161,10 +161,6 @@
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
     },
     {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
-    },
-    {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6"
     },
@@ -270,7 +266,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 67,
+  "total_disponibles": 66,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1205,8 +1201,8 @@
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lynzy Gonzales",
@@ -1665,5 +1661,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-16T22:11:31.843Z"
+  "actualizado": "2026-10-17T00:38:20.111Z"
 }
