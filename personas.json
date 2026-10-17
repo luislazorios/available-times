@@ -185,10 +185,6 @@
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
     },
     {
-      "nombre": "Lisa Northrup",
-      "link": "https://calendar.app.google/jewB15osUK9sPe6e7"
-    },
-    {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
@@ -342,7 +338,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 85,
+  "total_disponibles": 84,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1181,8 +1177,8 @@
     {
       "nombre": "Lisa Northrup",
       "link": "https://calendar.app.google/jewB15osUK9sPe6e7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sharlene Gibson",
@@ -1737,5 +1733,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-17T18:52:41.425Z"
+  "actualizado": "2026-10-17T21:19:58.709Z"
 }
