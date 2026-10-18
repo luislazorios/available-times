@@ -93,10 +93,6 @@
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6"
     },
     {
-      "nombre": "Franz Sidney",
-      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6"
-    },
-    {
       "nombre": "Laurie Atanasio",
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8"
     },
@@ -334,7 +330,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 83,
+  "total_disponibles": 82,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -837,8 +833,8 @@
     {
       "nombre": "Franz Sidney",
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Johnny Johnson",
@@ -1729,5 +1725,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-18T20:14:37.744Z"
+  "actualizado": "2026-10-18T22:32:54.671Z"
 }
