@@ -97,10 +97,6 @@
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6"
     },
     {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
-    },
-    {
       "nombre": "Laurie Atanasio",
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8"
     },
@@ -127,10 +123,6 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
-    },
-    {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
     },
     {
       "nombre": "Lucy Todd",
@@ -245,10 +237,6 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     },
     {
-      "nombre": "Stanley Bingham",
-      "link": "https://calendar.app.google/SvmiZZSKQAAS65x28"
-    },
-    {
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48"
     },
@@ -259,10 +247,6 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
-    },
-    {
-      "nombre": "Dane Struve",
-      "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
       "nombre": "Sister Whitney Morgan",
@@ -341,10 +325,6 @@
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     },
     {
-      "nombre": "Amber Hunter",
-      "link": "https://calendar.app.google/pkHNEViKbjPU6Et97"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     },
@@ -358,7 +338,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 89,
+  "total_disponibles": 84,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -891,8 +871,8 @@
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Laurie Atanasio",
@@ -963,8 +943,8 @@
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1377,8 +1357,8 @@
     {
       "nombre": "Stanley Bingham",
       "link": "https://calendar.app.google/SvmiZZSKQAAS65x28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Elder Holladay",
@@ -1401,8 +1381,8 @@
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Whitney Morgan",
@@ -1695,8 +1675,8 @@
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lina Fotmuller",
@@ -1753,5 +1733,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-18T14:51:52.365Z"
+  "actualizado": "2026-10-18T17:55:51.589Z"
 }
