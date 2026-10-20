@@ -45,10 +45,6 @@
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
     },
     {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
-    },
-    {
       "nombre": "Sister Crook",
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6"
     },
@@ -113,18 +109,6 @@
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
     },
     {
-      "nombre": "Jennalyn Stuart",
-      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9"
-    },
-    {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
-    },
-    {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5"
     },
@@ -167,10 +151,6 @@
     {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
-    },
-    {
-      "nombre": "Emily Felix",
-      "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6"
     },
     {
       "nombre": "Lauryn Spilsbury",
@@ -217,16 +197,12 @@
       "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
     },
     {
-      "nombre": "Lina Fotmuller",
-      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
-    },
-    {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     }
   ],
   "revisados": 232,
-  "total_disponibles": 56,
+  "total_disponibles": 50,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -705,8 +681,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Crook",
@@ -1047,8 +1023,8 @@
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sara Apke",
@@ -1059,8 +1035,8 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1077,8 +1053,8 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexa Webb",
@@ -1371,8 +1347,8 @@
     {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lauryn Spilsbury",
@@ -1569,8 +1545,8 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Daiana Ismagilova",
@@ -1621,5 +1597,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-19T21:48:30.514Z"
+  "actualizado": "2026-10-20T00:59:23.202Z"
 }
