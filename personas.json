@@ -53,10 +53,6 @@
       "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA"
     },
     {
-      "nombre": "Sydney Donavan",
-      "link": "https://calendar.app.google/XchFkxQmMag6F5VJA"
-    },
-    {
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA"
     },
@@ -93,10 +89,6 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
     {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
-    },
-    {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
     },
@@ -105,12 +97,8 @@
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
     },
     {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
+      "nombre": "Sharon Elwell",
+      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     },
     {
       "nombre": "Jason Christensen",
@@ -118,7 +106,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 29,
+  "total_disponibles": 26,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1023,8 +1011,8 @@
     {
       "nombre": "Sydney Donavan",
       "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jenny Draper",
@@ -1323,8 +1311,8 @@
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1395,8 +1383,8 @@
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jonas Hagman",
@@ -1425,8 +1413,8 @@
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Anne Marie Coleman",
@@ -1449,8 +1437,8 @@
     {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Amber Hunter",
@@ -1513,5 +1501,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-20T19:38:18.205Z"
+  "actualizado": "2026-10-20T22:42:24.275Z"
 }
