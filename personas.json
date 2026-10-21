@@ -137,10 +137,6 @@
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
-    },
-    {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
     },
@@ -177,10 +173,6 @@
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
     },
     {
-      "nombre": "Sharon Elwell",
-      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
-    },
-    {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA"
     },
@@ -190,7 +182,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 47,
+  "total_disponibles": 45,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -916,7 +908,7 @@
       "nombre": "Elder Harris",
       "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Davies",
@@ -1251,8 +1243,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Helen Williamson",
@@ -1521,8 +1513,8 @@
     {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Amber Hunter",
@@ -1585,5 +1577,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-21T05:55:29.290Z"
+  "actualizado": "2026-10-21T11:21:16.083Z"
 }
