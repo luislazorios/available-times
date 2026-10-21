@@ -5,20 +5,12 @@
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
     },
     {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
-    },
-    {
-      "nombre": "Caroline Owens",
-      "link": "https://calendar.app.google/7p1LN5wXJiU3KJa29"
     },
     {
       "nombre": "James Jensen",
@@ -47,10 +39,6 @@
     {
       "nombre": "Laurie Atanasio",
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8"
-    },
-    {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
     {
       "nombre": "Rebecca Holmstrom",
@@ -166,7 +154,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 41,
+  "total_disponibles": 38,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -309,8 +297,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nathan Johnson",
@@ -453,8 +441,8 @@
     {
       "nombre": "Caroline Owens",
       "link": "https://calendar.app.google/7p1LN5wXJiU3KJa29",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Cheryl Hawker",
@@ -717,8 +705,8 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashley Haslam",
@@ -1561,5 +1549,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-21T16:03:56.760Z"
+  "actualizado": "2026-10-21T20:07:39.550Z"
 }
