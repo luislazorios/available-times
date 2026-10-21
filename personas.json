@@ -61,10 +61,6 @@
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
     {
-      "nombre": "Elder Holladay",
-      "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48"
-    },
-    {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
@@ -106,7 +102,7 @@
     }
   ],
   "revisados": 232,
-  "total_disponibles": 26,
+  "total_disponibles": 25,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1131,8 +1127,8 @@
     {
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "James McPhie",
@@ -1501,5 +1497,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-20T22:42:24.275Z"
+  "actualizado": "2026-10-21T01:01:24.512Z"
 }
