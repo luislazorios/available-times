@@ -89,10 +89,6 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
-    },
-    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
@@ -125,14 +121,6 @@
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
     {
-      "nombre": "Brennan Burnett",
-      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
-    },
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
     },
@@ -145,16 +133,20 @@
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
     },
     {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
-    },
-    {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA"
+    },
+    {
+      "nombre": "Aaron Larson",
+      "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6"
+    },
+    {
+      "nombre": "Conway Sherwood",
+      "link": "https://calendar.app.google/zsMkGYRezChnpncc8"
     }
   ],
-  "revisados": 232,
-  "total_disponibles": 38,
+  "revisados": 237,
+  "total_disponibles": 36,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1071,8 +1063,8 @@
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
@@ -1311,14 +1303,14 @@
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Leslie Thomas",
@@ -1431,8 +1423,8 @@
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jonas Hagman",
@@ -1547,7 +1539,37 @@
       "link": "https://calendar.app.google/yAb8qGN7jEjfvNah8",
       "tiene_cita": false,
       "motivo": "sin botones hora"
+    },
+    {
+      "nombre": "Spencer Greenwood",
+      "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Aaron Larson",
+      "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
+      "nombre": "Eli Rex",
+      "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Chris Allen",
+      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Conway Sherwood",
+      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-21T20:07:39.550Z"
+  "actualizado": "2026-10-21T23:29:59.719Z"
 }
