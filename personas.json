@@ -81,10 +81,6 @@
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
     },
     {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
-    },
-    {
       "nombre": "Elder Brigham Bailey",
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
     },
@@ -99,10 +95,6 @@
     {
       "nombre": "Heather Johnson",
       "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA"
-    },
-    {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
     },
     {
       "nombre": "Jenny Draper",
@@ -141,10 +133,6 @@
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
     },
     {
-      "nombre": "Garth Knudson",
-      "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5"
-    },
-    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
     },
@@ -175,14 +163,10 @@
     {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA"
-    },
-    {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     }
   ],
   "revisados": 232,
-  "total_disponibles": 45,
+  "total_disponibles": 41,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -871,8 +855,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Thompson",
@@ -1015,8 +999,8 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1303,8 +1287,8 @@
     {
       "nombre": "Garth Knudson",
       "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "David Wise",
@@ -1567,8 +1551,8 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister McKinley Adams",
@@ -1577,5 +1561,5 @@
       "motivo": "sin botones hora"
     }
   ],
-  "actualizado": "2026-10-21T11:21:16.083Z"
+  "actualizado": "2026-10-21T16:03:56.760Z"
 }
