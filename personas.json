@@ -1,28 +1,12 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
-    },
-    {
-      "nombre": "Rebecca Stone",
-      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA"
-    },
-    {
       "nombre": "Emma Boyer",
       "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
     },
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
-    },
-    {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6"
     },
     {
       "nombre": "John Burgon",
@@ -71,10 +55,6 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Rebecca Holmstrom",
-      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
     {
       "nombre": "Barbara Baugh",
@@ -145,10 +125,6 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
     {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
-    },
-    {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
@@ -167,10 +143,6 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
-    },
-    {
-      "nombre": "James McPhie",
-      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
     },
     {
       "nombre": "Dane Struve",
@@ -250,7 +222,7 @@
     }
   ],
   "revisados": 237,
-  "total_disponibles": 62,
+  "total_disponibles": 55,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -267,8 +239,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -393,8 +365,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nathan Johnson",
@@ -417,8 +389,8 @@
     {
       "nombre": "Rebecca Stone",
       "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Shae",
@@ -477,8 +449,8 @@
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Burgon",
@@ -831,8 +803,8 @@
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Baugh",
@@ -1173,8 +1145,8 @@
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1281,8 +1253,8 @@
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Plummer",
@@ -1675,5 +1647,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-22T07:14:58.204Z"
+  "actualizado": "2026-10-22T13:06:00.600Z"
 }
