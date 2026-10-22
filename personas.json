@@ -177,8 +177,8 @@
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
     },
     {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
+      "nombre": "Bonnie Webber",
+      "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8"
     },
     {
       "nombre": "Sister McDowell",
@@ -213,16 +213,12 @@
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA"
     },
     {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
-    },
-    {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6"
     }
   ],
   "revisados": 237,
-  "total_disponibles": 55,
+  "total_disponibles": 54,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1433,14 +1429,14 @@
     {
       "nombre": "Bonnie Webber",
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Teresa Walker",
@@ -1607,8 +1603,8 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister McKinley Adams",
@@ -1647,5 +1643,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-22T13:06:00.600Z"
+  "actualizado": "2026-10-22T18:06:41.403Z"
 }
