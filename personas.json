@@ -117,10 +117,6 @@
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
     {
-      "nombre": "Andrew whetten",
-      "link": "https://calendar.app.google/5X9UM6BWKFNBmAZ87"
-    },
-    {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
     },
@@ -171,6 +167,10 @@
     {
       "nombre": "Elder Levi",
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7"
+    },
+    {
+      "nombre": "Ezra Bloomfield",
+      "link": "https://calendar.app.google/T4apU4dyWcxtCXy48"
     },
     {
       "nombre": "Suzanne Fullmer",
@@ -1091,12 +1091,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Andrew whetten",
-      "link": "https://calendar.app.google/5X9UM6BWKFNBmAZ87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
       "nombre": "Alexander Cannon",
       "link": "https://calendar.app.google/AQLP6c5CPJMAMEYE6",
       "tiene_cita": false,
@@ -1415,6 +1409,12 @@
       "motivo": "TIENE HORARIOS"
     },
     {
+      "nombre": "Ezra Bloomfield",
+      "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
       "nombre": "Hailey Moore",
       "link": "https://calendar.app.google/MtHTVTc6YoQ87ANv9",
       "tiene_cita": false,
@@ -1643,5 +1643,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-22T18:06:41.403Z"
+  "actualizado": "2026-10-22T21:48:22.325Z"
 }
