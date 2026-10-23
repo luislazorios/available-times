@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Theresa Sexton",
-      "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA"
-    },
-    {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
     },
@@ -53,6 +49,10 @@
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
     },
     {
+      "nombre": "Rebecca Boren",
+      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9"
+    },
+    {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
     },
@@ -71,10 +71,6 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8"
-    },
-    {
-      "nombre": "Barbara Baugh",
-      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA"
     },
     {
       "nombre": "Ann Fenton",
@@ -179,6 +175,10 @@
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
+    },
+    {
+      "nombre": "Heidi Henderson",
+      "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77"
     },
     {
       "nombre": "Claire Long",
@@ -357,8 +357,8 @@
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Demetrios Stagikas",
@@ -759,8 +759,8 @@
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Tate Larson",
@@ -885,8 +885,8 @@
     {
       "nombre": "Barbara Baugh",
       "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Shaw Jensen",
@@ -1251,8 +1251,8 @@
     {
       "nombre": "Heidi Henderson",
       "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nicole Remund",
@@ -1723,5 +1723,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-23T05:23:48.586Z"
+  "actualizado": "2026-10-23T10:27:54.270Z"
 }
