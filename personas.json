@@ -57,10 +57,6 @@
       "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9"
     },
     {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
-    },
-    {
       "nombre": "Laurie Atanasio",
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8"
     },
@@ -173,10 +169,6 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
-      "nombre": "Heidi Henderson",
-      "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77"
-    },
-    {
       "nombre": "Claire Long",
       "link": "https://calendar.app.google/Lu9ns9cwCEAR2E5k8"
     },
@@ -199,6 +191,10 @@
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
+    },
+    {
+      "nombre": "Sister Alatini",
+      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -282,7 +278,7 @@
     }
   ],
   "revisados": 237,
-  "total_disponibles": 70,
+  "total_disponibles": 69,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -815,8 +811,8 @@
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Laurie Atanasio",
@@ -1235,8 +1231,8 @@
     {
       "nombre": "Heidi Henderson",
       "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1337,8 +1333,8 @@
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Helen Williamson",
@@ -1707,5 +1703,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-23T15:15:10.408Z"
+  "actualizado": "2026-10-23T19:23:57.218Z"
 }
