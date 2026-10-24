@@ -61,10 +61,6 @@
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
     },
     {
-      "nombre": "Elisabeth Maughan",
-      "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA"
-    },
-    {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
     },
@@ -358,7 +354,7 @@
     }
   ],
   "revisados": 237,
-  "total_disponibles": 89,
+  "total_disponibles": 88,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -771,8 +767,8 @@
     {
       "nombre": "Elisabeth Maughan",
       "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Candace Fielding",
@@ -1783,5 +1779,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-24T10:50:53.349Z"
+  "actualizado": "2026-10-24T14:21:09.144Z"
 }
