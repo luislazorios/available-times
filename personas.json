@@ -205,10 +205,6 @@
       "link": "https://calendar.app.google/Lu9ns9cwCEAR2E5k8"
     },
     {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
-    },
-    {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA"
     },
@@ -319,6 +315,10 @@
     {
       "nombre": "Sharon Elwell",
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
+    },
+    {
+      "nombre": "Amber Hunter",
+      "link": "https://calendar.app.google/pkHNEViKbjPU6Et97"
     },
     {
       "nombre": "Lina Fotmuller",
@@ -1325,8 +1325,8 @@
     {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tana Grames",
@@ -1679,8 +1679,8 @@
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Lina Fotmuller",
@@ -1767,5 +1767,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-24T17:34:10.278Z"
+  "actualizado": "2026-10-24T19:49:57.764Z"
 }
