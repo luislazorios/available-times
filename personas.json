@@ -81,10 +81,6 @@
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
     {
-      "nombre": "Shelly Felt",
-      "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9"
-    },
-    {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
     },
@@ -99,10 +95,6 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -123,10 +115,6 @@
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
-    },
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
     },
     {
       "nombre": "Samantha Johnson",
@@ -235,10 +223,6 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
-    },
-    {
-      "nombre": "Dane Struve",
-      "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
     },
     {
       "nombre": "Sister Whitney Morgan",
@@ -350,7 +334,7 @@
     }
   ],
   "revisados": 237,
-  "total_disponibles": 87,
+  "total_disponibles": 83,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -877,8 +861,8 @@
     {
       "nombre": "Shelly Felt",
       "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Mark Warner",
@@ -985,8 +969,8 @@
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ralph C Lewis",
@@ -1027,8 +1011,8 @@
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Samantha Johnson",
@@ -1387,8 +1371,8 @@
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Whitney Morgan",
@@ -1775,5 +1759,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-25T14:11:48.720Z"
+  "actualizado": "2026-10-25T17:45:07.800Z"
 }
