@@ -125,10 +125,6 @@
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6"
     },
     {
-      "nombre": "Curtis Bateman",
-      "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8"
-    },
-    {
       "nombre": "Kerri Andersen",
       "link": "https://calendar.app.google/4Pq3wmWPAps6jtHn7"
     },
@@ -223,10 +219,6 @@
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
-    },
-    {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -338,7 +330,7 @@
     }
   ],
   "revisados": 237,
-  "total_disponibles": 84,
+  "total_disponibles": 82,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1045,8 +1037,8 @@
     {
       "nombre": "Curtis Bateman",
       "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kerri Andersen",
@@ -1411,8 +1403,8 @@
     {
       "nombre": "Nathan Brady",
       "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rachel Vogelman",
@@ -1763,5 +1755,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-24T22:20:24.967Z"
+  "actualizado": "2026-10-25T00:27:21.562Z"
 }
