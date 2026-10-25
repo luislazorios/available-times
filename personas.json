@@ -33,10 +33,6 @@
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
     },
     {
-      "nombre": "John Burgon",
-      "link": "https://calendar.app.google/gTurUDniTKwaxvEr9"
-    },
-    {
       "nombre": "Jason Nielson",
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9"
     },
@@ -79,6 +75,10 @@
     {
       "nombre": "Sister Crook",
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6"
+    },
+    {
+      "nombre": "Brent Higginson",
+      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA"
     },
     {
       "nombre": "Shelly Felt",
@@ -293,16 +293,8 @@
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48"
     },
     {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
-    },
-    {
       "nombre": "Bonnie Webber",
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8"
-    },
-    {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
     },
     {
       "nombre": "Sister McDowell",
@@ -337,10 +329,6 @@
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66"
     },
     {
-      "nombre": "Amber Hunter",
-      "link": "https://calendar.app.google/pkHNEViKbjPU6Et97"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76"
     },
@@ -362,7 +350,7 @@
     }
   ],
   "revisados": 237,
-  "total_disponibles": 90,
+  "total_disponibles": 87,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -595,8 +583,8 @@
     {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Hattie Maughan",
@@ -853,8 +841,8 @@
     {
       "nombre": "Brent Higginson",
       "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Kymberli Draper",
@@ -1567,8 +1555,8 @@
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1585,8 +1573,8 @@
     {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lindsay Dance",
@@ -1699,8 +1687,8 @@
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lina Fotmuller",
@@ -1787,5 +1775,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-25T05:20:29.923Z"
+  "actualizado": "2026-10-25T09:58:48.566Z"
 }
