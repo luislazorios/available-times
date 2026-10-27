@@ -69,10 +69,6 @@
       "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9"
     },
     {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
-    },
-    {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67"
     },
@@ -133,10 +129,6 @@
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8"
     },
     {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
-    },
-    {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
@@ -170,7 +162,7 @@
     }
   ],
   "revisados": 207,
-  "total_disponibles": 42,
+  "total_disponibles": 40,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -733,8 +725,8 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ashley Haslam",
@@ -1129,8 +1121,8 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1415,5 +1407,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-27T19:41:05.851Z"
+  "actualizado": "2026-10-27T23:13:48.395Z"
 }
