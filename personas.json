@@ -9,12 +9,20 @@
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
     {
+      "nombre": "Stacy Woods",
+      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
+    },
+    {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
     },
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
+    },
+    {
+      "nombre": "Elder Doherty",
+      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
     },
     {
       "nombre": "Donna Cardon",
@@ -31,6 +39,14 @@
     {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
+    },
+    {
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
     },
     {
       "nombre": "Sierra Herrick",
@@ -89,10 +105,6 @@
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
     },
     {
-      "nombre": "Elder Hollinger",
-      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
-    },
-    {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
     },
@@ -117,28 +129,12 @@
       "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA"
     },
     {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
+      "nombre": "Aaron Hill",
+      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8"
     },
     {
-      "nombre": "Allison Fullmer",
-      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
-    },
-    {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8"
-    },
-    {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
+      "nombre": "Sister Wright",
+      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     },
     {
       "nombre": "Eric Conover",
@@ -149,64 +145,32 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
     },
     {
-      "nombre": "James McPhie",
-      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A"
-    },
-    {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
-    },
-    {
-      "nombre": "Sister Whitney Morgan",
-      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA"
     },
     {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA"
     },
     {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39"
+      "nombre": "EmilyLeMasters",
+      "link": "https://calendar.app.google/j2Apvistg9f6moX27"
     },
     {
-      "nombre": "Sister Worthington",
-      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
+      "nombre": "Anne Marie Coleman",
+      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
     },
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
     },
     {
-      "nombre": "Leslie Thomas",
-      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
-    },
-    {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
-      "nombre": "Sister McDowell",
-      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
-    },
-    {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49"
-    },
-    {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7"
-    },
-    {
-      "nombre": "Anne Marie Coleman",
-      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
     }
   ],
-  "revisados": 221,
-  "total_disponibles": 51,
+  "revisados": 207,
+  "total_disponibles": 42,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -231,6 +195,12 @@
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Owen Parker",
+      "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA",
+      "tiene_cita": false,
+      "motivo": "sin botones hora"
     },
     {
       "nombre": "Brooke N",
@@ -305,10 +275,16 @@
       "motivo": "sin botones hora"
     },
     {
-      "nombre": "Stacy Woods",
-      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
+      "nombre": "Brent Hansen",
+      "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Stacy Woods",
+      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Charisse",
@@ -401,10 +377,10 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Jenisy Arnegård",
-      "link": "https://calendar.app.google/PxNpxP84QwCkhaHv7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "nombre": "Elder Doherty",
+      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Quinn Beames",
@@ -449,8 +425,8 @@
       "motivo": "TIENE HORARIOS"
     },
     {
-      "nombre": "Ken Bryant",
-      "link": "https://calendar.app.google/3ULPjSkPSSWQwPtz6",
+      "nombre": "Eileen Squires",
+      "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -503,16 +479,16 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Kathy Villeda",
-      "link": "https://calendar.app.google/LKpXKziRJ2LtpTSs9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
       "tiene_cita": true,
       "motivo": "TIENE HORARIOS"
+    },
+    {
+      "nombre": "Jonas Hagman",
+      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ty Wakefield",
@@ -533,20 +509,20 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Cecili Crandall",
-      "link": "https://calendar.app.google/qjkTpcAgsgzAWgfC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Corinne Rands",
-      "link": "https://calendar.app.google/bH8gQPK5E5bKGW6y7",
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
+    },
+    {
+      "nombre": "Rachel Hopkins",
+      "link": "https://calendar.app.google/vX7N1c2z5oGhrXPr7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -569,10 +545,10 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Norma Shepperd",
-      "link": "https://calendar.app.google/hDejfTKnBGY2Uaw67",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Amy Henderson",
@@ -671,10 +647,10 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Tate Larson",
-      "link": "https://calendar.app.google/eLNcMbPbT6urpwxb7",
+      "nombre": "Sister Clark",
+      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Adrian Walton",
@@ -877,8 +853,8 @@
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Martin",
@@ -887,10 +863,10 @@
       "motivo": "TIENE HORARIOS"
     },
     {
-      "nombre": "Samantha Johnson",
-      "link": "https://calendar.app.google/8Qqd4346prribAD2A",
+      "nombre": "Erica Taney",
+      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jacobie Hoopes",
@@ -995,14 +971,14 @@
       "motivo": "sin botones hora"
     },
     {
-      "nombre": "Carter Hill",
-      "link": "https://calendar.app.google/NcbydcaWJbggEhHm9",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
       "nombre": "Margo Aston",
       "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Sister Raskey",
+      "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1057,8 +1033,8 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Alexa Webb",
@@ -1067,20 +1043,14 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Marianne Osborn",
-      "link": "https://calendar.app.google/VUsGkBUJ7KvF6VEd7",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
       "nombre": "Gary Hall",
       "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Alexander Cannon",
-      "link": "https://calendar.app.google/AQLP6c5CPJMAMEYE6",
+      "nombre": "Kim Wheeler",
+      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1091,16 +1061,22 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Elder Gall",
-      "link": "https://calendar.app.google/eGgDiyTVEFdQufbH8",
+      "nombre": "Sister Evie Vaughn",
+      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Aaron Hill",
+      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Allison Fullmer",
       "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sydney Donavan",
@@ -1111,20 +1087,20 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Merrell",
@@ -1135,8 +1111,8 @@
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lynzy Gonzales",
@@ -1153,18 +1129,18 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Heidi Henderson",
-      "link": "https://calendar.app.google/N5HrzQ34akPz2WQ77",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Sister Jones",
+      "link": "https://calendar.app.google/a68jsMYqBMVRdwyK6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -1231,8 +1207,8 @@
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Plummer",
@@ -1249,8 +1225,8 @@
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jason Christensen",
@@ -1277,16 +1253,16 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Nathan Brady",
-      "link": "https://calendar.app.google/4QGnFJek3D9aifd39",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "EmilyLeMasters",
+      "link": "https://calendar.app.google/j2Apvistg9f6moX27",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Melissa Gibson",
@@ -1295,22 +1271,16 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Bethany Solis",
-      "link": "https://calendar.app.google/iNxHuFCy8r9Xd7vv7",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Rachel Hopkins",
-      "link": "https://calendar.app.google/vX7N1c2z5oGhrXPr7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "nombre": "Anne Marie Coleman",
+      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Matthew Olsen",
@@ -1345,8 +1315,8 @@
     {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emily Felix",
@@ -1375,8 +1345,8 @@
     {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Max Wilson",
@@ -1439,101 +1409,11 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Lindsay Dance",
-      "link": "https://calendar.app.google/knVhiWzyUsukrrQH6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Emily MacLean",
-      "link": "https://calendar.app.google/oo4RLksZrf8APA846",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister McDowell",
-      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Jones",
-      "link": "https://calendar.app.google/a68jsMYqBMVRdwyK6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Raskey",
-      "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Jonas Hagman",
-      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Owen Parker",
-      "link": "https://calendar.app.google/w56RtL1Ahry6tFaaA",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "EmilyLeMasters",
-      "link": "https://calendar.app.google/1r8NzYES3EgNnjak7",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
       "nombre": "Damian Idiart",
       "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Anne Marie Coleman",
-      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Erica Taney",
-      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-27T14:34:10.259Z"
+  "actualizado": "2026-10-27T19:41:05.851Z"
 }
