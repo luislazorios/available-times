@@ -93,10 +93,6 @@
       "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8"
     },
     {
-      "nombre": "Cindy Harrison",
-      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7"
-    },
-    {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5"
     },
@@ -173,10 +169,6 @@
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6"
     },
     {
-      "nombre": "Ezra Bloomfield",
-      "link": "https://calendar.app.google/T4apU4dyWcxtCXy48"
-    },
-    {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
     },
@@ -198,7 +190,7 @@
     }
   ],
   "revisados": 221,
-  "total_disponibles": 49,
+  "total_disponibles": 47,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -959,8 +951,8 @@
     {
       "nombre": "Cindy Harrison",
       "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Raegan Monson",
@@ -1397,8 +1389,8 @@
     {
       "nombre": "Ezra Bloomfield",
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Hailey Moore",
@@ -1527,5 +1519,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-26T23:14:20.722Z"
+  "actualizado": "2026-10-27T02:13:07.145Z"
 }
