@@ -9,16 +9,8 @@
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
     },
     {
-      "nombre": "Jacob Nelson",
-      "link": "https://calendar.app.google/TKaTenAceJ2prd596"
-    },
-    {
       "nombre": "Chris Allen",
       "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6"
-    },
-    {
-      "nombre": "Brent Hansen",
-      "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7"
     },
     {
       "nombre": "Trina Jacobson",
@@ -89,6 +81,10 @@
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
     },
     {
+      "nombre": "Teresa Walker",
+      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
+    },
+    {
       "nombre": "Shelly Felt",
       "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9"
     },
@@ -113,10 +109,6 @@
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
     },
     {
-      "nombre": "Barbara Baugh",
-      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA"
-    },
-    {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
     },
@@ -135,14 +127,6 @@
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
-    },
-    {
-      "nombre": "Tamara Foote",
-      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
-    },
-    {
-      "nombre": "Elder Hollinger",
-      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
     },
     {
       "nombre": "Barbara Martin",
@@ -221,10 +205,6 @@
       "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
     },
     {
-      "nombre": "Brennan Burnett",
-      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
-    },
-    {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
     },
@@ -239,14 +219,10 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
     }
   ],
-  "revisados": 207,
-  "total_disponibles": 61,
+  "revisados": 206,
+  "total_disponibles": 55,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -305,8 +281,8 @@
     {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Theresa Sexton",
@@ -353,8 +329,8 @@
     {
       "nombre": "Brent Hansen",
       "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Stacy Woods",
@@ -729,12 +705,6 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Adrian Walton",
-      "link": "https://calendar.app.google/zQsDfmtWrXWaBzva9",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "tiene_cita": false,
@@ -747,14 +717,14 @@
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
+      "nombre": "Damian Idiart",
+      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
     {
-      "nombre": "Kymberli Draper",
-      "link": "https://calendar.app.google/5kQxvm2cfVFo3tq4A",
+      "nombre": "Brent Higginson",
+      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     },
@@ -763,6 +733,12 @@
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Teresa Walker",
+      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Johnny Johnson",
@@ -845,8 +821,8 @@
     {
       "nombre": "Barbara Baugh",
       "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Shaw Jensen",
@@ -923,14 +899,14 @@
     {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Barbara Martin",
@@ -1042,9 +1018,9 @@
     },
     {
       "nombre": "Sister McKinley Adams",
-      "link": "https://calendar.app.google/yAb8qGN7jEjfvNah8",
+      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Margo Aston",
@@ -1409,8 +1385,8 @@
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1479,17 +1455,11 @@
       "motivo": "TIENE HORARIOS"
     },
     {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
+      "nombre": "Elder Hyrum Scott",
+      "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
       "tiene_cita": false,
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-28T09:02:34.633Z"
+  "actualizado": "2026-10-28T15:58:26.472Z"
 }
