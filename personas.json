@@ -9,6 +9,10 @@
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
     {
+      "nombre": "Brent Hansen",
+      "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7"
+    },
+    {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
     },
@@ -19,6 +23,10 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
+    },
+    {
+      "nombre": "Douglas Taylor",
+      "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6"
     },
     {
       "nombre": "Elder Doherty",
@@ -129,12 +137,12 @@
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8"
     },
     {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
+      "nombre": "Sister Wright",
+      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     },
     {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
+      "nombre": "Eric Conover",
+      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
     {
       "nombre": "Dane Struve",
@@ -162,7 +170,7 @@
     }
   ],
   "revisados": 207,
-  "total_disponibles": 40,
+  "total_disponibles": 42,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -269,8 +277,8 @@
     {
       "nombre": "Brent Hansen",
       "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Stacy Woods",
@@ -359,8 +367,8 @@
     {
       "nombre": "Douglas Taylor",
       "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Emma Boyer",
@@ -1121,8 +1129,8 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Nicole Remund",
@@ -1181,8 +1189,8 @@
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Stanley Bingham",
@@ -1407,5 +1415,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-27T23:13:48.395Z"
+  "actualizado": "2026-10-28T02:26:54.597Z"
 }
