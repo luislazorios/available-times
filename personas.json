@@ -81,6 +81,10 @@
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
     },
     {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7"
+    },
+    {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
     },
@@ -161,10 +165,6 @@
       "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA"
     },
     {
-      "nombre": "Gary Hall",
-      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28"
-    },
-    {
       "nombre": "Elise Hall",
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7"
     },
@@ -175,10 +175,6 @@
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
-    },
-    {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     },
     {
       "nombre": "Eric Conover",
@@ -222,7 +218,7 @@
     }
   ],
   "revisados": 206,
-  "total_disponibles": 55,
+  "total_disponibles": 54,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -707,8 +703,8 @@
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Crook",
@@ -1097,8 +1093,8 @@
     {
       "nombre": "Gary Hall",
       "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1181,8 +1177,8 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1461,5 +1457,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-28T15:58:26.472Z"
+  "actualizado": "2026-10-28T20:52:11.819Z"
 }
