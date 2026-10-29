@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Sister Hyre",
-      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
-    },
-    {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
     },
@@ -49,14 +45,6 @@
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9"
     },
     {
-      "nombre": "Conway Sherwood",
-      "link": "https://calendar.app.google/zsMkGYRezChnpncc8"
-    },
-    {
-      "nombre": "Selena Miskin",
-      "link": "https://calendar.app.google/PXbadSF8sWg5d4jr9"
-    },
-    {
       "nombre": "Caroline Owens",
       "link": "https://calendar.app.google/7p1LN5wXJiU3KJa29"
     },
@@ -75,10 +63,6 @@
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
-    },
-    {
-      "nombre": "Sister McDowell",
-      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA"
     },
     {
       "nombre": "Sierra Herrick",
@@ -145,10 +129,6 @@
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA"
     },
     {
-      "nombre": "Lucy Todd",
-      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
-    },
-    {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
     },
@@ -179,10 +159,6 @@
     {
       "nombre": "Elder Brigham Bailey",
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58"
-    },
-    {
-      "nombre": "Elder Calvin Smith",
-      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9"
     },
     {
       "nombre": "Cindy Harrison",
@@ -286,7 +262,7 @@
     }
   ],
   "revisados": 206,
-  "total_disponibles": 71,
+  "total_disponibles": 65,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -303,8 +279,8 @@
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Pace",
@@ -537,8 +513,8 @@
     {
       "nombre": "Conway Sherwood",
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Eileen Squires",
@@ -561,8 +537,8 @@
     {
       "nombre": "Selena Miskin",
       "link": "https://calendar.app.google/PXbadSF8sWg5d4jr9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jason Nielson",
@@ -663,8 +639,8 @@
     {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Amy Henderson",
@@ -915,8 +891,8 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1047,8 +1023,8 @@
     {
       "nombre": "Elder Calvin Smith",
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Kate Pratt",
@@ -1525,5 +1501,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-29T13:45:36.244Z"
+  "actualizado": "2026-10-29T19:29:35.904Z"
 }
