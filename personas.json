@@ -5,10 +5,6 @@
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A"
     },
     {
-      "nombre": "Lisa Pace",
-      "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7"
-    },
-    {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
     },
@@ -31,18 +27,6 @@
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
-    },
-    {
-      "nombre": "Matt Richards",
-      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87"
-    },
-    {
-      "nombre": "Douglas Taylor",
-      "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6"
     },
     {
       "nombre": "Emma Boyer",
@@ -103,14 +87,6 @@
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Elisabeth Maughan",
-      "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA"
-    },
-    {
-      "nombre": "Richard Young",
-      "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA"
     },
     {
       "nombre": "Amber Hunter",
@@ -307,14 +283,10 @@
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
-      "nombre": "Elder Hyrum Scott",
-      "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6"
     }
   ],
   "revisados": 206,
-  "total_disponibles": 78,
+  "total_disponibles": 71,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -337,8 +309,8 @@
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Owen Parker",
@@ -463,8 +435,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Stone",
@@ -475,8 +447,8 @@
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sharon Elwell",
@@ -511,8 +483,8 @@
     {
       "nombre": "Douglas Taylor",
       "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Emma Boyer",
@@ -739,8 +711,8 @@
     {
       "nombre": "Elisabeth Maughan",
       "link": "https://calendar.app.google/xBNsfqZnmfanQRjVA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Candace Fielding",
@@ -769,8 +741,8 @@
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Amber Hunter",
@@ -1549,9 +1521,9 @@
     {
       "nombre": "Elder Hyrum Scott",
       "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-29T06:30:55.942Z"
+  "actualizado": "2026-10-29T13:45:36.244Z"
 }
