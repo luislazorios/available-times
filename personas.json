@@ -1,10 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Lisa Pace",
-      "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7"
-    },
-    {
       "nombre": "Nicholas Budd",
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
     },
@@ -29,10 +25,6 @@
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA"
     },
     {
-      "nombre": "Trina Jacobson",
-      "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6"
-    },
-    {
       "nombre": "John Peterson",
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
     },
@@ -55,10 +47,6 @@
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
-    },
-    {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7"
     },
     {
       "nombre": "Donna Cardon",
@@ -141,10 +129,6 @@
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
     },
     {
-      "nombre": "Laurie Atanasio",
-      "link": "https://calendar.app.google/N65bgafkQecdjuMN8"
-    },
-    {
       "nombre": "Tony Martinez",
       "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9"
     },
@@ -159,10 +143,6 @@
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6"
-    },
-    {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
     },
     {
       "nombre": "Ann Fenton",
@@ -227,10 +207,6 @@
     {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
-    },
-    {
-      "nombre": "Heather Johnson",
-      "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA"
     },
     {
       "nombre": "Stephanie Webber",
@@ -357,12 +333,12 @@
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8"
     },
     {
-      "nombre": "Elder Hyrum Scott",
-      "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6"
+      "nombre": "Jonah Settle",
+      "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7"
     }
   ],
-  "revisados": 206,
-  "total_disponibles": 90,
+  "revisados": 207,
+  "total_disponibles": 84,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -385,8 +361,8 @@
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Owen Parker",
@@ -493,8 +469,8 @@
     {
       "nombre": "Trina Jacobson",
       "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "John Peterson",
@@ -577,8 +553,8 @@
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Donna Cardon",
@@ -913,8 +889,8 @@
     {
       "nombre": "Laurie Atanasio",
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tony Martinez",
@@ -973,8 +949,8 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Ann Fenton",
@@ -1183,8 +1159,8 @@
     {
       "nombre": "Heather Johnson",
       "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Stephanie Webber",
@@ -1597,9 +1573,15 @@
     {
       "nombre": "Elder Hyrum Scott",
       "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
+    },
+    {
+      "nombre": "Jonah Settle",
+      "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7",
       "tiene_cita": true,
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-10-30T09:43:45.841Z"
+  "actualizado": "2026-10-30T16:18:27.603Z"
 }
