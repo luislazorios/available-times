@@ -309,10 +309,6 @@
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8"
     },
     {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
-    },
-    {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA"
     },
@@ -382,7 +378,7 @@
     }
   ],
   "revisados": 207,
-  "total_disponibles": 95,
+  "total_disponibles": 94,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1377,8 +1373,8 @@
     {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Tana Grames",
@@ -1627,5 +1623,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-31T17:35:03.821Z"
+  "actualizado": "2026-10-31T20:43:31.524Z"
 }
