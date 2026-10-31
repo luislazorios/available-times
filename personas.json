@@ -169,6 +169,10 @@
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
     },
     {
+      "nombre": "Jacobie Hoopes",
+      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
+    },
+    {
       "nombre": "Sister Thompson",
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6"
     },
@@ -310,7 +314,7 @@
     }
   ],
   "revisados": 207,
-  "total_disponibles": 77,
+  "total_disponibles": 78,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1011,8 +1015,8 @@
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "tiene_cita": true,
+      "motivo": "TIENE HORARIOS"
     },
     {
       "nombre": "Sister Thompson",
@@ -1555,5 +1559,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-30T20:56:29.111Z"
+  "actualizado": "2026-10-31T00:29:58.636Z"
 }
