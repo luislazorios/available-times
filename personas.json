@@ -293,10 +293,6 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
-      "nombre": "Amy Zinn",
-      "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6"
-    },
-    {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
     },
@@ -378,7 +374,7 @@
     }
   ],
   "revisados": 207,
-  "total_disponibles": 94,
+  "total_disponibles": 93,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -1331,8 +1327,8 @@
     {
       "nombre": "Amy Zinn",
       "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Sister Wright",
@@ -1623,5 +1619,5 @@
       "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-10-31T23:49:20.636Z"
+  "actualizado": "2026-11-01T04:45:33.043Z"
 }
