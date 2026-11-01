@@ -9,10 +9,6 @@
       "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8"
     },
     {
-      "nombre": "Nancy Moore",
-      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9"
-    },
-    {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596"
     },
@@ -39,10 +35,6 @@
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
     },
     {
       "nombre": "Matt Richards",
@@ -273,10 +265,6 @@
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
     },
     {
-      "nombre": "Lisa Northrup",
-      "link": "https://calendar.app.google/jewB15osUK9sPe6e7"
-    },
-    {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
     },
@@ -319,10 +307,6 @@
     {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6"
-    },
-    {
-      "nombre": "Jordan Haws",
-      "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8"
     },
     {
       "nombre": "Tana Grames",
@@ -401,16 +385,12 @@
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
     },
     {
-      "nombre": "Bonnie Webber",
-      "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8"
-    },
-    {
       "nombre": "Jonah Settle",
       "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7"
     }
   ],
   "revisados": 207,
-  "total_disponibles": 102,
+  "total_disponibles": 97,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -463,8 +443,8 @@
     {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Jacob Nelson",
@@ -559,8 +539,8 @@
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Rebecca Stone",
@@ -1261,8 +1241,8 @@
     {
       "nombre": "Lisa Northrup",
       "link": "https://calendar.app.google/jewB15osUK9sPe6e7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "MJ Jouttenus",
@@ -1399,8 +1379,8 @@
     {
       "nombre": "Jordan Haws",
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Eric Conover",
@@ -1633,8 +1613,8 @@
     {
       "nombre": "Bonnie Webber",
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Elizabeth Astle",
@@ -1655,5 +1635,5 @@
       "motivo": "TIENE HORARIOS"
     }
   ],
-  "actualizado": "2026-11-01T11:45:19.014Z"
+  "actualizado": "2026-11-01T17:45:12.035Z"
 }
