@@ -263,6 +263,36 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Respalda el resultado generado por el scraper.
+          cp personas.json /tmp/personas.json.generated
+
+          # Sincroniza con main antes de crear el commit.
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/personas.json.generated personas.json
+
           git add personas.json
-          git commit -m "Actualizar disponibilidad de voluntarios" || echo "Sin cambios nuevos"
-          git push
+          if git diff --cached --quiet; then
+            echo "Sin cambios nuevos"
+            exit 0
+          fi
+
+          git commit -m "Actualizar disponibilidad de voluntarios"
+
+          # Reintenta si otro cambio llega a main justo antes del push.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Resultados publicados correctamente"
+              exit 0
+            fi
+            echo "Push rechazado; sincronizando de nuevo (intento $attempt)"
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/personas.json.generated personas.json
+            git add personas.json
+            git commit -m "Actualizar disponibilidad de voluntarios" || true
+          done
+
+          echo "No se pudo publicar después de 3 intentos"
+          exit 1
