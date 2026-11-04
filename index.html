@@ -51,7 +51,7 @@ const contadorEl=document.getElementById("contador");
 
 function formatDate(value){
   if(!value) return "";
-  const match=String(value).match(/^(\\d{4})-(\\d{2})-(\\d{2})$/);
+  const match=String(value).match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if(!match) return value;
   const date=new Date(Date.UTC(Number(match[1]),Number(match[2])-1,Number(match[3])));
   return date.toLocaleDateString("en-US",{timeZone:"UTC",weekday:"short",month:"short",day:"numeric",year:"numeric"});
@@ -87,11 +87,18 @@ async function cargarPersonas(){
     const r=await fetch(DATA_URL+"?t="+Date.now());
     if(!r.ok) throw new Error("Could not load personas.json.");
     const d=await r.json();
-    const personas=Array.isArray(d.personas)?d.personas:[];
+    const registros=Array.isArray(d.personas)?d.personas:[];
+    // Only show volunteers with a confirmed date AND time.
+    const personas=registros.filter(p=>
+      p && p.tiene_cita!==false &&
+      typeof p.fecha==="string" && /^\d{4}-\d{2}-\d{2}$/.test(p.fecha) &&
+      typeof p.hora==="string" && p.hora.trim().length>0 &&
+      typeof p.link==="string" && p.link.startsWith("https://")
+    );
     personas.sort((a,b)=>(a.fecha||"").localeCompare(b.fecha||"")||(a.hora||"").localeCompare(b.hora||""));
     contadorEl.textContent=personas.length+" available out of "+(d.revisados||0)+" checked";
     if(!personas.length){
-      estadoEl.textContent="No available time slots found at the moment.";
+      estadoEl.textContent="No confirmed available time slots found. Please check again later.";
     }else{
       estadoEl.style.display="none";
       personas.forEach(p=>listaEl.appendChild(crearTarjeta(p)));
