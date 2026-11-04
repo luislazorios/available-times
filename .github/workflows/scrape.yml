@@ -31,25 +31,64 @@ jobs:
             const browser = await chromium.launch({ headless: true });
             const page = await browser.newPage();
 
-            await page.goto(
-              'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3787z0UDhWgBTk-CsglH0tGQQ3LSu4MS5ftylVNGebNq9ZzjugKtZEUqrjZkpvJJ2Ta9od8tmC',
-              { waitUntil: 'domcontentloaded', timeout: 60000 }
-            );
+            const url = 'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3787z0UDhWgBTk-CsglH0tGQQ3LSu4MS5ftylVNGebNq9ZzjugKtZEUqrjZkpvJJ2Ta9od8tmC';
 
-            await page.waitForTimeout(8000);
+            await page.goto(url, {
+              waitUntil: 'domcontentloaded',
+              timeout: 60000
+            });
 
-            console.log(await page.locator('body').innerText());
+            await page.waitForTimeout(6000);
 
-            const botones = await page.locator('button').evaluateAll(btns =>
+            const mes = await page.locator('body').innerText();
+
+            const fechas = await page.locator('button[aria-label]').evaluateAll(btns =>
               btns.map(b => ({
-                texto: b.innerText,
+                texto: b.innerText.trim(),
                 aria: b.getAttribute('aria-label'),
-                disabled: b.disabled,
-                title: b.title
-              }))
+                disabled: b.disabled
+              })).filter(b =>
+                b.aria &&
+                !b.aria.toLowerCase().includes('no available times') &&
+                !b.aria.toLowerCase().includes('previous') &&
+                !b.aria.toLowerCase().includes('next') &&
+                /^\d/.test(b.aria) &&
+                !b.disabled
+              )
             );
 
-            console.log(JSON.stringify(botones, null, 2));
+            console.log('FECHAS DISPONIBLES:');
+            console.log(JSON.stringify(fechas, null, 2));
+
+            if (fechas.length > 0) {
+              const primera = fechas[0];
+
+              console.log('PRIMER DIA:', primera.aria);
+
+              await page.locator('button[aria-label]').filter({
+                has: page.locator('text=' + primera.texto)
+              }).first().click().catch(async () => {
+                await page.getByRole('button', {
+                  name: primera.aria,
+                  exact: true
+                }).click();
+              });
+
+              await page.waitForTimeout(2500);
+
+              const horarios = await page.locator('button').evaluateAll(btns =>
+                btns.map(b => ({
+                  texto: b.innerText.trim(),
+                  aria: b.getAttribute('aria-label')
+                })).filter(b =>
+                  /\d{1,2}:\d{2}\s*(am|pm)?/i.test(b.texto) ||
+                  /\d{1,2}:\d{2}\s*(am|pm)?/i.test(b.aria || '')
+                )
+              );
+
+              console.log('HORARIOS DEL PRIMER DIA:');
+              console.log(JSON.stringify(horarios, null, 2));
+            }
 
             await browser.close();
           })();
