@@ -3,133 +3,119 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Personas Disponibles</title>
+<title>Available Volunteers</title>
 <style>
-*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,sans-serif}
-body{background:#fafafa;display:flex;justify-content:center;padding:30px 15px}
-.wrap{width:100%;max-width:600px}
-h1{text-align:center;font-size:24px;font-weight:800}
-.sub{text-align:center;color:#888;font-size:12px;margin:5px 0 20px}
-.card{background:#fff;border:1px solid #e5e5e5;border-radius:14px;overflow:hidden}
-.bar{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;background:#f9f9f9;border-bottom:1px solid #eee}
-#contador{font-size:12px;color:#888}
-.btn{border:0;background:#111;color:#fff;border-radius:20px;padding:6px 14px;font-size:12px;font-weight:700;cursor:pointer}
-#estado{padding:14px;text-align:center;color:#999;font-size:12px;line-height:1.4}
-ul{list-style:none}
-li{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid #f2f2f2}
-.dot{width:8px;height:8px;background:#22c55e;border-radius:50%}
-.left{display:flex;align-items:center;gap:8px}
-.num{color:#bbb;font-size:11px;width:14px}
-.name{font-size:13px}
-a.res{font-size:11px;border:1px solid #ddd;border-radius:20px;padding:4px 10px;text-decoration:none;color:#111}
-.don{margin-top:16px;background:#fff;border:1px solid #e5e5e5;border-radius:14px;padding:18px;text-align:center}
-#btnDonar{width:100%;margin-top:10px;background:#111;color:#fff;border:0;border-radius:10px;padding:12px;font-weight:700;cursor:pointer}
-#debug{max-height:300px;overflow:auto;background:#f9f9f9;padding:8px;border-radius:8px;margin-top:8px;text-align:left}
+*{box-sizing:border-box;font-family:system-ui,sans-serif}
+body{margin:0;background:#f5f7fb;color:#172033;padding:28px 16px}
+.wrap{max-width:1000px;margin:auto}
+h1{text-align:center;font-size:27px;margin:0 0 6px}
+.sub{text-align:center;color:#778196;font-size:13px;margin:0 0 22px}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}
+#contador{font-size:13px;color:#687386}
+.btn{border:0;background:#111827;color:white;border-radius:20px;padding:8px 15px;font-size:12px;font-weight:700;cursor:pointer}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.person{background:#fff;border:1px solid #e2e7ef;border-radius:14px;padding:17px}
+.person-name{font-size:17px;font-weight:700;margin-bottom:8px}
+.slot{font-size:15px;color:#26344a}
+.zone{font-size:12px;color:#778196;margin:5px 0 13px}
+.reserve{display:inline-block;background:#1d4ed8;color:#fff;text-decoration:none;border-radius:8px;padding:9px 13px;font-size:13px;font-weight:700}
+#estado{background:white;border:1px solid #e2e7ef;border-radius:12px;padding:20px;text-align:center;color:#778196;font-size:13px}
+.don{margin-top:22px;background:#fff;border:1px solid #e2e7ef;border-radius:14px;padding:18px;text-align:center}
+#btnDonar{width:100%;max-width:280px;margin-top:10px;background:#111827;color:#fff;border:0;border-radius:10px;padding:12px;font-weight:700;cursor:pointer}
+@media(max-width:620px){.grid{grid-template-columns:1fr}h1{font-size:23px}}
 </style>
 </head>
 <body>
 <div class="wrap">
 <h1>Available Volunteers</h1>
-<p class="sub">Come back in 30 minutes and try it again!</p>
-<div class="card">
-<div class="bar"><span id="contador">0 personas</span><button id="btnActualizar" class="btn">Don't push this button</button></div>
-<div id="estado">Loading...</div>
-<ul id="lista"></ul>
+<p class="sub">Consulta el primer día y horario disponible de cada voluntario.</p>
+<div class="bar">
+  <span id="contador">Cargando disponibilidad...</span>
+  <button id="btnActualizar" class="btn">Actualizar</button>
 </div>
+<div id="estado">Buscando horarios disponibles...</div>
+<section id="lista" class="grid"></section>
 <div class="don">
-<b>Is it useful?</b><p style="font-size:11px;color:#888;margin-top:4px">Done by Luis Lazo (Cohort 24 <3)</p>
-<button id="btnDonar">Donate 1$</button>
-<p id="estadoDonacion" style="font-size:11px;color:#999;margin-top:6px"></p>
+  <b>Is it useful?</b>
+  <p style="font-size:11px;color:#888;margin-top:4px">Done by Luis Lazo (Cohort 24 &lt;3)</p>
+  <button id="btnDonar">Donate 1$</button>
+  <p id="estadoDonacion" style="font-size:11px;color:#999;margin-top:6px"></p>
 </div>
 </div>
 <script>
-const LAMBDA_LIST_URL = "https://raw.githubusercontent.com/luislazorios/available-times/main/personas.json";
-const LAMBDA_DONACION_URL = "https://nbacik7xz4nsbh7meqdqvyvxsq0etwmp.lambda-url.sa-east-1.on.aws/";
+const DATA_URL="https://raw.githubusercontent.com/luislazorios/available-times/main/personas.json";
+const LAMBDA_DONACION_URL="https://nbacik7xz4nsbh7meqdqvyvxsq0etwmp.lambda-url.sa-east-1.on.aws/";
+const listaEl=document.getElementById("lista");
+const estadoEl=document.getElementById("estado");
+const contadorEl=document.getElementById("contador");
 
-const listaEl = document.getElementById("lista");
-const estadoEl = document.getElementById("estado");
-const contadorEl = document.getElementById("contador");
-
-async function cargarPersonas() {
-  estadoEl.style.display = "block";
-  estadoEl.textContent = "Buscando...";
-  listaEl.innerHTML = "";
-  try {
-    const r = await fetch(LAMBDA_LIST_URL + "?t=" + Date.now());
-    if (!r.ok) throw new Error("Aun no existe personas.json - el bot de GitHub no ha corrido. Revisados 0");
-    const d = await r.json();
-    console.log("DEBUG:", d);
-    render(d.personas || [], d.revisados || 0, d.detalle || []);
-  } catch (e) {
-    estadoEl.innerHTML = "😔 <b>No hay datos aun</b><br><small>" + e.message + "</small><br><br>El scraper de GitHub corre cada 30 min. Haz click en Actions > Run workflow para forzar.";
-    contadorEl.textContent = "0 personas";
-  }
+function crearTarjeta(p){
+  const card=document.createElement("article");
+  card.className="person";
+  const nombre=document.createElement("div");
+  nombre.className="person-name";
+  nombre.textContent=p.nombre||"Voluntario";
+  const slot=document.createElement("div");
+  slot.className="slot";
+  slot.textContent=(p.fecha||"Fecha no indicada")+" · "+(p.hora||"Hora no indicada");
+  const zone=document.createElement("div");
+  zone.className="zone";
+  zone.textContent=p.zona_horaria||"";
+  const link=document.createElement("a");
+  link.className="reserve";
+  link.href=p.link||"#";
+  link.target="_blank";
+  link.rel="noopener";
+  link.textContent="Ver y reservar";
+  card.append(nombre,slot,zone,link);
+  return card;
 }
 
-function render(arr, revisados, detalle) {
-  listaEl.innerHTML = "";
-  if (!arr.length) {
-    estadoEl.innerHTML = "😔 <b>0 con disponibilidad</b><br><small>Revisados: " + revisados + " perfiles</small><br><br><button id='btnVer' style='font-size:11px;border:1px solid #ddd;border-radius:20px;padding:6px 12px;background:#fff;cursor:pointer'>Ver que se reviso</button><div id='debug' style='display:none;'></div>";
-    contadorEl.textContent = "0 disponibles de " + revisados;
-    setTimeout(() => {
-      const btn = document.getElementById('btnVer');
-      const dbg = document.getElementById('debug');
-      if (btn && dbg) {
-        btn.onclick = () => {
-          dbg.style.display = dbg.style.display === 'none' ? 'block' : 'none';
-          if (!detalle || detalle.length === 0) {
-            dbg.innerHTML = "No hay detalle aun. El personas.json esta vacio.";
-            return;
-          }
-          let html = "";
-          detalle.forEach(d => {
-            html += "<div style='padding:6px 0;border-bottom:1px solid #eee'><b>" + d.nombre + "</b><br><a href='" + d.link + "' target='_blank' style='color:#888;word-break:break-all;font-size:10px'>" + d.link + "</a><br><span style='color:" + (d.tiene_cita ? "green" : "#c00") + "'>"+ (d.motivo || (d.tiene_cita ? "DISPONIBLE" : "sin disponibilidad")) + "</span></div>";
-          });
-          dbg.innerHTML = html;
-        };
-      }
-    }, 100);
-    return;
-  }
-  estadoEl.style.display = "none";
-  contadorEl.textContent = arr.length + " disponibles de " + revisados;
-  arr.forEach((p, i) => {
-    const nombre = typeof p === "string" ? p : p.nombre;
-    const link = p.link || "#";
-    const li = document.createElement("li");
-    li.innerHTML = '<div class="left"><div class="dot"></div><span class="num">' + (i+1) + '.</span><span class="name">' + nombre + '</span></div><a class="res" href="' + link + '" target="_blank">Reservar</a>';
-    listaEl.appendChild(li);
-  });
-}
-
-// ESTA ES LA QUE TE FALTABA
-async function donar() {
-  const el = document.getElementById("estadoDonacion");
-  el.textContent = "Conectando con Mercado Pago...";
-  try {
-    const res = await fetch(LAMBDA_DONACION_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({})
-    });
-    const txt = await res.text();
-    console.log("MP RAW:", txt);
-    const data = JSON.parse(txt);
-    if (data.url_pago) {
-      window.location.href = data.url_pago;
-    } else if (data.init_point) {
-      window.location.href = data.init_point;
-    } else {
-      throw new Error(data.error || "No llego URL de pago");
+async function cargarPersonas(){
+  estadoEl.style.display="block";
+  estadoEl.textContent="Buscando horarios disponibles...";
+  listaEl.replaceChildren();
+  try{
+    const r=await fetch(DATA_URL+"?t="+Date.now());
+    if(!r.ok) throw new Error("No se pudo cargar personas.json.");
+    const d=await r.json();
+    const personas=Array.isArray(d.personas)?d.personas:[];
+    personas.sort((a,b)=>(a.fecha||"").localeCompare(b.fecha||"")||(a.hora||"").localeCompare(b.hora||""));
+    contadorEl.textContent=personas.length+" disponibles de "+(d.revisados||0)+" revisados";
+    if(!personas.length){
+      estadoEl.textContent="Por ahora no encontramos horarios disponibles.";
+    }else{
+      estadoEl.style.display="none";
+      personas.forEach(p=>listaEl.appendChild(crearTarjeta(p)));
     }
-  } catch (e) {
-    console.error(e);
-    el.textContent = "Error: " + e.message;
+    if(d.actualizado){
+      const fecha=new Date(d.actualizado);
+      const stamp=document.createElement("p");
+      stamp.className="sub";
+      stamp.textContent="Última actualización: "+fecha.toLocaleString("es-CL",{timeZone:"America/Santiago"});
+      listaEl.before(stamp);
+    }
+  }catch(e){
+    estadoEl.textContent="No se pudieron cargar los datos. "+e.message;
+    contadorEl.textContent="Disponibilidad no disponible";
   }
 }
 
-document.getElementById("btnActualizar").onclick = cargarPersonas;
-document.getElementById("btnDonar").onclick = donar;
+async function donar(){
+  const el=document.getElementById("estadoDonacion");
+  el.textContent="Conectando con Mercado Pago...";
+  try{
+    const res=await fetch(LAMBDA_DONACION_URL,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({})});
+    const txt=await res.text();
+    const data=JSON.parse(txt);
+    if(data.url_pago) window.location.href=data.url_pago;
+    else if(data.init_point) window.location.href=data.init_point;
+    else throw new Error(data.error||"No llegó URL de pago");
+  }catch(e){el.textContent="Error: "+e.message;}
+}
+
+document.getElementById("btnActualizar").onclick=cargarPersonas;
+document.getElementById("btnDonar").onclick=donar;
 cargarPersonas();
 </script>
 </body>
