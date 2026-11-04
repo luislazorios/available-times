@@ -129,10 +129,6 @@
       "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6"
     },
     {
-      "nombre": "Sister McKinley Adams",
-      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7"
-    },
-    {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
     },
@@ -143,10 +139,6 @@
     {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7"
-    },
-    {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA"
     },
     {
       "nombre": "Brent Baugh",
@@ -169,20 +161,12 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
     },
     {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
-    },
-    {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
     },
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
-    },
-    {
-      "nombre": "Sister Plummer",
-      "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9"
     },
     {
       "nombre": "Dane Struve",
@@ -235,14 +219,10 @@
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7"
-    },
-    {
-      "nombre": "Rachel Gillingwater",
-      "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7"
     }
   ],
   "revisados": 182,
-  "total_disponibles": 60,
+  "total_disponibles": 55,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -907,8 +887,8 @@
     {
       "nombre": "Sister McKinley Adams",
       "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Margo Aston",
@@ -949,8 +929,8 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1057,8 +1037,8 @@
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Nicole Remund",
@@ -1135,8 +1115,8 @@
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     },
     {
       "nombre": "Dane Struve",
@@ -1333,9 +1313,9 @@
     {
       "nombre": "Rachel Gillingwater",
       "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "motivo": "sin disponibilidad"
     }
   ],
-  "actualizado": "2026-11-03T21:09:51.110Z"
+  "actualizado": "2026-11-04T01:32:07.844Z"
 }
