@@ -1,1401 +1,1646 @@
 {
-  "personas": [
-    {
-      "nombre": "Jacob Nelson",
-      "link": "https://calendar.app.google/TKaTenAceJ2prd596"
-    },
-    {
-      "nombre": "Chris Allen",
-      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6"
-    },
-    {
-      "nombre": "Trina Jacobson",
-      "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6"
-    },
-    {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8"
-    },
-    {
-      "nombre": "Diane Pence",
-      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28"
-    },
-    {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6"
-    },
-    {
-      "nombre": "Rebecca Stone",
-      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA"
-    },
-    {
-      "nombre": "Alyssa Burrell",
-      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8"
-    },
-    {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9"
-    },
-    {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8"
-    },
-    {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7"
-    },
-    {
-      "nombre": "Donna Cardon",
-      "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9"
-    },
-    {
-      "nombre": "Conway Sherwood",
-      "link": "https://calendar.app.google/zsMkGYRezChnpncc8"
-    },
-    {
-      "nombre": "Eli Rex",
-      "link": "https://calendar.app.google/FYU79Tx992WsFPep9"
-    },
-    {
-      "nombre": "Elder Jolley",
-      "link": "https://calendar.app.google/gVsKuxRienGWTdU29"
-    },
-    {
-      "nombre": "Sierra Herrick",
-      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8"
-    },
-    {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA"
-    },
-    {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA"
-    },
-    {
-      "nombre": "Richard Young",
-      "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA"
-    },
-    {
-      "nombre": "Ashlyn Whitlock",
-      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7"
-    },
-    {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7"
-    },
-    {
-      "nombre": "Aaron Larson",
-      "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6"
-    },
-    {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8"
-    },
-    {
-      "nombre": "Laurie Atanasio",
-      "link": "https://calendar.app.google/N65bgafkQecdjuMN8"
-    },
-    {
-      "nombre": "Tony Martinez",
-      "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9"
-    },
-    {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86"
-    },
-    {
-      "nombre": "Barbara Baugh",
-      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA"
-    },
-    {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A"
-    },
-    {
-      "nombre": "Lucy Todd",
-      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36"
-    },
-    {
-      "nombre": "katherine Baxter",
-      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9"
-    },
-    {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8"
-    },
-    {
-      "nombre": "Tamara Foote",
-      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8"
-    },
-    {
-      "nombre": "Elder Hollinger",
-      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9"
-    },
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA"
-    },
-    {
-      "nombre": "Erica Taney",
-      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6"
-    },
-    {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA"
-    },
-    {
-      "nombre": "Sister Thompson",
-      "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6"
-    },
-    {
-      "nombre": "Jeff Smith",
-      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27"
-    },
-    {
-      "nombre": "Cindy Harrison",
-      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7"
-    },
-    {
-      "nombre": "Caroline Williams",
-      "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6"
-    },
-    {
-      "nombre": "Bonnie Forrest",
-      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9"
-    },
-    {
-      "nombre": "Heather Johnson",
-      "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6"
-    },
-    {
-      "nombre": "Gary Hall",
-      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28"
-    },
-    {
-      "nombre": "Elise Hall",
-      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7"
-    },
-    {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49"
-    },
-    {
-      "nombre": "Aaron Hill",
-      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8"
-    },
-    {
-      "nombre": "Sydney Donavan",
-      "link": "https://calendar.app.google/XchFkxQmMag6F5VJA"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA"
-    },
-    {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA"
-    },
-    {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17"
-    },
-    {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8"
-    },
-    {
-      "nombre": "Jonah Tietjen",
-      "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6"
-    },
-    {
-      "nombre": "Eric Conover",
-      "link": "https://calendar.app.google/9kHjar6JL5HYyATm8"
-    },
-    {
-      "nombre": "Tana Grames",
-      "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA"
-    },
-    {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA"
-    },
-    {
-      "nombre": "Dane Struve",
-      "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9"
-    },
-    {
-      "nombre": "Jason Christensen",
-      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA"
-    },
-    {
-      "nombre": "Sister Alatini",
-      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866"
-    },
-    {
-      "nombre": "Helen Williamson",
-      "link": "https://calendar.app.google/kpBiYUqc6JVcbozu8"
-    },
-    {
-      "nombre": "Rachel Vogelman",
-      "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6"
-    },
-    {
-      "nombre": "Henry Wheeler",
-      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7"
-    },
-    {
-      "nombre": "Anne Marie Coleman",
-      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8"
-    },
-    {
-      "nombre": "Matthew Olsen",
-      "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7"
-    },
-    {
-      "nombre": "Garth Knudson",
-      "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5"
-    },
-    {
-      "nombre": "Sister Worthington",
-      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA"
-    },
-    {
-      "nombre": "Emily Felix",
-      "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6"
-    },
-    {
-      "nombre": "Brennan Burnett",
-      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19"
-    },
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA"
-    },
-    {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6"
-    },
-    {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6"
-    },
-    {
-      "nombre": "Jonah Settle",
-      "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7"
-    },
-    {
-      "nombre": "Lucas Kraude",
-      "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7"
-    }
-  ],
+  "personas": [],
   "revisados": 182,
-  "total_disponibles": 75,
+  "total_disponibles": 0,
   "detalle": [
     {
       "nombre": "Emma Peterson",
       "link": "https://calendar.app.google/zUtK3nQ2ZuSxncfL6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Liam Webber",
       "link": "https://calendar.app.google/fisMkSJV2cGsHPYz9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Wendy Grainger",
-      "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Nicholas Budd",
-      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Nancy Moore",
-      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Jacob Nelson",
-      "link": "https://calendar.app.google/TKaTenAceJ2prd596",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
-      "nombre": "Chris Allen",
-      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Brenley Burton",
-      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
+      "nombre": "Wendy Grainger",
+      "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Nicholas Budd",
+      "link": "https://calendar.app.google/5LyLNo5vudFoaA1Y8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Annie Porter",
       "link": "https://calendar.app.google/qhGVUiEQa7ntru5z8",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
+    },
+    {
+      "nombre": "Nancy Moore",
+      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jacob Nelson",
+      "link": "https://calendar.app.google/TKaTenAceJ2prd596",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Brent Hansen",
       "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Chris Allen",
+      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Brenley Burton",
+      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Diane Pence",
+      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Frances Carlson",
+      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Charisse",
       "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Trina Jacobson",
-      "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Diane Pence",
-      "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Rebecca Stone",
-      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Matt Richards",
-      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sharon Elwell",
-      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Ezra Bloomfield",
-      "link": "https://calendar.app.google/iLAbZDSXnAUsS1JP7",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Andrew Whetten",
       "link": "https://calendar.app.google/aAdkGbeCVtuCtGdeA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
     },
     {
-      "nombre": "Rebecca Shae",
-      "link": "https://calendar.app.google/juZuPLdqmbHFqwGFA",
+      "nombre": "Trina Jacobson",
+      "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
-      "nombre": "Alyssa Burrell",
-      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Douglas Taylor",
-      "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
+      "nombre": "John Peterson",
+      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Emma Boyer",
-      "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "nombre": "Rebecca Stone",
+      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
-      "nombre": "Donna Cardon",
-      "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "nombre": "Matt Richards",
+      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elizabeth Martinez",
       "link": "https://calendar.app.google/ZaZzqa4Hcb3ymKf86",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Amelia Dahle",
-      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "John Burgon",
-      "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Conway Sherwood",
-      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Eileen Squires",
-      "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Amy Chappell",
-      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Selena Miskin",
-      "link": "https://calendar.app.google/PXbadSF8sWg5d4jr9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Jason Nielson",
-      "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Kerri McAlinden",
-      "link": "https://calendar.app.google/V9CEQ6Kj18EhxoWr7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Caroline Owens",
-      "link": "https://calendar.app.google/7p1LN5wXJiU3KJa29",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "James Jensen",
-      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Jonas Hagman",
-      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Eli Rex",
-      "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Lina Fotmuller",
-      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Ethan Rasmussen",
-      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Kay Merrell",
-      "link": "https://calendar.app.google/gpQ53R5bXqWjFhy4A",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Elder Jolley",
-      "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sister McDowell",
-      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sierra Herrick",
-      "link": "https://calendar.app.google/3xUeNt5tcaxixMLA8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sara Paulsen",
-      "link": "https://calendar.app.google/ttpa3u1zir7uCx1b6",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Cheryl Rosenberg",
-      "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Justin Ware",
-      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Richard Young",
-      "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Amber Hunter",
-      "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Ashlyn Whitlock",
-      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Rebecca Boren",
-      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Crook",
-      "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Damian Idiart",
-      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Brent Higginson",
-      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Franz Sidney",
-      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Johnny Johnson",
-      "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Aaron Larson",
-      "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Shelly Felt",
-      "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Laurie Atanasio",
-      "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Tony Martinez",
-      "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Ashley Haslam",
-      "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Carolyn Mildenhall",
-      "link": "https://calendly.com/d/cwht-6xm-t6b/english-chat-session?month=2025-12",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "Sister Spackman",
-      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Rebecca Holmstrom",
-      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Barbara Baugh",
-      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Nicole Remund",
-      "link": "https://calendar.app.google/2DuvKPSzprR1iFd97",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "Lucy Todd",
-      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Kristen Matley",
-      "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "katherine Baxter",
-      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Tamara Foote",
-      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Elder Hollinger",
-      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Erica Taney",
-      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sister Thompson",
-      "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Christina Smith",
-      "link": "https://calendar.app.google/WNVpgZeTaNPTCFwY9",
-      "tiene_cita": false,
-      "motivo": "sin botones hora"
-    },
-    {
-      "nombre": "Curtis Bateman",
-      "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Jeff Smith",
-      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Elder Harris",
-      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Spencer Greenwood",
-      "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Kate Brown",
-      "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Elder Brigham Bailey",
-      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Elder Calvin Smith",
-      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Kate Pratt",
-      "link": "https://calendar.app.google/Hkp4m2TKpGat5d9WA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Cindy Harrison",
-      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Raegan Monson",
-      "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Aaron Ludwig",
-      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Caroline Williams",
-      "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sister McKinley Adams",
-      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Margo Aston",
-      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Raskey",
-      "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Bonnie Forrest",
-      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Heather Johnson",
-      "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Stephanie Webber",
-      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Jennalyn Stuart",
-      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Lisa Northrup",
-      "link": "https://calendar.app.google/jewB15osUK9sPe6e7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "MJ Jouttenus",
-      "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Alexa Webb",
-      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Gary Hall",
-      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Elise Hall",
-      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Aaron Hill",
-      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Allison Fullmer",
-      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sydney Donavan",
-      "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
-    },
-    {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "John Merrell",
-      "link": "https://calendar.app.google/w5DmotEKmm1p78VE9",
-      "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Amy Zinn",
       "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Claire Long",
       "link": "https://calendar.app.google/Lu9ns9cwCEAR2E5k8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jordan Haws",
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Haylee Coots",
       "link": "https://calendar.app.google/wspxVDhHQxu28t2Y8",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
     },
     {
       "nombre": "Sister Hansen",
       "link": "https://calendar.app.google/2AKVx6BwJSaFJYn86",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Stanley Bingham",
-      "link": "https://calendar.app.google/SvmiZZSKQAAS65x28",
+      "link": "https://calendar.app.google/RM3cfGc2X3b9726cA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Holladay",
       "link": "https://calendar.app.google/PiHoZaqTK3nqi8F48",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Plummer",
       "link": "https://calendar.app.google/zeVjwQe7Gok8PJPd9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Calvin Smith",
+      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kate Pratt",
+      "link": "https://calendar.app.google/Hkp4m2TKpGat5d9WA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Cindy Harrison",
+      "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Raegan Monson",
+      "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Aaron Ludwig",
+      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister  Adams",
+      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Raskey",
+      "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Bonnie Forrest",
+      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Heather Johnson",
+      "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jennalyn Stuart",
+      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Grace Olsen",
+      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Lisa Northrup",
+      "link": "https://calendar.app.google/jewB15osUK9sPe6e7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "MJ Jouttenus",
+      "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Brent Baugh",
+      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Alexa Webb",
+      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Gary Hall",
+      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kim Wheeler",
+      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "John Merrell",
+      "link": "https://calendar.app.google/w5DmotEKmm1p78VE9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jesse Sparks",
+      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Stephanie Webber",
+      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Caroline Williams",
+      "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Margo Aston",
+      "link": "https://calendar.app.google/Mx3SeWcJymewMXrg7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sharon Elwell",
+      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "John Burgon",
+      "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Ezra Bloomfield",
+      "link": "https://calendar.app.google/iLAbZDSXnAUsS1JP7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
+    },
+    {
+      "nombre": "Caroline Owens",
+      "link": "https://calendar.app.google/7p1LN5wXJiU3KJa29",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Rebecca Shae",
+      "link": "https://calendar.app.google/juZuPLdqmbHFqwGFA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Alyssa Burrell",
+      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Douglas Taylor",
+      "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Emma Boyer",
+      "link": "https://calendar.app.google/rDroFw13jsahhmjM9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Damian Idiart",
+      "link": "https://calendar.app.google/zpSu9Etm9xiJnbwSA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Quinn Beames",
+      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Donna Cardon",
+      "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Amelia Dahle",
+      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Amy Chappell",
+      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Selena Miskin",
+      "link": "https://calendar.app.google/PXbadSF8sWg5d4jr9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jason Nielson",
+      "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kerri McAlinden",
+      "link": "https://calendar.app.google/V9CEQ6Kj18EhxoWr7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "James Jensen",
+      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jonas Hagman",
+      "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Lina Fotmuller",
+      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Helen Williamson",
       "link": "https://calendar.app.google/kpBiYUqc6JVcbozu8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Hunter",
       "link": "https://calendar.app.google/NUdjeGY4vZZLUA7M8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "EmilyLeMasters",
       "link": "https://calendar.app.google/j2Apvistg9f6moX27",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Anne Marie Coleman",
       "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Matthew Olsen",
       "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Josie Neel",
       "link": "https://calendar.app.google/njmY2s8Wd8kY4Eut9",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Garth Knudson",
       "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "David Wise",
       "link": "https://calendar.app.google/JuFBVwRPZJrWuYJA7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
-    },
-    {
-      "nombre": "Sister Worthington",
-      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Max Wilson",
       "link": "https://calendar.app.google/2ScJokEvcP2sLDTcA",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
     },
     {
       "nombre": "Elder Levi",
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Ezra Bloomfield",
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Hailey Moore",
       "link": "https://calendar.app.google/MtHTVTc6YoQ87ANv9",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
     },
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Bonnie Webber",
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Hyrum Scott",
       "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jonah Settle",
       "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Ethan Altamirano",
       "link": "https://calendar.app.google/bytgtXfjTMKBARv87",
       "tiene_cita": false,
-      "motivo": "sin botones hora"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
-      "tiene_cita": true,
-      "motivo": "TIENE HORARIOS"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Rachel Gillingwater",
       "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7",
       "tiene_cita": false,
-      "motivo": "sin disponibilidad"
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elise Hall",
+      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Evie Vaughn",
+      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Aaron Hill",
+      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Allison Fullmer",
+      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Worthington",
+      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Sherwood",
+      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Eileen Squires",
+      "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Lisa Carver",
+      "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Connor Foutz",
+      "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Eli Rex",
+      "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Ethan Rasmussen",
+      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kay Merrell",
+      "link": "https://calendar.app.google/gpQ53R5bXqWjFhy4A",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Jolley",
+      "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Cheryl Rosenberg",
+      "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Alyse Collins",
+      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Justin Ware",
+      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Richard Young",
+      "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Williamson",
+      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Amber Hunter",
+      "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Clark",
+      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Ashlyn Whitlock",
+      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Rebecca Boren",
+      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Crook",
+      "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Brent Higginson",
+      "link": "https://calendar.app.google/DreFeBxxHv6HzGgaA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Franz Sidney",
+      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Teresa Walker",
+      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Johnny Johnson",
+      "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Aaron Larson",
+      "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Shelly Felt",
+      "link": "https://calendar.app.google/2ueBHtHrPu34Gvyq9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Mark Warner",
+      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Laurie Atanasio",
+      "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Tony Martinez",
+      "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Ashley Haslam",
+      "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Carolyn Mildenhall",
+      "link": "https://calendly.com/d/cwht-6xm-t6b/english-chat-session?month=2025-12",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Reed Blau",
+      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Rebecca Holmstrom",
+      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sarah Idiart",
+      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Ann Fenton",
+      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Nicole Remund",
+      "link": "https://calendar.app.google/2DuvKPSzprR1iFd97",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
+    },
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kim Wheeler",
+      "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kristen Matley",
+      "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Ralph C Lewis",
+      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "katherine Baxter",
+      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Tamara Foote",
+      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Hollinger",
+      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Barbara Martin",
+      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Erica Taney",
+      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jacobie Hoopes",
+      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sister Thompson",
+      "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Christina Smith",
+      "link": "https://calendar.app.google/WNVpgZeTaNPTCFwY9",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se pudo leer el mes del calendario"
+    },
+    {
+      "nombre": "Curtis Bateman",
+      "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jeff Smith",
+      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Harris",
+      "link": "https://calendar.app.google/TiEvtWK7B1k7Cxab7",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Spencer Greenwood",
+      "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Kate Brown",
+      "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Elder Brigham Bailey",
+      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Sydney Donavan",
+      "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jenny Draper",
+      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Luke Arnott",
+      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jean Muir",
+      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Barbara Baugh",
+      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "Zona horaria no indicada",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-04T08:02:16.989Z"
+  "actualizado": "2026-11-04T16:14:16.526Z"
 }
