@@ -24,37 +24,36 @@ jobs:
           npx playwright install chromium --with-deps
       - name: Scrapear
         run: |
-        const { chromium } = require('playwright');
+          node << 'EOF'
+          const { chromium } = require('playwright');
 
-(async () => {
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
+          (async () => {
+            const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage();
 
-  await page.goto(
-    'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3787z0UDhWgBTk-CsglH0tGQQ3LSu4MS5ftylVNGebNq9ZzjugKtZEUqrjZkpvJJ2Ta9od8tmC',
-    { waitUntil: 'domcontentloaded', timeout: 60000 }
-  );
+            await page.goto(
+              'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3787z0UDhWgBTk-CsglH0tGQQ3LSu4MS5ftylVNGebNq9ZzjugKtZEUqrjZkpvJJ2Ta9od8tmC',
+              { waitUntil: 'domcontentloaded', timeout: 60000 }
+            );
 
-  await page.waitForTimeout(8000);
+            await page.waitForTimeout(8000);
 
-  console.log('\n========== TEXTO DE LA PÁGINA ==========\n');
-  console.log((await page.locator('body').innerText()).slice(0, 10000));
+            console.log(await page.locator('body').innerText());
 
-  console.log('\n========== BOTONES ==========\n');
+            const botones = await page.locator('button').evaluateAll(btns =>
+              btns.map(b => ({
+                texto: b.innerText,
+                aria: b.getAttribute('aria-label'),
+                disabled: b.disabled,
+                title: b.title
+              }))
+            );
 
-  const botones = await page.locator('button').evaluateAll(btns =>
-    btns.map(b => ({
-      texto: b.innerText,
-      aria: b.getAttribute('aria-label'),
-      disabled: b.disabled,
-      title: b.title
-    }))
-  );
+            console.log(JSON.stringify(botones, null, 2));
 
-  console.log(JSON.stringify(botones, null, 2));
-
-  await browser.close();
-})();
+            await browser.close();
+          })();
+          EOF
       - name: Push
         run: |
           git config user.name "bot"
