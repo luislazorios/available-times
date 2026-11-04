@@ -31,7 +31,7 @@ h1{text-align:center;font-size:27px;margin:0 0 6px}
 <p class="sub">See the first available date and time for each volunteer.</p>
 <div class="bar">
   <span id="contador">Loading availability...</span>
-  <button id="btnRefresh" class="btn">Actualizar</button>
+  <button id="btnActualizar" class="btn">Refresh</button>
 </div>
 <div id="estado">Checking for available time slots...</div>
 <section id="lista" class="grid"></section>
@@ -81,11 +81,11 @@ function crearTarjeta(p){
 
 async function cargarPersonas(){
   estadoEl.style.display="block";
-  estadoEl.textContent="Buscando horarios disponibles...";
+  estadoEl.textContent="Checking for available time slots...";
   listaEl.replaceChildren();
   try{
     const r=await fetch(DATA_URL+"?t="+Date.now());
-    if(!r.ok) throw new Error("No se pudo cargar personas.json.");
+    if(!r.ok) throw new Error("Could not load personas.json.");
     const d=await r.json();
     const personas=Array.isArray(d.personas)?d.personas:[];
     personas.sort((a,b)=>(a.fecha||"").localeCompare(b.fecha||"")||(a.hora||"").localeCompare(b.hora||""));
