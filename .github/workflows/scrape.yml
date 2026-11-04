@@ -251,33 +251,6 @@ jobs:
 
             fs.writeFileSync('personas.json', JSON.stringify(out, null, 2));
 
-            const cards = disponibles.map(p => `
-              <article class="person">
-                <div class="person-name">${escapeHtml(p.nombre)}</div>
-                <div class="slot"><strong>${escapeHtml(p.fecha)}</strong> · ${escapeHtml(p.hora)}</div>
-                <div class="zone">${escapeHtml(p.zona_horaria || '')}</div>
-                <a class="reserve" href="${escapeHtml(p.link)}" target="_blank" rel="noopener">Ver y reservar</a>
-              </article>`).join('');
-
-            const html = `<!doctype html>
-          <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-          <title>Voluntarios disponibles</title>
-          <style>
-          *{box-sizing:border-box}body{margin:0;padding:28px 16px;background:#f5f7fb;color:#172033;font-family:Arial,sans-serif}
-          main{max-width:1000px;margin:auto}h1{text-align:center;margin:0 0 8px;font-size:28px}
-          .updated{text-align:center;color:#687386;font-size:13px;margin-bottom:24px}
-          .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
-          .person{background:white;border:1px solid #e2e7ef;border-radius:14px;padding:17px;box-shadow:0 2px 8px #14213d0a}
-          .person-name{font-size:17px;font-weight:700;margin-bottom:8px}.slot{font-size:15px;color:#24324a}
-          .zone{font-size:12px;color:#687386;margin:5px 0 13px}.reserve{display:inline-block;background:#1d4ed8;color:white;text-decoration:none;border-radius:8px;padding:9px 13px;font-size:13px;font-weight:700}
-          .empty{text-align:center;background:white;padding:25px;border-radius:12px;color:#687386;grid-column:1/-1}
-          @media(max-width:620px){.grid{grid-template-columns:1fr}h1{font-size:23px}}
-          </style></head><body><main><h1>Voluntarios disponibles</h1>
-          <p class="updated">Actualizado: ${new Date().toLocaleString('es-CL', { timeZone: 'America/Santiago' })} · ${disponibles.length} disponibles de ${candidatos.length} revisados</p>
-          <section class="grid">${cards || '<div class="empty">Por ahora no encontramos horarios disponibles.</div>'}</section>
-          </main></body></html>`;
-
-            fs.writeFileSync('index.html', html);
             console.log(`FINAL: ${candidatos.length} revisados; ${disponibles.length} con fecha y hora disponibles.`);
             console.log('Primeros resultados:', JSON.stringify(disponibles.slice(0, 10), null, 2));
           })().catch(error => {
@@ -290,6 +263,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add personas.json index.html
+          git add personas.json
           git commit -m "Actualizar disponibilidad de voluntarios" || echo "Sin cambios nuevos"
           git push
