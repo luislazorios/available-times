@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,17 +28,17 @@ h1{text-align:center;font-size:27px;margin:0 0 6px}
 <body>
 <div class="wrap">
 <h1>Available Volunteers</h1>
-<p class="sub">Consulta el primer día y horario disponible de cada voluntario.</p>
+<p class="sub">See the first available date and time for each volunteer.</p>
 <div class="bar">
-  <span id="contador">Cargando disponibilidad...</span>
-  <button id="btnActualizar" class="btn">Actualizar</button>
+  <span id="contador">Loading availability...</span>
+  <button id="btnRefresh" class="btn">Actualizar</button>
 </div>
-<div id="estado">Buscando horarios disponibles...</div>
+<div id="estado">Checking for available time slots...</div>
 <section id="lista" class="grid"></section>
 <div class="don">
-  <b>Is it useful?</b>
+  <b>Is this useful?</b>
   <p style="font-size:11px;color:#888;margin-top:4px">Done by Luis Lazo (Cohort 24 &lt;3)</p>
-  <button id="btnDonar">Donate 1$</button>
+  <button id="btnDonar">Donate $1</button>
   <p id="estadoDonacion" style="font-size:11px;color:#999;margin-top:6px"></p>
 </div>
 </div>
@@ -49,15 +49,23 @@ const listaEl=document.getElementById("lista");
 const estadoEl=document.getElementById("estado");
 const contadorEl=document.getElementById("contador");
 
+function formatDate(value){
+  if(!value) return "";
+  const match=String(value).match(/^(\\d{4})-(\\d{2})-(\\d{2})$/);
+  if(!match) return value;
+  const date=new Date(Date.UTC(Number(match[1]),Number(match[2])-1,Number(match[3])));
+  return date.toLocaleDateString("en-US",{timeZone:"UTC",weekday:"short",month:"short",day:"numeric",year:"numeric"});
+}
+
 function crearTarjeta(p){
   const card=document.createElement("article");
   card.className="person";
   const nombre=document.createElement("div");
   nombre.className="person-name";
-  nombre.textContent=p.nombre||"Voluntario";
+  nombre.textContent=p.nombre||"Volunteer";
   const slot=document.createElement("div");
   slot.className="slot";
-  slot.textContent=(p.fecha||"Fecha no indicada")+" · "+(p.hora||"Hora no indicada");
+  slot.textContent=(formatDate(p.fecha)||"Date not available")+" · "+(p.hora||"Time not available");
   const zone=document.createElement("div");
   zone.className="zone";
   zone.textContent=p.zona_horaria||"";
@@ -66,7 +74,7 @@ function crearTarjeta(p){
   link.href=p.link||"#";
   link.target="_blank";
   link.rel="noopener";
-  link.textContent="Ver y reservar";
+  link.textContent="View and Book";
   card.append(nombre,slot,zone,link);
   return card;
 }
@@ -81,9 +89,9 @@ async function cargarPersonas(){
     const d=await r.json();
     const personas=Array.isArray(d.personas)?d.personas:[];
     personas.sort((a,b)=>(a.fecha||"").localeCompare(b.fecha||"")||(a.hora||"").localeCompare(b.hora||""));
-    contadorEl.textContent=personas.length+" disponibles de "+(d.revisados||0)+" revisados";
+    contadorEl.textContent=personas.length+" available out of "+(d.revisados||0)+" checked";
     if(!personas.length){
-      estadoEl.textContent="Por ahora no encontramos horarios disponibles.";
+      estadoEl.textContent="No available time slots found at the moment.";
     }else{
       estadoEl.style.display="none";
       personas.forEach(p=>listaEl.appendChild(crearTarjeta(p)));
@@ -92,25 +100,25 @@ async function cargarPersonas(){
       const fecha=new Date(d.actualizado);
       const stamp=document.createElement("p");
       stamp.className="sub";
-      stamp.textContent="Última actualización: "+fecha.toLocaleString("es-CL",{timeZone:"America/Santiago"});
+      stamp.textContent="Last updated: "+fecha.toLocaleString("en-US",{timeZone:"America/Santiago"});
       listaEl.before(stamp);
     }
   }catch(e){
-    estadoEl.textContent="No se pudieron cargar los datos. "+e.message;
-    contadorEl.textContent="Disponibilidad no disponible";
+    estadoEl.textContent="Could not load the data. "+e.message;
+    contadorEl.textContent="Availability unavailable";
   }
 }
 
 async function donar(){
   const el=document.getElementById("estadoDonacion");
-  el.textContent="Conectando con Mercado Pago...";
+  el.textContent="Connecting to Mercado Pago...";
   try{
     const res=await fetch(LAMBDA_DONACION_URL,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({})});
     const txt=await res.text();
     const data=JSON.parse(txt);
     if(data.url_pago) window.location.href=data.url_pago;
     else if(data.init_point) window.location.href=data.init_point;
-    else throw new Error(data.error||"No llegó URL de pago");
+    else throw new Error(data.error||"Payment URL was not received");
   }catch(e){el.textContent="Error: "+e.message;}
 }
 
