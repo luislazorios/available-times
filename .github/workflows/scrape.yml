@@ -76,7 +76,7 @@ jobs:
               })).filter(b => {
                 if (!b.aria || b.disabled) return false;
                 if (/no available times|previous|next month|next day|previous day/i.test(b.aria)) return false;
-                return /^\\d{1,2},\\s*(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\\b/i.test(b.aria);
+                return /^\d{1,2},\s*(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/i.test(b.aria);
               })
             );
           }
@@ -112,13 +112,13 @@ jobs:
             await page.waitForTimeout(1000);
             const times = await page.locator('button').evaluateAll(buttons =>
               buttons.map(b => ({
-                text: (b.innerText || '').trim().replace(/\\s+/g, ' '),
+                text: (b.innerText || '').trim().replace(/\s+/g, ' '),
                 aria: (b.getAttribute('aria-label') || '').trim(),
                 disabled: b.disabled || b.getAttribute('aria-disabled') === 'true'
               })).filter(b => {
                 if (b.disabled) return false;
                 const value = b.text || b.aria;
-                return /^\\d{1,2}(?::\\d{2})?\\s*(am|pm)\\b/i.test(value);
+                return /^\d{1,2}(?::\d{2})?\s*(am|pm)\b/i.test(value);
               })
             );
             return times.length ? (times[0].text || times[0].aria) : null;
@@ -130,7 +130,7 @@ jobs:
 
             let timezone = 'Zona horaria no indicada';
             const bodyText = await page.locator('body').innerText();
-            const zone = bodyText.match(/\\(GMT[+-]\\d{2}:\\d{2}\\)[^\\n]*/i);
+            const zone = bodyText.match(/\(GMT[+-]\d{2}:\d{2}\)[^\n]*/i);
             if (zone) timezone = zone[0].trim();
 
             for (let monthStep = 0; monthStep < MAX_MONTHS; monthStep++) {
@@ -142,7 +142,7 @@ jobs:
 
               const days = await readAvailableDays(page);
               for (const day of days) {
-                const match = day.aria.match(/^(\\d{1,2}),/);
+                const match = day.aria.match(/^(\d{1,2}),/);
                 if (!match) continue;
                 const dayNumber = Number(match[1]);
                 const clicked = await clickButtonByAria(page, day.aria);
