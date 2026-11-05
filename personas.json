@@ -1,638 +1,785 @@
 {
   "personas": [
     {
-      "nombre": "Jean Muir",
-      "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
+      "nombre": "Sister Alatini",
+      "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
       "fecha": "2026-11-05",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Hyrum Scott",
+      "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
+      "fecha": "2026-11-05",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-11-06",
-      "hora": "12:25pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Lucy Todd",
-      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "fecha": "2026-11-07",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Brennan Burnett",
-      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "fecha": "2026-11-07",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "fecha": "2026-11-07",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "10:25am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
       "fecha": "2026-11-07",
-      "hora": "12:31pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "10:31am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Anne Marie Coleman",
-      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
-      "fecha": "2026-11-08",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
+      "fecha": "2026-11-07",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "fecha": "2026-11-08",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Brennan Burnett",
+      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
+      "fecha": "2026-11-07",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Eric Conover",
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
       "fecha": "2026-11-08",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Allen Graff",
+      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
+      "fecha": "2026-11-08",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Dane Struve",
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
       "fecha": "2026-11-08",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "fecha": "2026-11-09",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Erica Taney",
-      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
-      "fecha": "2026-11-09",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Barbara Baugh",
-      "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
-      "fecha": "2026-11-09",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "fecha": "2026-11-09",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Connor Foutz",
-      "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
-      "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Sherwood",
-      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jeff Smith",
-      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
-      "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Matthew Olsen",
-      "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
-      "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Tony Martinez",
-      "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
-      "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Aaron Hill",
-      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
-      "fecha": "2026-11-09",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Eli Rex",
-      "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
-      "fecha": "2026-11-09",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "katherine Baxter",
-      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
-      "fecha": "2026-11-09",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Heather Johnson",
-      "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA",
-      "fecha": "2026-11-09",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "fecha": "2026-11-09",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "fecha": "2026-11-09",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Anne Marie Coleman",
+      "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
+      "fecha": "2026-11-08",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
       "fecha": "2026-11-09",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
       "fecha": "2026-11-09",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Aaron Hill",
+      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
+      "fecha": "2026-11-09",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Eli Rex",
+      "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
+      "fecha": "2026-11-09",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "katherine Baxter",
+      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
+      "fecha": "2026-11-09",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Barbara Martin",
+      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
+      "fecha": "2026-11-09",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Heather Johnson",
+      "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA",
+      "fecha": "2026-11-09",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "fecha": "2026-11-09",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elizabeth Astle",
+      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
+      "fecha": "2026-11-09",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
       "fecha": "2026-11-09",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "fecha": "2026-11-09",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Rebecca Stone",
       "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
       "fecha": "2026-11-09",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Garth Knudson",
       "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5",
       "fecha": "2026-11-09",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Caroline Williams",
       "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
       "fecha": "2026-11-09",
-      "hora": "8:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Helen Williamson",
-      "link": "https://calendar.app.google/kpBiYUqc6JVcbozu8",
+      "nombre": "Erica Taney",
+      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
+      "fecha": "2026-11-09",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Doherty",
+      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
+      "fecha": "2026-11-09",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Connor Foutz",
+      "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
+      "fecha": "2026-11-09",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Sherwood",
+      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
+      "fecha": "2026-11-09",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Ralph C Lewis",
+      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
+      "fecha": "2026-11-09",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sarah Idiart",
+      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
+      "fecha": "2026-11-09",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Jeff Smith",
+      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "fecha": "2026-11-09",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Elise Hall",
-      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
-      "fecha": "2026-11-10",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
+      "fecha": "2026-11-09",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "John Peterson",
-      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
-      "fecha": "2026-11-10",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Matthew Olsen",
+      "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
+      "fecha": "2026-11-09",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Laurie Atanasio",
-      "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
-      "fecha": "2026-11-10",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jason Christensen",
-      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "fecha": "2026-11-10",
-      "hora": "10:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Chris Allen",
-      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
-      "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Gary Hall",
-      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
-      "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
-      "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Tana Grames",
-      "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
-      "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jonah Tietjen",
-      "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
-      "fecha": "2026-11-10",
-      "hora": "11:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "fecha": "2026-11-10",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "fecha": "2026-11-10",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "fecha": "2026-11-10",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Tony Martinez",
+      "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
+      "fecha": "2026-11-09",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
       "fecha": "2026-11-10",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Suzanne Fullmer",
+      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
+      "fecha": "2026-11-10",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2026-11-10",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
       "fecha": "2026-11-10",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Rachel Vogelman",
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
       "fecha": "2026-11-10",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "fecha": "2026-11-10",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Amelia Dahle",
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
       "fecha": "2026-11-10",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
       "fecha": "2026-11-10",
-      "hora": "7:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
       "fecha": "2026-11-10",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
       "fecha": "2026-11-10",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Cindy Harrison",
       "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
       "fecha": "2026-11-10",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Lisa Carver",
       "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
       "fecha": "2026-11-10",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Trina Jacobson",
       "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6",
       "fecha": "2026-11-10",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "fecha": "2026-11-10",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
       "fecha": "2026-11-10",
-      "hora": "9:45am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "7:45am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Brenley Burton",
-      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
-      "fecha": "2026-11-11",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Elise Hall",
+      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
+      "fecha": "2026-11-10",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Leslie Thomas",
-      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
-      "fecha": "2026-11-11",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "John Peterson",
+      "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
+      "fecha": "2026-11-10",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Teresa Walker",
-      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "fecha": "2026-11-11",
-      "hora": "10:15am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Laurie Atanasio",
+      "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
+      "fecha": "2026-11-10",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Raegan Monson",
-      "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
-      "fecha": "2026-11-11",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Jason Christensen",
+      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
+      "fecha": "2026-11-10",
+      "hora": "8:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Franz Sidney",
-      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
-      "fecha": "2026-11-11",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Chris Allen",
+      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
+      "fecha": "2026-11-10",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Sister Whitney Morgan",
-      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
-      "fecha": "2026-11-11",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Gary Hall",
+      "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
+      "fecha": "2026-11-10",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Elder Hyrum Scott",
-      "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
-      "fecha": "2026-11-11",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Sister Evie Vaughn",
+      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
+      "fecha": "2026-11-10",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "James Jensen",
-      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
-      "fecha": "2026-11-11",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
+      "fecha": "2026-11-10",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "fecha": "2026-11-11",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Jonah Tietjen",
+      "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
+      "fecha": "2026-11-10",
+      "hora": "9:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Rachel Gillingwater",
-      "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7",
-      "fecha": "2026-11-11",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Jenny Draper",
+      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
+      "fecha": "2026-11-10",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
-      "nombre": "Sharon Elwell",
-      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
-      "fecha": "2026-11-11",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "fecha": "2026-11-11",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "fecha": "2026-11-11",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "fecha": "2026-11-11",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
-      "fecha": "2026-11-11",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
-      "fecha": "2026-11-11",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "nombre": "Luke Arnott",
+      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
+      "fecha": "2026-11-10",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "fecha": "2026-11-11",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Rachel Gillingwater",
+      "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7",
+      "fecha": "2026-11-11",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sharon Elwell",
+      "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
+      "fecha": "2026-11-11",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
+      "fecha": "2026-11-11",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Brent Baugh",
+      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
+      "fecha": "2026-11-11",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Brenley Burton",
+      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
+      "fecha": "2026-11-11",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Leslie Thomas",
+      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
+      "fecha": "2026-11-11",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
+      "fecha": "2026-11-11",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Kim Wheeler",
+      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
+      "fecha": "2026-11-11",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Kim Wheeler",
+      "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
+      "fecha": "2026-11-11",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
       "fecha": "2026-11-11",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-11-11",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
       "fecha": "2026-11-11",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
       "fecha": "2026-11-11",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "fecha": "2026-11-11",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Elder Levi",
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "fecha": "2026-11-11",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Teresa Walker",
+      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
+      "fecha": "2026-11-11",
+      "hora": "8:15am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Raegan Monson",
+      "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
+      "fecha": "2026-11-11",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Franz Sidney",
+      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
+      "fecha": "2026-11-11",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sister Whitney Morgan",
+      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
+      "fecha": "2026-11-11",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "James Jensen",
+      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
+      "fecha": "2026-11-11",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sister Clark",
+      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
+      "fecha": "2026-11-11",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Eileen Squires",
+      "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
+      "fecha": "2026-11-12",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Jennalyn Stuart",
+      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
+      "fecha": "2026-11-12",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Rebecca Holmstrom",
+      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
+      "fecha": "2026-11-12",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Amy Chappell",
+      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
+      "fecha": "2026-11-12",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Bonnie Forrest",
+      "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
+      "fecha": "2026-11-12",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Quinn Beames",
+      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
+      "fecha": "2026-11-12",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Aaron Ludwig",
+      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
+      "fecha": "2026-11-12",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Henry Wheeler",
+      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
+      "fecha": "2026-11-12",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Jesse Sparks",
+      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
+      "fecha": "2026-11-12",
+      "hora": "5:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Alexa Webb",
+      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "EmilyLeMasters",
+      "link": "https://calendar.app.google/j2Apvistg9f6moX27",
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sister Williamson",
+      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Theresa Sexton",
+      "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Matt Richards",
+      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
+      "fecha": "2026-11-12",
+      "hora": "7:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Brigham Bailey",
+      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
+      "fecha": "2026-11-12",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sister Thompson",
+      "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
+      "fecha": "2026-11-12",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Hollinger",
+      "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
+      "fecha": "2026-11-12",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Lisa Pace",
+      "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
+      "fecha": "2026-11-12",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Stanley Bingham",
+      "link": "https://calendar.app.google/RM3cfGc2X3b9726cA",
+      "fecha": "2026-11-12",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Stephanie Webber",
+      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
+      "fecha": "2026-11-12",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Tana Grames",
+      "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
+      "fecha": "2026-11-12",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Bonnie Webber",
+      "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8",
+      "fecha": "2026-11-12",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Kristen Matley",
+      "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
+      "fecha": "2026-11-12",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Stacy Woods",
+      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
+      "fecha": "2026-11-12",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Ezra Bloomfield",
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "fecha": "2026-11-13",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-11-19",
-      "hora": "7:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-11-23",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-11-23",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2026-12-11",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     }
   ],
   "revisados": 182,
-  "total_disponibles": 90,
+  "total_disponibles": 111,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -640,7 +787,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -649,7 +796,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -658,26 +805,26 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Wendy Grainger",
@@ -685,7 +832,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -694,7 +841,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -712,7 +859,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -721,7 +868,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -730,7 +877,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -738,8 +885,8 @@
       "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -747,8 +894,8 @@
       "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -756,8 +903,8 @@
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -765,18 +912,18 @@
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "7:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Charisse",
@@ -784,7 +931,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -801,8 +948,8 @@
       "link": "https://calendar.app.google/s8okUd92WDVqK9dQ6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -810,8 +957,8 @@
       "link": "https://calendar.app.google/WiZEqXMLDTVq6uWp8",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -819,8 +966,8 @@
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -828,18 +975,18 @@
       "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "7:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elizabeth Martinez",
@@ -847,7 +994,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -856,7 +1003,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -864,8 +1011,8 @@
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -874,7 +1021,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -883,7 +1030,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -891,8 +1038,8 @@
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "11:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -901,7 +1048,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -909,17 +1056,17 @@
       "link": "https://calendar.app.google/9kHjar6JL5HYyATm8",
       "tiene_cita": true,
       "fecha": "2026-11-08",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Tana Grames",
       "link": "https://calendar.app.google/Sg6DyAjRsSqDv2xaA",
       "tiene_cita": true,
-      "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "fecha": "2026-11-12",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -937,7 +1084,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -945,18 +1092,18 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "tiene_cita": true,
       "fecha": "2026-11-08",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Stanley Bingham",
       "link": "https://calendar.app.google/RM3cfGc2X3b9726cA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Holladay",
@@ -964,7 +1111,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -973,7 +1120,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -982,7 +1129,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -990,8 +1137,8 @@
       "link": "https://calendar.app.google/4m33cMynev2zQ8Dg9",
       "tiene_cita": true,
       "fecha": "2026-11-08",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -999,8 +1146,8 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1009,7 +1156,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1018,7 +1165,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1026,8 +1173,8 @@
       "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1035,18 +1182,18 @@
       "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister  Adams",
@@ -1054,7 +1201,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1062,36 +1209,36 @@
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Bonnie Forrest",
       "link": "https://calendar.app.google/gXgBgR4shHJ5SWDm9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Heather Johnson",
       "link": "https://calendar.app.google/H4vHRxRLjeztxFqBA",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Grace Olsen",
@@ -1099,7 +1246,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1108,7 +1255,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1116,8 +1263,8 @@
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "tiene_cita": true,
       "fecha": "2026-12-11",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1125,26 +1272,26 @@
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Alexa Webb",
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Gary Hall",
       "link": "https://calendar.app.google/LYi6fxvB9T4Z8aV28",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1152,8 +1299,8 @@
       "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1162,34 +1309,34 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "5:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Caroline Williams",
       "link": "https://calendar.app.google/TCiDiMBBP43wKLGa6",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "8:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1198,7 +1345,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1206,8 +1353,8 @@
       "link": "https://calendar.app.google/ZdMXTbXdimzvKWT66",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1216,7 +1363,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1234,7 +1381,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1243,7 +1390,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1251,8 +1398,8 @@
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1261,7 +1408,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1279,16 +1426,16 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
       "tiene_cita": true,
-      "fecha": "2026-11-10",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "fecha": "2026-11-12",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1296,8 +1443,8 @@
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1305,8 +1452,8 @@
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1314,18 +1461,18 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
       "fecha": "2026-11-23",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Selena Miskin",
@@ -1333,7 +1480,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1342,7 +1489,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1351,7 +1498,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1359,8 +1506,8 @@
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1369,7 +1516,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1378,7 +1525,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1386,8 +1533,8 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1395,27 +1542,27 @@
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "10:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Alatini",
       "link": "https://calendar.app.google/H2DJURrJx4Zr2w866",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-05",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Helen Williamson",
       "link": "https://calendar.app.google/kpBiYUqc6JVcbozu8",
-      "tiene_cita": true,
-      "fecha": "2026-11-09",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Hunter",
@@ -1423,7 +1570,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1431,35 +1578,35 @@
       "link": "https://calendar.app.google/ZuS8eqZXwdpzerqV6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "EmilyLeMasters",
       "link": "https://calendar.app.google/j2Apvistg9f6moX27",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Anne Marie Coleman",
       "link": "https://calendar.app.google/ebCz8881VqGQi5Ty8",
       "tiene_cita": true,
       "fecha": "2026-11-08",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1467,8 +1614,8 @@
       "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1477,7 +1624,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1485,8 +1632,8 @@
       "link": "https://calendar.app.google/9PL4txgnYGSUTxmq5",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1495,7 +1642,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1504,7 +1651,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1512,8 +1659,8 @@
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1522,7 +1669,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1530,8 +1677,8 @@
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
       "tiene_cita": true,
       "fecha": "2026-11-07",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1539,8 +1686,8 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1548,8 +1695,8 @@
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1566,8 +1713,8 @@
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1575,8 +1722,8 @@
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "tiene_cita": true,
       "fecha": "2026-11-13",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1593,35 +1740,35 @@
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Bonnie Webber",
       "link": "https://calendar.app.google/mhTN11LcQqkXAbDr8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Hyrum Scott",
       "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
       "tiene_cita": true,
-      "fecha": "2026-11-11",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "fecha": "2026-11-05",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1630,7 +1777,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1647,8 +1794,8 @@
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "tiene_cita": true,
       "fecha": "2026-11-06",
-      "hora": "12:25pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:25am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1656,8 +1803,8 @@
       "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1665,8 +1812,8 @@
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1674,8 +1821,8 @@
       "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1683,8 +1830,8 @@
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1693,7 +1840,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1701,8 +1848,8 @@
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "9:45am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "7:45am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1710,26 +1857,26 @@
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Eileen Squires",
       "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lisa Carver",
       "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1737,8 +1884,8 @@
       "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1746,8 +1893,8 @@
       "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1756,7 +1903,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1765,7 +1912,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1773,8 +1920,8 @@
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1783,7 +1930,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1791,8 +1938,8 @@
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1800,8 +1947,8 @@
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1810,7 +1957,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1818,26 +1965,26 @@
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1845,8 +1992,8 @@
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1855,7 +2002,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1864,7 +2011,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1872,8 +2019,8 @@
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1882,7 +2029,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1891,7 +2038,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1899,8 +2046,8 @@
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1908,8 +2055,8 @@
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "10:15am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:15am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1917,8 +2064,8 @@
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": true,
       "fecha": "2026-11-23",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1926,8 +2073,8 @@
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1936,7 +2083,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1944,8 +2091,8 @@
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1953,8 +2100,8 @@
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1962,8 +2109,8 @@
       "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1971,8 +2118,8 @@
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
       "tiene_cita": true,
       "fecha": "2026-11-07",
-      "hora": "12:31pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:31am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1980,8 +2127,8 @@
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": true,
       "fecha": "2026-11-19",
-      "hora": "7:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1996,37 +2143,37 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-10",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2035,7 +2182,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2052,8 +2199,8 @@
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
       "tiene_cita": true,
       "fecha": "2026-11-07",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2061,26 +2208,26 @@
       "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kristen Matley",
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2088,8 +2235,8 @@
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2097,8 +2244,8 @@
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2106,8 +2253,8 @@
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2115,26 +2262,26 @@
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2142,8 +2289,8 @@
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2151,18 +2298,18 @@
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
       "tiene_cita": true,
       "fecha": "2026-11-11",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Thompson",
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Christina Smith",
@@ -2179,7 +2326,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2187,8 +2334,8 @@
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "tiene_cita": true,
       "fecha": "2026-11-09",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2197,7 +2344,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2206,7 +2353,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2215,17 +2362,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Brigham Bailey",
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-12",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sydney Donavan",
@@ -2233,7 +2380,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2241,37 +2388,37 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
       "tiene_cita": true,
       "fecha": "2026-11-10",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
       "tiene_cita": true,
-      "fecha": "2026-11-07",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "fecha": "2026-11-10",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jean Muir",
       "link": "https://calendar.app.google/Kg5hpEtwcSVzyqAJ8",
-      "tiene_cita": true,
-      "fecha": "2026-11-05",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Barbara Baugh",
       "link": "https://calendar.app.google/KDw5BHCT92ipibXBA",
-      "tiene_cita": true,
-      "fecha": "2026-11-09",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-05T01:51:06.315Z"
+  "actualizado": "2026-11-05T08:42:13.453Z"
 }
