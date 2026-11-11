@@ -1,218 +1,211 @@
 {
   "personas": [
     {
-      "nombre": "Emily Felix",
-      "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
-      "fecha": "2026-11-11",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "nombre": "Elizabeth Astle",
+      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
+      "fecha": "2026-11-16",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Nicole Remund",
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA",
       "fecha": "2026-11-16",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Rebecca Holmstrom",
-      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "fecha": "2026-11-17",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Wendy Grainger",
-      "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
-      "fecha": "2026-11-17",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "fecha": "2026-11-17",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "fecha": "2026-11-17",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
       "fecha": "2026-11-17",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Amelia Dahle",
-      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
-      "fecha": "2026-11-17",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "fecha": "2026-11-17",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Jesse Sparks",
-      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
-      "fecha": "2026-11-17",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Matt Richards",
-      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
-      "fecha": "2026-11-17",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Lisa Carver",
-      "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
-      "fecha": "2026-11-17",
-      "hora": "6:45am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Jason Christensen",
-      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "fecha": "2026-11-17",
-      "hora": "7:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Sister Worthington",
-      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
-      "fecha": "2026-11-17",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "fecha": "2026-11-17",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Jeff Smith",
-      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
-      "fecha": "2026-11-17",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
-      "nombre": "Chris Allen",
-      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
-      "fecha": "2026-11-17",
-      "hora": "8:40am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "fecha": "2026-11-17",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "fecha": "2026-11-17",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
       "fecha": "2026-11-17",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Sister Evie Vaughn",
       "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
       "fecha": "2026-11-17",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Rebecca Holmstrom",
+      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
+      "fecha": "2026-11-17",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Wendy Grainger",
+      "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
+      "fecha": "2026-11-17",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Amelia Dahle",
+      "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
+      "fecha": "2026-11-17",
+      "hora": "3:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Allen Graff",
+      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
+      "fecha": "2026-11-17",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Jesse Sparks",
+      "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
+      "fecha": "2026-11-17",
+      "hora": "5:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Matt Richards",
+      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
+      "fecha": "2026-11-17",
+      "hora": "7:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Lisa Carver",
+      "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
+      "fecha": "2026-11-17",
+      "hora": "7:45am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Jason Christensen",
+      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
+      "fecha": "2026-11-17",
+      "hora": "8:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Sister Worthington",
+      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
+      "fecha": "2026-11-17",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
+      "fecha": "2026-11-17",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Jeff Smith",
+      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
+      "fecha": "2026-11-17",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+    },
+    {
+      "nombre": "Chris Allen",
+      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
+      "fecha": "2026-11-17",
+      "hora": "9:40am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-11-18",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
       "fecha": "2026-11-24",
-      "hora": "8:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "9:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-11-25",
-      "hora": "1:35pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "2:35pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-11-30",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "6:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-11-30",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Ezra Bloomfield",
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "fecha": "2026-12-04",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-14",
-      "hora": "4:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2026-12-18",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
     }
   ],
   "revisados": 181,
-  "total_disponibles": 30,
+  "total_disponibles": 29,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -220,7 +213,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -229,7 +222,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -238,7 +231,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -247,7 +240,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -256,7 +249,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -264,8 +257,8 @@
       "link": "https://calendar.app.google/PB8BVSDvth5JsaZQ6",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -274,7 +267,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -292,7 +285,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -301,7 +294,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -310,7 +303,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -318,8 +311,8 @@
       "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "8:40am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:40am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -328,7 +321,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -337,7 +330,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -346,7 +339,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -355,7 +348,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -364,7 +357,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -391,7 +384,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -400,7 +393,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -409,7 +402,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -417,8 +410,8 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "7:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -427,7 +420,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -436,7 +429,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -444,8 +437,8 @@
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -453,8 +446,8 @@
       "link": "https://calendar.app.google/CFuoMJt2rjBXqcheA",
       "tiene_cita": true,
       "fecha": "2026-11-16",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -471,8 +464,8 @@
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "8:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -481,7 +474,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -490,7 +483,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -499,7 +492,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -517,7 +510,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -525,8 +518,8 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -535,7 +528,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -553,7 +546,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -562,7 +555,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -571,7 +564,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -580,7 +573,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -589,7 +582,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -598,7 +591,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -607,7 +600,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -616,7 +609,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -625,7 +618,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -634,7 +627,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -643,7 +636,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -652,7 +645,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -661,7 +654,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -670,7 +663,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -679,7 +672,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -688,7 +681,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -696,8 +689,8 @@
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "tiene_cita": true,
       "fecha": "2026-12-18",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -706,7 +699,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -715,7 +708,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -724,7 +717,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -733,7 +726,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -742,7 +735,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -750,8 +743,8 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "4:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "5:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -760,7 +753,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -769,7 +762,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -778,7 +771,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -787,7 +780,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -796,7 +789,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -814,7 +807,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -823,7 +816,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -832,7 +825,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -841,7 +834,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -850,7 +843,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -859,7 +852,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -868,7 +861,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -876,8 +869,8 @@
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "3:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -885,8 +878,8 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -895,7 +888,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -904,7 +897,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -913,7 +906,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -922,7 +915,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -931,7 +924,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -940,7 +933,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -949,7 +942,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -958,7 +951,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -966,8 +959,8 @@
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "7:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "8:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -976,7 +969,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -985,7 +978,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -994,7 +987,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1003,7 +996,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1012,7 +1005,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1021,7 +1014,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1030,7 +1023,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1039,7 +1032,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1048,7 +1041,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1057,7 +1050,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1066,17 +1059,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
-      "tiene_cita": true,
-      "fecha": "2026-11-11",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lauryn Spilsbury",
@@ -1084,7 +1077,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1093,7 +1086,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1101,8 +1094,8 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1111,7 +1104,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1129,7 +1122,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1137,8 +1130,8 @@
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "tiene_cita": true,
       "fecha": "2026-12-04",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1147,7 +1140,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1155,8 +1148,8 @@
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1165,16 +1158,16 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "tiene_cita": true,
-      "fecha": "2026-11-17",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "fecha": "2026-11-16",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1183,7 +1176,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1192,7 +1185,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1209,8 +1202,8 @@
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "1:35pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "2:35pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1219,7 +1212,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1228,7 +1221,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1236,8 +1229,8 @@
       "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1246,7 +1239,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1255,7 +1248,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1263,8 +1256,8 @@
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1273,7 +1266,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1282,7 +1275,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1290,8 +1283,8 @@
       "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "6:45am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "7:45am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1300,7 +1293,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1309,7 +1302,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1318,7 +1311,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1327,7 +1320,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1335,8 +1328,8 @@
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1344,8 +1337,8 @@
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1353,8 +1346,8 @@
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "tiene_cita": true,
       "fecha": "2026-11-18",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1363,7 +1356,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1372,7 +1365,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1381,7 +1374,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1390,7 +1383,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1399,7 +1392,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1408,7 +1401,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1417,7 +1410,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1426,7 +1419,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1435,7 +1428,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1444,7 +1437,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1453,7 +1446,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1462,7 +1455,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1471,7 +1464,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1479,8 +1472,8 @@
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": true,
       "fecha": "2026-12-14",
-      "hora": "4:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1488,8 +1481,8 @@
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1498,7 +1491,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1507,7 +1500,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1516,7 +1509,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1525,7 +1518,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1534,7 +1527,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1542,8 +1535,8 @@
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "6:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1561,7 +1554,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1570,7 +1563,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1578,8 +1571,8 @@
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1588,7 +1581,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1597,7 +1590,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1615,7 +1608,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1624,7 +1617,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1633,7 +1626,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1642,7 +1635,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1650,8 +1643,8 @@
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1660,7 +1653,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1669,7 +1662,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1678,7 +1671,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1687,7 +1680,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1696,7 +1689,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1705,7 +1698,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1714,7 +1707,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1723,7 +1716,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1741,7 +1734,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1749,8 +1742,8 @@
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1759,7 +1752,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1768,7 +1761,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1777,7 +1770,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1786,7 +1779,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1795,7 +1788,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1804,7 +1797,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1813,7 +1806,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1822,7 +1815,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1831,7 +1824,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1840,9 +1833,9 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-10T22:00:43.777Z"
+  "actualizado": "2026-11-11T02:01:14.360Z"
 }
