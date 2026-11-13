@@ -1,45 +1,10 @@
 {
   "personas": [
     {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "fecha": "2026-11-16",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Jeff Smith",
-      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
-      "fecha": "2026-11-17",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Ralph C Lewis",
-      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
-      "fecha": "2026-11-17",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Maria Kommers",
-      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
-      "fecha": "2026-11-17",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
       "fecha": "2026-11-17",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "fecha": "2026-11-17",
-      "hora": "12:00pm",
+      "hora": "12:15pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -57,24 +22,17 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Jason Christensen",
-      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "fecha": "2026-11-17",
-      "hora": "9:00pm",
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "fecha": "2026-11-18",
+      "hora": "1:30pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
       "fecha": "2026-11-18",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Connor Foutz",
-      "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
-      "fecha": "2026-11-18",
-      "hora": "10:00am",
+      "hora": "1:30pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -85,15 +43,8 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Sarah Idiart",
-      "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "fecha": "2026-11-18",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Sister McDowell",
-      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
+      "nombre": "Ralph C Lewis",
+      "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "fecha": "2026-11-18",
       "hora": "10:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -134,24 +85,10 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "fecha": "2026-11-18",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "fecha": "2026-11-18",
-      "hora": "11:20am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -164,13 +101,6 @@
     {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
-      "fecha": "2026-11-18",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Leslie Thomas",
-      "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
       "fecha": "2026-11-18",
       "hora": "12:00pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -211,17 +141,10 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Jordan Haws",
-      "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8",
+      "nombre": "Rebecca Stone",
+      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
       "fecha": "2026-11-18",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Reed Blau",
-      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
-      "fecha": "2026-11-18",
-      "hora": "7:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -239,15 +162,15 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
+      "nombre": "Alyse Collins",
+      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
       "fecha": "2026-11-18",
-      "hora": "8:30am",
+      "hora": "9:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "fecha": "2026-11-18",
       "hora": "9:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -257,13 +180,6 @@
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
       "fecha": "2026-11-19",
       "hora": "1:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Aaron Ludwig",
-      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "fecha": "2026-11-19",
-      "hora": "1:30pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -285,34 +201,6 @@
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
       "fecha": "2026-11-19",
       "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Stacy Woods",
-      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "fecha": "2026-11-19",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Eileen Squires",
-      "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
-      "fecha": "2026-11-19",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Stephanie Webber",
-      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
-      "fecha": "2026-11-19",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Jennalyn Stuart",
-      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "fecha": "2026-11-19",
-      "hora": "11:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -351,8 +239,15 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Rebecca Stone",
-      "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
+      "nombre": "Stephanie Webber",
+      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
+      "fecha": "2026-11-19",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Reed Blau",
+      "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "fecha": "2026-11-19",
       "hora": "7:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -400,13 +295,6 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Liam Webber",
-      "link": "https://calendar.app.google/fisMkSJV2cGsHPYz9",
-      "fecha": "2026-11-20",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
       "nombre": "Allison Fullmer",
       "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
       "fecha": "2026-11-20",
@@ -416,13 +304,6 @@
     {
       "nombre": "Elder Sherwood",
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "fecha": "2026-11-20",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "fecha": "2026-11-20",
       "hora": "10:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -444,6 +325,13 @@
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
+      "fecha": "2026-11-20",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "fecha": "2026-11-20",
       "hora": "10:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -484,13 +372,6 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Grace Olsen",
-      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "fecha": "2026-11-20",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
       "fecha": "2026-11-20",
@@ -512,24 +393,10 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Sister Crook",
-      "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
-      "fecha": "2026-11-20",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
       "fecha": "2026-11-20",
       "hora": "6:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Alyssa Burrell",
-      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
-      "fecha": "2026-11-20",
-      "hora": "7:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -544,6 +411,13 @@
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9",
       "fecha": "2026-11-20",
       "hora": "7:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Alyssa Burrell",
+      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
+      "fecha": "2026-11-20",
+      "hora": "7:45am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
@@ -568,8 +442,8 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Sister Thompson",
-      "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "fecha": "2026-11-20",
       "hora": "9:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
@@ -617,6 +491,13 @@
       "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
+      "nombre": "Maria Kommers",
+      "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
+      "fecha": "2026-12-07",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-14",
@@ -632,7 +513,7 @@
     }
   ],
   "revisados": 181,
-  "total_disponibles": 90,
+  "total_disponibles": 73,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -646,11 +527,11 @@
     {
       "nombre": "Liam Webber",
       "link": "https://calendar.app.google/fisMkSJV2cGsHPYz9",
-      "tiene_cita": true,
-      "fecha": "2026-11-20",
-      "hora": "1:30pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Hyre",
@@ -772,11 +653,11 @@
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "10:30am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Charisse",
@@ -827,8 +708,8 @@
       "nombre": "Rebecca Stone",
       "link": "https://calendar.app.google/54waBn7tJd9BNdDaA",
       "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "7:30am",
+      "fecha": "2026-11-18",
+      "hora": "7:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -898,11 +779,11 @@
     {
       "nombre": "Jordan Haws",
       "link": "https://calendar.app.google/SSmpYfx385dzfGuQ8",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "7:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Eric Conover",
@@ -1042,11 +923,11 @@
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "1:30pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister  Adams",
@@ -1087,20 +968,20 @@
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "11:30am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": true,
-      "fecha": "2026-11-20",
-      "hora": "2:30pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1123,11 +1004,11 @@
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Alexa Webb",
@@ -1179,7 +1060,7 @@
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
       "tiene_cita": true,
       "fecha": "2026-11-19",
-      "hora": "11:00am",
+      "hora": "12:00pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -1251,7 +1132,7 @@
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
       "tiene_cita": true,
       "fecha": "2026-11-20",
-      "hora": "7:00am",
+      "hora": "7:45am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -1304,8 +1185,8 @@
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
-      "fecha": "2026-11-17",
-      "hora": "11:30am",
+      "fecha": "2026-12-07",
+      "hora": "9:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -1377,18 +1258,18 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
       "tiene_cita": true,
       "fecha": "2026-11-18",
-      "hora": "1:00pm",
+      "hora": "1:30pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "tiene_cita": true,
-      "fecha": "2026-11-17",
-      "hora": "9:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Alatini",
@@ -1521,18 +1402,18 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-11-18",
-      "hora": "8:30am",
+      "hora": "9:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Leslie Thomas",
       "link": "https://calendar.app.google/MDyu8RSTrG9Vtg4w6",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "12:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Max Wilson",
@@ -1573,11 +1454,11 @@
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "tiene_cita": true,
-      "fecha": "2026-11-17",
-      "hora": "12:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1699,11 +1580,11 @@
     {
       "nombre": "Eileen Squires",
       "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
-      "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "11:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lisa Carver",
@@ -1717,11 +1598,11 @@
     {
       "nombre": "Connor Foutz",
       "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "10:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Eli Rex",
@@ -1764,7 +1645,7 @@
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "tiene_cita": true,
       "fecha": "2026-11-18",
-      "hora": "10:00am",
+      "hora": "11:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -1853,19 +1734,19 @@
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "11:00am",
+      "fecha": "2026-11-20",
+      "hora": "9:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Crook",
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
-      "tiene_cita": true,
-      "fecha": "2026-11-20",
-      "hora": "5:30pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Brent Higginson",
@@ -1980,7 +1861,7 @@
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
       "tiene_cita": true,
       "fecha": "2026-11-17",
-      "hora": "11:30am",
+      "hora": "12:15pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -1988,7 +1869,7 @@
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "tiene_cita": true,
-      "fecha": "2026-11-18",
+      "fecha": "2026-11-19",
       "hora": "7:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
@@ -2005,20 +1886,20 @@
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "10:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Ann Fenton",
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "11:20am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Nicole Remund",
@@ -2060,7 +1941,7 @@
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-18",
       "hora": "1:30pm",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
@@ -2069,8 +1950,8 @@
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "tiene_cita": true,
-      "fecha": "2026-11-17",
-      "hora": "11:00am",
+      "fecha": "2026-11-18",
+      "hora": "10:00am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -2088,7 +1969,7 @@
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": true,
       "fecha": "2026-11-20",
-      "hora": "10:00am",
+      "hora": "10:30am",
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
@@ -2140,11 +2021,11 @@
     {
       "nombre": "Sister Thompson",
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
-      "tiene_cita": true,
-      "fecha": "2026-11-20",
-      "hora": "9:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Christina Smith",
@@ -2167,11 +2048,11 @@
     {
       "nombre": "Jeff Smith",
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
-      "tiene_cita": true,
-      "fecha": "2026-11-17",
-      "hora": "10:30am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Harris",
@@ -2264,5 +2145,5 @@
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-13T09:34:34.290Z"
+  "actualizado": "2026-11-13T17:28:40.942Z"
 }
