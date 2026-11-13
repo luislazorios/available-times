@@ -1,6 +1,13 @@
 {
   "personas": [
     {
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "fecha": "2026-11-16",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+    },
+    {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
       "fecha": "2026-11-17",
@@ -120,22 +127,8 @@
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
-      "nombre": "Elder Doherty",
-      "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
       "nombre": "Elder Hyrum Scott",
       "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
       "fecha": "2026-11-18",
       "hora": "11:30am",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
@@ -194,27 +187,6 @@
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
       "fecha": "2026-11-18",
       "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "fecha": "2026-11-18",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
-      "fecha": "2026-11-18",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Kim Wheeler",
-      "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
-      "fecha": "2026-11-18",
-      "hora": "3:00pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
@@ -506,7 +478,7 @@
     }
   ],
   "revisados": 181,
-  "total_disponibles": 72,
+  "total_disponibles": 68,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -691,11 +663,11 @@
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Rebecca Stone",
@@ -1024,11 +996,11 @@
     {
       "nombre": "Kim Wheeler",
       "link": "https://calendar.app.google/rQhQB55eavN2GasC7",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "3:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "John Merrell",
@@ -1915,11 +1887,11 @@
     {
       "nombre": "Kim Wheeler",
       "link": "https://calendar.app.google/1xXaer7QGpHAeNZL6",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "3:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Kristen Matley",
@@ -1934,7 +1906,7 @@
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
-      "fecha": "2026-11-18",
+      "fecha": "2026-11-16",
       "hora": "2:30pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
       "motivo": "Primera hora confirmada"
@@ -2080,8 +2052,8 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "Zona horaria no indicada",
-      "motivo": "No se pudo leer el mes del calendario"
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sydney Donavan",
@@ -2095,11 +2067,11 @@
     {
       "nombre": "Jenny Draper",
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "tiene_cita": true,
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Luke Arnott",
@@ -2138,5 +2110,5 @@
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-12T20:54:57.162Z"
+  "actualizado": "2026-11-13T01:55:18.786Z"
 }
