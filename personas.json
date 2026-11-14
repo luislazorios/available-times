@@ -64,20 +64,6 @@
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
-      "nombre": "Sister Whitney Morgan",
-      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
-      "fecha": "2026-11-18",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "fecha": "2026-11-18",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
       "fecha": "2026-11-18",
@@ -92,8 +78,22 @@
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
+      "fecha": "2026-11-18",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+    },
+    {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
+      "fecha": "2026-11-18",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+    },
+    {
+      "nombre": "Sister Whitney Morgan",
+      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "fecha": "2026-11-18",
       "hora": "12:30pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
@@ -225,13 +225,6 @@
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "fecha": "2026-11-19",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
       "fecha": "2026-11-19",
@@ -358,6 +351,13 @@
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
+      "nombre": "Grace Olsen",
+      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
+      "fecha": "2026-11-20",
+      "hora": "3:30pm",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+    },
+    {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
       "fecha": "2026-11-20",
@@ -383,13 +383,6 @@
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
       "fecha": "2026-11-20",
       "hora": "7:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Lauryn Spilsbury",
-      "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
-      "fecha": "2026-11-20",
-      "hora": "8:00am",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
@@ -488,6 +481,13 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-12-07",
       "hora": "10:30am",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+    },
+    {
+      "nombre": "Johnny Johnson",
+      "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
+      "fecha": "2026-12-14",
+      "hora": "7:30am",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
@@ -866,7 +866,7 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "tiene_cita": true,
       "fecha": "2026-11-18",
-      "hora": "11:30am",
+      "hora": "12:30pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
       "motivo": "Primera hora confirmada"
     },
@@ -963,11 +963,11 @@
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-11-20",
+      "hora": "3:30pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lisa Northrup",
@@ -1368,11 +1368,11 @@
     {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
-      "tiene_cita": true,
-      "fecha": "2026-11-20",
-      "hora": "8:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Brennan Burnett",
@@ -1388,7 +1388,7 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-11-18",
-      "hora": "12:00pm",
+      "hora": "12:30pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
       "motivo": "Primera hora confirmada"
     },
@@ -1674,11 +1674,11 @@
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "12:30pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Amber Hunter",
@@ -1764,11 +1764,11 @@
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "Zona horaria no indicada",
-      "motivo": "No se pudo leer el mes del calendario"
+      "tiene_cita": true,
+      "fecha": "2026-12-14",
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Aaron Larson",
@@ -2131,5 +2131,5 @@
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-14T16:17:27.093Z"
+  "actualizado": "2026-11-14T21:00:21.086Z"
 }
