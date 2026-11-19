@@ -1,358 +1,302 @@
 {
   "personas": [
     {
-      "nombre": "Eileen Squires",
-      "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
-      "fecha": "2026-11-19",
+      "nombre": "Jeanne Newby",
+      "link": "https://calendar.app.google/3kXvMzXBvp1mmQCZ7",
+      "fecha": "2026-11-20",
       "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Allen Graff",
-      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
-      "fecha": "2026-11-22",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "fecha": "2026-11-23",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Matthew Olsen",
-      "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
-      "fecha": "2026-11-23",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Allison Fullmer",
-      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "fecha": "2026-11-23",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jeff Smith",
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "fecha": "2026-11-23",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
-      "nombre": "Jonah Settle",
-      "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7",
+      "nombre": "Elizabeth Astle",
+      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "fecha": "2026-11-23",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
-      "fecha": "2026-11-24",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Calvin Smith",
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
       "fecha": "2026-11-24",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
       "fecha": "2026-11-24",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "fecha": "2026-11-24",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "fecha": "2026-11-24",
-      "hora": "2:50pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
       "fecha": "2026-11-24",
-      "hora": "3:50pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "2:50pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "fecha": "2026-11-24",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Allen Graff",
+      "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
+      "fecha": "2026-11-24",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
       "fecha": "2026-11-24",
-      "hora": "6:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "fecha": "2026-11-24",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "fecha": "2026-11-24",
-      "hora": "8:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "7:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "fecha": "2026-11-24",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Aaron Hill",
-      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Brent Hansen",
-      "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Connor Foutz",
-      "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Franz Sidney",
-      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Hailey Moore",
-      "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Sister McDowell",
-      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Sister Whitney Morgan",
-      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "James Jensen",
-      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
-      "fecha": "2026-11-25",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Ashlyn Western",
-      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
-      "fecha": "2026-11-25",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "fecha": "2026-11-25",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Sister Clark",
-      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
-      "fecha": "2026-11-25",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Brenley Burton",
-      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
-      "fecha": "2026-11-25",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "fecha": "2026-11-25",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister Clark",
+      "link": "https://calendar.app.google/4so8BR62KznpWNN97",
+      "fecha": "2026-11-25",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Ashlyn Western",
+      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
+      "fecha": "2026-11-25",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Brent Baugh",
+      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
+      "fecha": "2026-11-25",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Brenley Burton",
+      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
+      "fecha": "2026-11-25",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
       "fecha": "2026-11-25",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
       "fecha": "2026-11-25",
-      "hora": "7:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "fecha": "2026-11-25",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Levi",
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "fecha": "2026-11-25",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "John Merrell",
-      "link": "https://calendar.app.google/w5DmotEKmm1p78VE9",
-      "fecha": "2026-11-25",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
-      "nombre": "Alyse Collins",
-      "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
+      "nombre": "Aaron Hill",
+      "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Connor Foutz",
+      "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Franz Sidney",
+      "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Hailey Moore",
+      "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister Whitney Morgan",
+      "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "James Jensen",
+      "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
       "fecha": "2026-11-25",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "fecha": "2026-11-30",
-      "hora": "2:45pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "1:45pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2026-12-01",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Raegan Monson",
       "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
       "fecha": "2026-12-02",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-12-07",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-12-09",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-12-09",
-      "hora": "4:10pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "3:10pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Ezra Bloomfield",
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "fecha": "2026-12-11",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-21",
-      "hora": "6:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-12-21",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "5:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2027-01-08",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     }
   ],
-  "revisados": 187,
-  "total_disponibles": 50,
+  "revisados": 188,
+  "total_disponibles": 42,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -360,7 +304,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -369,7 +313,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -378,7 +322,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -387,7 +331,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -396,7 +340,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -405,7 +349,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -414,7 +358,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -432,7 +376,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -441,17 +385,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Brent Hansen",
       "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Chris Allen",
@@ -459,7 +403,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -467,8 +411,8 @@
       "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -477,7 +421,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -485,8 +429,8 @@
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "6:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -494,8 +438,8 @@
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -504,7 +448,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -531,7 +475,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -539,8 +483,8 @@
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -549,7 +493,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -557,8 +501,8 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "8:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "7:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -567,7 +511,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -576,7 +520,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -584,8 +528,8 @@
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -594,7 +538,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -612,7 +556,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -621,7 +565,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -630,7 +574,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -639,7 +583,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -657,16 +601,16 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "tiene_cita": true,
-      "fecha": "2026-11-22",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "fecha": "2026-11-24",
+      "hora": "5:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -675,7 +619,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -693,7 +637,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -702,7 +646,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -711,7 +655,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -719,8 +663,8 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -728,8 +672,8 @@
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -738,7 +682,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -747,7 +691,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -755,8 +699,8 @@
       "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
       "tiene_cita": true,
       "fecha": "2026-12-02",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -765,7 +709,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -774,7 +718,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -782,8 +726,8 @@
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -792,7 +736,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -801,7 +745,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -810,7 +754,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -819,7 +763,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -828,7 +772,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -836,8 +780,8 @@
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "tiene_cita": true,
       "fecha": "2027-01-08",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -845,8 +789,8 @@
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -855,7 +799,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -864,7 +808,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -873,17 +817,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "John Merrell",
       "link": "https://calendar.app.google/w5DmotEKmm1p78VE9",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jesse Sparks",
@@ -891,7 +835,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -900,7 +844,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -909,7 +853,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -918,7 +862,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -927,7 +871,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -936,7 +880,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -945,7 +889,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -963,7 +907,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -972,7 +916,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -981,7 +925,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -990,7 +934,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1008,7 +952,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1017,7 +961,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1026,7 +970,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1034,8 +978,8 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
       "fecha": "2026-12-07",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1044,7 +988,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1053,7 +997,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1062,7 +1006,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1071,7 +1015,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1079,8 +1023,8 @@
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1089,7 +1033,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1098,7 +1042,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1107,7 +1051,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1116,7 +1060,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1125,7 +1069,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1134,7 +1078,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1143,7 +1087,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1152,7 +1096,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1161,7 +1105,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1170,17 +1114,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Matthew Olsen",
       "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
-      "tiene_cita": true,
-      "fecha": "2026-11-23",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Josie Neel",
@@ -1188,7 +1132,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1197,7 +1141,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1206,7 +1150,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1214,8 +1158,8 @@
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1224,7 +1168,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1233,7 +1177,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1242,7 +1186,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1250,8 +1194,8 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1260,7 +1204,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1277,8 +1221,8 @@
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1286,8 +1230,8 @@
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "tiene_cita": true,
       "fecha": "2026-12-11",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1295,18 +1239,18 @@
       "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "tiene_cita": true,
-      "fecha": "2026-11-24",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Bonnie Webber",
@@ -1314,7 +1258,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1322,8 +1266,8 @@
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "tiene_cita": true,
       "fecha": "2026-11-23",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1332,17 +1276,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jonah Settle",
       "link": "https://calendar.app.google/sFpA6XVj8tZhpt7o7",
-      "tiene_cita": true,
-      "fecha": "2026-11-23",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Ethan Altamirano",
@@ -1358,8 +1302,8 @@
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "tiene_cita": true,
       "fecha": "2026-12-09",
-      "hora": "4:10pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "3:10pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1368,7 +1312,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1377,7 +1321,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1386,7 +1330,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1394,18 +1338,18 @@
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Allison Fullmer",
       "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "tiene_cita": true,
-      "fecha": "2026-11-23",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Worthington",
@@ -1413,7 +1357,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1422,17 +1366,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Eileen Squires",
       "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
-      "tiene_cita": true,
-      "fecha": "2026-11-19",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Lisa Carver",
@@ -1440,7 +1384,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1448,8 +1392,8 @@
       "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1458,7 +1402,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1466,8 +1410,8 @@
       "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1476,8 +1420,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
+    },
+    {
+      "nombre": "Jeanne Newby",
+      "link": "https://calendar.app.google/3kXvMzXBvp1mmQCZ7",
+      "tiene_cita": true,
+      "fecha": "2026-11-20",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Eli Rex",
@@ -1485,7 +1438,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1494,7 +1447,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1503,7 +1456,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1511,8 +1464,8 @@
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "3:50pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "2:50pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1520,8 +1473,8 @@
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1529,18 +1482,18 @@
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "tiene_cita": true,
       "fecha": "2026-12-09",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Justin Ware",
@@ -1548,7 +1501,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1556,26 +1509,26 @@
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "2:45pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "1:45pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": true,
-      "fecha": "2026-11-24",
-      "hora": "2:50pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1583,8 +1536,8 @@
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1593,7 +1546,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1602,7 +1555,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1610,8 +1563,8 @@
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1620,7 +1573,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1629,7 +1582,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1637,8 +1590,8 @@
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1647,7 +1600,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1655,8 +1608,8 @@
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": true,
       "fecha": "2026-12-21",
-      "hora": "6:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1664,8 +1617,8 @@
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1674,7 +1627,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1683,7 +1636,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1692,7 +1645,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1701,7 +1654,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1710,7 +1663,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1718,8 +1671,8 @@
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": true,
       "fecha": "2026-12-21",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "5:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1737,7 +1690,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1745,8 +1698,8 @@
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1755,7 +1708,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1764,7 +1717,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1773,7 +1726,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1791,7 +1744,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1800,7 +1753,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1809,7 +1762,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1817,8 +1770,8 @@
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1827,7 +1780,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1836,7 +1789,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1844,8 +1797,8 @@
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1854,7 +1807,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1863,7 +1816,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1872,7 +1825,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1881,7 +1834,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1889,8 +1842,8 @@
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "7:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1899,7 +1852,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1917,7 +1870,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1925,8 +1878,8 @@
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "tiene_cita": true,
       "fecha": "2026-11-23",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1935,7 +1888,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1944,7 +1897,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1953,7 +1906,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1962,7 +1915,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1971,7 +1924,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1980,7 +1933,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1989,7 +1942,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1998,7 +1951,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2007,7 +1960,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2016,7 +1969,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2025,7 +1978,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2034,9 +1987,9 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-18T18:06:35.928Z"
+  "actualizado": "2026-11-19T00:25:28.476Z"
 }
