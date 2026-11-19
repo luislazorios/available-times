@@ -4,299 +4,390 @@
       "nombre": "Jeanne Newby",
       "link": "https://calendar.app.google/3kXvMzXBvp1mmQCZ7",
       "fecha": "2026-11-20",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Jeff Smith",
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "fecha": "2026-11-23",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Elizabeth Astle",
-      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
-      "fecha": "2026-11-23",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Elder Calvin Smith",
-      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
-      "fecha": "2026-11-24",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
       "fecha": "2026-11-24",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Elizabeth Astle",
+      "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
+      "fecha": "2026-11-24",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "fecha": "2026-11-24",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "fecha": "2026-11-24",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Elder Jolley",
-      "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "fecha": "2026-11-24",
-      "hora": "2:50pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "fecha": "2026-11-24",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "fecha": "2026-11-24",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Frances Carlson",
-      "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "fecha": "2026-11-24",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "fecha": "2026-11-24",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "fecha": "2026-11-24",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Sister Raskey",
-      "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
-      "fecha": "2026-11-25",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
+      "fecha": "2026-11-24",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister Spackman",
+      "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
+      "fecha": "2026-11-24",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Elder Calvin Smith",
+      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
+      "fecha": "2026-11-24",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
       "fecha": "2026-11-25",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Ashlyn Western",
-      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
-      "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Brent Baugh",
-      "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "fecha": "2026-11-25",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Brenley Burton",
-      "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
-      "fecha": "2026-11-25",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
-    },
-    {
-      "nombre": "Amber Hunter",
-      "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
-      "fecha": "2026-11-25",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
       "fecha": "2026-11-25",
-      "hora": "6:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "5:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "fecha": "2026-11-25",
-      "hora": "6:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Elder Levi",
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "fecha": "2026-11-25",
-      "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
       "fecha": "2026-11-25",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "fecha": "2026-11-25",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Aaron Hill",
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Connor Foutz",
       "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Franz Sidney",
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Hailey Moore",
       "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "James Jensen",
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
       "fecha": "2026-11-25",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Ashlyn Western",
+      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
+      "fecha": "2026-11-25",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Henry Wheeler",
+      "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
+      "fecha": "2026-11-26",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Amy Chappell",
+      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
+      "fecha": "2026-11-26",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Quinn Beames",
+      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
+      "fecha": "2026-11-26",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Aaron Ludwig",
+      "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
+      "fecha": "2026-11-26",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister Williamson",
+      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
+      "fecha": "2026-11-26",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Theresa Sexton",
+      "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
+      "fecha": "2026-11-26",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "EmilyLeMasters",
+      "link": "https://calendar.app.google/j2Apvistg9f6moX27",
+      "fecha": "2026-11-26",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Elder Brigham Bailey",
+      "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
+      "fecha": "2026-11-26",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister Thompson",
+      "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
+      "fecha": "2026-11-26",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Teresa Walker",
+      "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
+      "fecha": "2026-11-26",
+      "hora": "7:15am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Lisa Pace",
+      "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
+      "fecha": "2026-11-26",
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Chris Allen",
+      "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
+      "fecha": "2026-11-26",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Stanley Bingham",
+      "link": "https://calendar.app.google/RM3cfGc2X3b9726cA",
+      "fecha": "2026-11-26",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Stephanie Webber",
+      "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
+      "fecha": "2026-11-26",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Kristen Matley",
+      "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
+      "fecha": "2026-11-26",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Jennalyn Stuart",
+      "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
+      "fecha": "2026-11-26",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "fecha": "2026-11-30",
-      "hora": "1:45pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "12:45pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2026-12-01",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Erica Taney",
+      "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
+      "fecha": "2026-12-03",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Jonah Tietjen",
+      "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
+      "fecha": "2026-12-03",
+      "hora": "8:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Raegan Monson",
       "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
-      "fecha": "2026-12-02",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "fecha": "2026-12-03",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-12-07",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-12-09",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-12-09",
-      "hora": "3:10pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "2:10pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Ezra Bloomfield",
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "fecha": "2026-12-11",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-21",
-      "hora": "5:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "4:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-12-21",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2027-01-08",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     }
   ],
   "revisados": 188,
-  "total_disponibles": 42,
+  "total_disponibles": 55,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -304,7 +395,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -313,35 +404,35 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-24",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lisa Pace",
       "link": "https://calendar.app.google/AVQMNwV3EjpdQqwf7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Wendy Grainger",
@@ -349,7 +440,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -358,7 +449,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -376,7 +467,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -385,7 +476,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -394,26 +485,26 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Chris Allen",
       "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Brenley Burton",
       "link": "https://calendar.app.google/96kRNGwmWtNXAPi7A",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Diane Pence",
@@ -421,25 +512,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Frances Carlson",
       "link": "https://calendar.app.google/FAUwoe7iQgKDs3Wh6",
-      "tiene_cita": true,
-      "fecha": "2026-11-24",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -448,7 +539,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -475,7 +566,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -483,8 +574,8 @@
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -493,7 +584,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -501,8 +592,8 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -511,7 +602,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -520,17 +611,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "tiene_cita": true,
-      "fecha": "2026-11-24",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Nicole Remund",
@@ -538,7 +629,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -553,11 +644,11 @@
     {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-03",
+      "hora": "8:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jordan Haws",
@@ -565,7 +656,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -574,7 +665,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -583,7 +674,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -601,7 +692,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -609,18 +700,18 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Stanley Bingham",
       "link": "https://calendar.app.google/RM3cfGc2X3b9726cA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Holladay",
@@ -637,7 +728,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -646,7 +737,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -655,7 +746,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -663,8 +754,8 @@
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -672,8 +763,8 @@
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -682,7 +773,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -691,26 +782,26 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Raegan Monson",
       "link": "https://calendar.app.google/nzYcDnt7TtuzjUqi6",
       "tiene_cita": true,
-      "fecha": "2026-12-02",
-      "hora": "8:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "fecha": "2026-12-03",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Aaron Ludwig",
       "link": "https://calendar.app.google/3UzGwsY1EEDQaAeu5",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister  Adams",
@@ -718,17 +809,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Bonnie Forrest",
@@ -736,7 +827,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -745,17 +836,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Grace Olsen",
@@ -763,7 +854,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -772,7 +863,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -780,18 +871,18 @@
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "tiene_cita": true,
       "fecha": "2027-01-08",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Brent Baugh",
       "link": "https://calendar.app.google/XYVBUdw3YLYBhNuV6",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Alexa Webb",
@@ -799,7 +890,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -808,7 +899,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -817,7 +908,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -826,7 +917,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -835,17 +926,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Caroline Williams",
@@ -853,7 +944,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -862,7 +953,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -871,7 +962,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -880,7 +971,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -889,7 +980,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -907,7 +998,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -916,7 +1007,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -925,7 +1016,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -934,7 +1025,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -949,11 +1040,11 @@
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Donna Cardon",
@@ -961,7 +1052,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -970,7 +1061,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -978,18 +1069,18 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
       "fecha": "2026-12-07",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Selena Miskin",
@@ -997,7 +1088,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1006,7 +1097,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1015,7 +1106,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1023,8 +1114,8 @@
       "link": "https://calendar.app.google/Uu4PHFn7urgSwH767",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1033,7 +1124,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1042,7 +1133,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1051,7 +1142,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1060,7 +1151,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1069,7 +1160,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1078,7 +1169,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1087,26 +1178,26 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "EmilyLeMasters",
       "link": "https://calendar.app.google/j2Apvistg9f6moX27",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Anne Marie Coleman",
@@ -1114,7 +1205,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1123,7 +1214,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1132,7 +1223,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1141,7 +1232,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1150,7 +1241,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1158,8 +1249,8 @@
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1168,7 +1259,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1177,7 +1268,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1186,7 +1277,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1194,8 +1285,8 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1204,7 +1295,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1221,8 +1312,8 @@
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1230,8 +1321,8 @@
       "link": "https://calendar.app.google/T4apU4dyWcxtCXy48",
       "tiene_cita": true,
       "fecha": "2026-12-11",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1239,8 +1330,8 @@
       "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1249,7 +1340,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1258,16 +1349,16 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "tiene_cita": true,
-      "fecha": "2026-11-23",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "fecha": "2026-11-24",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1276,7 +1367,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1285,7 +1376,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1302,8 +1393,8 @@
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "tiene_cita": true,
       "fecha": "2026-12-09",
-      "hora": "3:10pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "2:10pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1312,7 +1403,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1321,7 +1412,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1330,7 +1421,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1338,8 +1429,8 @@
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1348,7 +1439,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1357,7 +1448,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1366,7 +1457,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1375,7 +1466,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1384,7 +1475,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1392,8 +1483,8 @@
       "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1402,7 +1493,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1410,8 +1501,8 @@
       "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1420,7 +1511,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1428,8 +1519,8 @@
       "link": "https://calendar.app.google/3kXvMzXBvp1mmQCZ7",
       "tiene_cita": true,
       "fecha": "2026-11-20",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1438,7 +1529,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1447,7 +1538,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1456,25 +1547,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Jolley",
       "link": "https://calendar.app.google/gVsKuxRienGWTdU29",
-      "tiene_cita": true,
-      "fecha": "2026-11-24",
-      "hora": "2:50pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1482,8 +1573,8 @@
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "tiene_cita": true,
       "fecha": "2026-12-09",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1492,7 +1583,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1501,7 +1592,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1509,35 +1600,35 @@
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "1:45pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "12:45pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
-      "tiene_cita": true,
-      "fecha": "2026-11-25",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1546,7 +1637,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1555,7 +1646,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1563,8 +1654,8 @@
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1573,7 +1664,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1582,7 +1673,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1590,26 +1681,26 @@
       "link": "https://calendar.app.google/sJ2waxkJePCoKEJh6",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "7:15am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": true,
       "fecha": "2026-12-21",
-      "hora": "5:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "4:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1617,8 +1708,8 @@
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1627,7 +1718,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1636,7 +1727,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1645,7 +1736,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1654,7 +1745,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1663,7 +1754,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1671,8 +1762,8 @@
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": true,
       "fecha": "2026-12-21",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1687,19 +1778,19 @@
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-24",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "6:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "5:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1708,7 +1799,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1717,7 +1808,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1726,7 +1817,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1744,7 +1835,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1753,25 +1844,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Kristen Matley",
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
       "fecha": "2026-11-24",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1780,7 +1871,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1789,7 +1880,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1797,8 +1888,8 @@
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1807,7 +1898,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1816,7 +1907,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1825,35 +1916,35 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-03",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
       "tiene_cita": true,
       "fecha": "2026-11-25",
-      "hora": "6:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "5:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Thompson",
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Christina Smith",
@@ -1870,7 +1961,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1878,8 +1969,8 @@
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "tiene_cita": true,
       "fecha": "2026-11-23",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1888,7 +1979,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1897,7 +1988,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1906,17 +1997,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Elder Brigham Bailey",
       "link": "https://calendar.app.google/jKoBLBWrWpCYL9A58",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sydney Donavan",
@@ -1924,7 +2015,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1933,7 +2024,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1942,7 +2033,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1951,7 +2042,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1960,7 +2051,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1969,7 +2060,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1978,7 +2069,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1987,9 +2078,9 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-19T00:25:28.476Z"
+  "actualizado": "2026-11-19T07:54:49.112Z"
 }
