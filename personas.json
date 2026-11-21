@@ -1,148 +1,211 @@
 {
   "personas": [
     {
-      "nombre": "Sydney Donavan",
-      "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
-      "fecha": "2026-11-27",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Allison Fullmer",
-      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "fecha": "2026-11-27",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Elder Sherwood",
-      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "fecha": "2026-11-27",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "James McPhie",
-      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
-      "fecha": "2026-11-27",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Ashlyn Western",
-      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
-      "fecha": "2026-11-27",
+      "nombre": "Kate Brown",
+      "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
+      "fecha": "2026-11-24",
       "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Sister Randall",
-      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
-      "fecha": "2026-11-27",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "nombre": "Justin Ware",
+      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
+      "fecha": "2026-11-24",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Sister Olson",
-      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "fecha": "2026-11-27",
-      "hora": "12:02pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
-    },
-    {
-      "nombre": "Spencer Greenwood",
-      "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
-      "fecha": "2026-11-27",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "nombre": "Sister Hyre",
+      "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
+      "fecha": "2026-11-26",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
       "fecha": "2026-11-27",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister Randall",
+      "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
+      "fecha": "2026-11-27",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
+      "fecha": "2026-11-27",
+      "hora": "10:02am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Spencer Greenwood",
+      "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
+      "fecha": "2026-11-27",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
       "fecha": "2026-11-27",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596",
       "fecha": "2026-11-27",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Allison Fullmer",
+      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
+      "fecha": "2026-11-27",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Elder Sherwood",
+      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
+      "fecha": "2026-11-27",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "James McPhie",
+      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
+      "fecha": "2026-11-27",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Ashlyn Western",
+      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
+      "fecha": "2026-11-27",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
+      "fecha": "2026-11-28",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Ethan Rasmussen",
+      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
+      "fecha": "2026-11-28",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Randy Crisler",
+      "link": "https://calendar.app.google/j3cgYjBUpBZNaeYPA",
+      "fecha": "2026-11-28",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Luke Arnott",
+      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
+      "fecha": "2026-11-28",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Nancy Moore",
+      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
+      "fecha": "2026-11-28",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Douglas Taylor",
+      "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
+      "fecha": "2026-11-28",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
+      "fecha": "2026-11-28",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "fecha": "2026-12-02",
-      "hora": "2:45pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "12:45pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "fecha": "2026-12-02",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-12-07",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-12-09",
-      "hora": "4:10pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "2:10pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-12-14",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2026-12-15",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-12-16",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-21",
-      "hora": "6:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "4:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2027-01-08",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     }
   ],
   "revisados": 190,
-  "total_disponibles": 20,
+  "total_disponibles": 29,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -150,7 +213,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -159,17 +222,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Hyre",
       "link": "https://calendar.app.google/QHTcqSGbfooT7cg8A",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-26",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lisa Pace",
@@ -177,7 +240,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -186,7 +249,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -195,7 +258,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -204,7 +267,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -219,19 +282,19 @@
     {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -240,7 +303,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -249,7 +312,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -258,7 +321,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -267,7 +330,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -276,7 +339,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -285,7 +348,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -294,7 +357,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -321,7 +384,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -330,7 +393,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -339,7 +402,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -348,7 +411,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -357,7 +420,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -366,7 +429,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -375,7 +438,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -384,7 +447,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -402,7 +465,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -411,7 +474,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -420,7 +483,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -429,7 +492,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -447,7 +510,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -456,7 +519,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -465,7 +528,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -482,8 +545,8 @@
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -492,7 +555,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -501,7 +564,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -510,7 +573,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -519,7 +582,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -528,7 +591,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -537,7 +600,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -546,7 +609,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -555,7 +618,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -564,7 +627,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -573,7 +636,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -582,7 +645,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -591,7 +654,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -600,7 +663,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -609,7 +672,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -618,7 +681,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -626,8 +689,8 @@
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "tiene_cita": true,
       "fecha": "2027-01-08",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -636,7 +699,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -645,7 +708,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -654,7 +717,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -663,7 +726,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -672,7 +735,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -681,7 +744,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -690,7 +753,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -699,7 +762,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -708,7 +771,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -717,17 +780,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Randy Crisler",
       "link": "https://calendar.app.google/j3cgYjBUpBZNaeYPA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sharon Elwell",
@@ -735,7 +798,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -744,7 +807,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -762,7 +825,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -771,7 +834,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -780,17 +843,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Douglas Taylor",
       "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Damian Idiart",
@@ -807,7 +870,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -815,8 +878,8 @@
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -825,7 +888,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -833,8 +896,8 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
       "fecha": "2026-12-07",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -843,7 +906,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -852,7 +915,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -861,7 +924,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -870,7 +933,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -879,7 +942,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -888,7 +951,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -897,7 +960,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -906,7 +969,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -915,7 +978,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -924,7 +987,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -933,7 +996,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -942,7 +1005,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -951,7 +1014,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -960,7 +1023,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -969,7 +1032,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -978,7 +1041,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -987,7 +1050,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -996,7 +1059,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1005,7 +1068,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1014,7 +1077,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1023,7 +1086,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1032,7 +1095,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1041,7 +1104,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1050,7 +1113,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1059,7 +1122,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1077,7 +1140,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1086,7 +1149,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1095,7 +1158,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1104,7 +1167,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1113,7 +1176,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1122,7 +1185,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1131,7 +1194,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1140,7 +1203,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1157,8 +1220,8 @@
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "tiene_cita": true,
       "fecha": "2026-12-09",
-      "hora": "4:10pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "2:10pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1167,7 +1230,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1176,7 +1239,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1185,7 +1248,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1194,7 +1257,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1202,8 +1265,8 @@
       "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1212,7 +1275,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1220,8 +1283,8 @@
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "8:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1230,7 +1293,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1239,7 +1302,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1248,7 +1311,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1257,7 +1320,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1265,8 +1328,8 @@
       "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1275,7 +1338,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1284,7 +1347,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1293,7 +1356,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1302,17 +1365,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kay Merrell",
@@ -1320,7 +1383,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1329,25 +1392,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "tiene_cita": true,
       "fecha": "2026-12-16",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1356,25 +1419,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-24",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "tiene_cita": true,
       "fecha": "2026-12-02",
-      "hora": "2:45pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "12:45pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1383,7 +1446,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1392,7 +1455,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1401,7 +1464,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1409,8 +1472,8 @@
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "4:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1419,7 +1482,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1427,8 +1490,8 @@
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1437,7 +1500,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1446,7 +1509,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1455,7 +1518,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1464,7 +1527,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1472,8 +1535,8 @@
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": true,
       "fecha": "2026-12-21",
-      "hora": "6:30am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "4:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1481,8 +1544,8 @@
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "tiene_cita": true,
       "fecha": "2026-12-15",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1491,7 +1554,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1500,7 +1563,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1509,7 +1572,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1518,7 +1581,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1526,8 +1589,8 @@
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "12:02pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "10:02am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1535,8 +1598,8 @@
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": true,
       "fecha": "2026-12-14",
-      "hora": "6:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1554,7 +1617,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1563,7 +1626,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1572,7 +1635,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1581,7 +1644,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1590,7 +1653,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1605,11 +1668,11 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kim Wheeler",
@@ -1617,7 +1680,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1626,7 +1689,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1635,7 +1698,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1644,7 +1707,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1653,7 +1716,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1662,7 +1725,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1671,7 +1734,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1680,7 +1743,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1689,7 +1752,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1697,8 +1760,8 @@
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "tiene_cita": true,
       "fecha": "2026-12-02",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1707,7 +1770,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1716,7 +1779,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1734,7 +1797,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1743,7 +1806,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1752,7 +1815,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1760,18 +1823,18 @@
       "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kate Brown",
       "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-24",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Brigham Bailey",
@@ -1779,17 +1842,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sydney Donavan",
       "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
-      "tiene_cita": true,
-      "fecha": "2026-11-27",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jenny Draper",
@@ -1797,17 +1860,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-11-28",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jean Muir",
@@ -1815,7 +1878,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1824,7 +1887,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1833,7 +1896,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1842,7 +1905,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1851,9 +1914,9 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-21T02:59:37.267Z"
+  "actualizado": "2026-11-21T11:02:19.741Z"
 }
