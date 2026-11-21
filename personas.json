@@ -1,27 +1,6 @@
 {
   "personas": [
     {
-      "nombre": "Jason Christensen",
-      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "fecha": "2026-11-23",
-      "hora": "10:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Ashlyn Western",
-      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
-      "fecha": "2026-11-27",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Sherwood",
-      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "fecha": "2026-11-27",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
       "fecha": "2026-11-27",
@@ -29,10 +8,17 @@
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
+      "nombre": "Ashlyn Western",
+      "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
+      "fecha": "2026-11-27",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+    },
+    {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
       "fecha": "2026-11-27",
-      "hora": "12:00pm",
+      "hora": "2:00pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York"
     },
     {
@@ -170,7 +156,7 @@
     }
   ],
   "revisados": 190,
-  "total_disponibles": 24,
+  "total_disponibles": 22,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -510,7 +496,7 @@
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "12:00pm",
+      "hora": "2:00pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
       "motivo": "Primera hora confirmada"
     },
@@ -940,11 +926,11 @@
     {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "tiene_cita": true,
-      "fecha": "2026-11-23",
-      "hora": "10:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Alatini",
@@ -1246,11 +1232,11 @@
     {
       "nombre": "Elder Sherwood",
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "tiene_cita": true,
-      "fecha": "2026-11-27",
-      "hora": "1:00pm",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Eileen Squires",
@@ -1293,7 +1279,7 @@
       "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
       "tiene_cita": true,
       "fecha": "2026-11-27",
-      "hora": "1:00pm",
+      "hora": "2:00pm",
       "zona_horaria": "(GMT-05:00) Eastern Time - New York",
       "motivo": "Primera hora confirmada"
     },
@@ -1883,5 +1869,5 @@
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-21T18:04:40.123Z"
+  "actualizado": "2026-11-21T23:15:51.043Z"
 }
