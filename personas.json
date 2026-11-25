@@ -1,337 +1,260 @@
 {
   "personas": [
     {
-      "nombre": "Matthew Olsen",
-      "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "fecha": "2026-11-30",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "fecha": "2026-11-30",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sister  Adams",
-      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
-      "fecha": "2026-11-30",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Allison Fullmer",
-      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "fecha": "2026-11-30",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Tony Martinez",
-      "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
-      "fecha": "2026-11-30",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Ann Fenton",
-      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
-      "fecha": "2026-11-30",
-      "hora": "11:40am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Aaron Hill",
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Elder Sherwood",
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "katherine Baxter",
-      "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
+      "nombre": "Ann Fenton",
+      "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
       "fecha": "2026-11-30",
-      "hora": "12:40pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "11:20am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "nombre": "Sister  Adams",
+      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
       "fecha": "2026-11-30",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Curtis Bateman",
       "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
       "fecha": "2026-11-30",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Diane Pence",
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
       "fecha": "2026-11-30",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jennifer Tyler",
-      "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
-      "fecha": "2026-12-01",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Rebecca Holmstrom",
-      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
-      "fecha": "2026-12-01",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "fecha": "2026-12-01",
       "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Stacy Woods",
-      "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "fecha": "2026-12-01",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Sungalu",
-      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
-      "fecha": "2026-12-01",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elise Hall",
-      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
-      "fecha": "2026-12-01",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Laurie Atanasio",
-      "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
-      "fecha": "2026-12-01",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Matt Richards",
-      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
-      "fecha": "2026-12-01",
-      "hora": "10:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Hailey Moore",
-      "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
-      "fecha": "2026-12-01",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sister Worthington",
-      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
-      "fecha": "2026-12-01",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jason Christensen",
-      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
-      "fecha": "2026-12-01",
-      "hora": "10:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sister Evie Vaughn",
-      "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
-      "fecha": "2026-12-01",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jenny Draper",
-      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
-      "fecha": "2026-12-01",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Luke Arnott",
-      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "fecha": "2026-12-01",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Elder Calvin Smith",
-      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
-      "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jeff Smith",
-      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
-      "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
-      "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "fecha": "2026-12-01",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Sister Williamson",
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
       "fecha": "2026-12-01",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Jenny Draper",
+      "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
+      "fecha": "2026-12-01",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Jeff Smith",
+      "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
+      "fecha": "2026-12-01",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Suzanne Fullmer",
+      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
+      "fecha": "2026-12-01",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Elder Calvin Smith",
+      "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
+      "fecha": "2026-12-01",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Jennifer Tyler",
+      "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
+      "fecha": "2026-12-01",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Rebecca Holmstrom",
+      "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
+      "fecha": "2026-12-01",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "fecha": "2026-12-01",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Tamara Foote",
+      "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
+      "fecha": "2026-12-01",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
       "fecha": "2026-12-01",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Amelia Dahle",
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
       "fecha": "2026-12-01",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Allen Graff",
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "fecha": "2026-12-01",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
       "fecha": "2026-12-01",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Jacobie Hoopes",
-      "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "fecha": "2026-12-01",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
-    },
-    {
-      "nombre": "Mark Warner",
-      "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "fecha": "2026-12-01",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Lisa Carver",
       "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
       "fecha": "2026-12-01",
-      "hora": "9:45am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "8:45am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Elder Sungalu",
+      "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
+      "fecha": "2026-12-01",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Elise Hall",
+      "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
+      "fecha": "2026-12-01",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Matt Richards",
+      "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
+      "fecha": "2026-12-01",
+      "hora": "9:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Sister Worthington",
+      "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
+      "fecha": "2026-12-01",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
+    },
+    {
+      "nombre": "Jason Christensen",
+      "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
+      "fecha": "2026-12-01",
+      "hora": "9:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-12-14",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-12-14",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-12-16",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-12-16",
-      "hora": "5:10pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "4:10pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-21",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2027-01-08",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2027-01-12",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago"
     }
   ],
   "revisados": 190,
-  "total_disponibles": 47,
+  "total_disponibles": 36,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -339,7 +262,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -348,7 +271,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -357,7 +280,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -366,7 +289,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -375,7 +298,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -384,7 +307,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -393,7 +316,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -411,7 +334,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -420,7 +343,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -429,7 +352,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -438,7 +361,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -447,7 +370,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -455,8 +378,8 @@
       "link": "https://calendar.app.google/6ziw1bqz85nJWnR28",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "3:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -465,17 +388,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Stacy Woods",
       "link": "https://calendar.app.google/7XCJrRLuJT122gqRA",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Charisse",
@@ -483,7 +406,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -510,7 +433,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -519,7 +442,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -528,7 +451,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -536,8 +459,8 @@
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "10:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -546,7 +469,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -555,7 +478,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -563,8 +486,8 @@
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -573,7 +496,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -591,7 +514,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -600,7 +523,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -609,7 +532,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -618,7 +541,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -636,7 +559,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -644,8 +567,8 @@
       "link": "https://calendar.app.google/3MEHuJhsnhjci7uQA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -654,7 +577,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -672,7 +595,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -681,7 +604,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -690,7 +613,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -699,7 +622,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -707,8 +630,8 @@
       "link": "https://calendar.app.google/ZSoWs4NRDEgW7qDw9",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -717,7 +640,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -726,7 +649,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -735,7 +658,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -744,7 +667,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -752,8 +675,8 @@
       "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -762,7 +685,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -771,7 +694,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -780,7 +703,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -789,7 +712,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -798,7 +721,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -807,7 +730,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -815,8 +738,8 @@
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "tiene_cita": true,
       "fecha": "2027-01-08",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -825,7 +748,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -834,7 +757,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -843,7 +766,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -852,7 +775,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -861,7 +784,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -869,8 +792,8 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -879,7 +802,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -888,7 +811,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -897,7 +820,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -906,7 +829,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -915,7 +838,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -924,7 +847,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -933,7 +856,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -951,7 +874,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -960,7 +883,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -969,7 +892,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -978,7 +901,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -996,7 +919,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1005,7 +928,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1013,8 +936,8 @@
       "link": "https://calendar.app.google/fER4Y9fmgdfsKmcN9",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1022,8 +945,8 @@
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "tiene_cita": true,
       "fecha": "2026-12-14",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1032,7 +955,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1041,7 +964,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1050,7 +973,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1059,7 +982,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1068,7 +991,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1077,7 +1000,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1086,25 +1009,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jason Christensen",
       "link": "https://calendar.app.google/xeKWBqgr44j53NJWA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "10:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1113,7 +1036,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1122,7 +1045,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1131,7 +1054,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1140,7 +1063,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1149,7 +1072,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1158,17 +1081,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Matthew Olsen",
       "link": "https://calendar.app.google/JciC7mAGtwdLcL8J7",
-      "tiene_cita": true,
-      "fecha": "2026-11-30",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Josie Neel",
@@ -1176,7 +1099,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1185,7 +1108,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1194,7 +1117,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1202,8 +1125,8 @@
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1212,7 +1135,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1221,7 +1144,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1230,7 +1153,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1238,8 +1161,8 @@
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1248,7 +1171,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1266,7 +1189,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1275,25 +1198,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Hailey Moore",
       "link": "https://calendar.app.google/1RoyfLWc1Sy5iuFX6",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Suzanne Fullmer",
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1302,7 +1225,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1311,7 +1234,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "1:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1320,7 +1243,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1329,7 +1252,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1346,8 +1269,8 @@
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "tiene_cita": true,
       "fecha": "2026-12-16",
-      "hora": "5:10pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "4:10pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1356,7 +1279,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1364,44 +1287,44 @@
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Evie Vaughn",
       "link": "https://calendar.app.google/Gj7Cw9WVAeEjLML49",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Aaron Hill",
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Allison Fullmer",
       "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "tiene_cita": true,
-      "fecha": "2026-11-30",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1409,8 +1332,8 @@
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1419,7 +1342,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1427,8 +1350,8 @@
       "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "9:45am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "8:45am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1437,7 +1360,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1446,7 +1369,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1455,7 +1378,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1464,7 +1387,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1473,7 +1396,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1482,7 +1405,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1491,7 +1414,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1500,7 +1423,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1509,7 +1432,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1518,7 +1441,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1527,7 +1450,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1535,8 +1458,8 @@
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "tiene_cita": true,
       "fecha": "2026-12-16",
-      "hora": "5:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1544,8 +1467,8 @@
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "5:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1554,7 +1477,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1563,7 +1486,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1571,8 +1494,8 @@
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "2:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1581,7 +1504,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1590,7 +1513,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1599,7 +1522,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1608,7 +1531,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1617,7 +1540,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1626,7 +1549,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1635,7 +1558,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1644,7 +1567,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1653,7 +1576,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1661,8 +1584,8 @@
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "tiene_cita": true,
       "fecha": "2026-12-21",
-      "hora": "7:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1670,8 +1593,8 @@
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "tiene_cita": true,
       "fecha": "2027-01-12",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1680,35 +1603,35 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Mark Warner",
       "link": "https://calendar.app.google/J22ZimcMawfAnJEe8",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Laurie Atanasio",
       "link": "https://calendar.app.google/N65bgafkQecdjuMN8",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Tony Martinez",
       "link": "https://calendar.app.google/cf8nhze4GN9f8r3A9",
-      "tiene_cita": true,
-      "fecha": "2026-11-30",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Olson",
@@ -1716,7 +1639,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1724,8 +1647,8 @@
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "tiene_cita": true,
       "fecha": "2026-12-14",
-      "hora": "7:30pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1743,7 +1666,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1752,7 +1675,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1760,8 +1683,8 @@
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1770,7 +1693,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1778,8 +1701,8 @@
       "link": "https://calendar.app.google/rePzcupnJmGbNoVFA",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "11:40am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:20am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1797,7 +1720,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1806,7 +1729,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1815,7 +1738,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1823,8 +1746,8 @@
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "2:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1832,36 +1755,36 @@
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
-      "tiene_cita": true,
-      "fecha": "2026-11-30",
-      "hora": "12:40pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-01",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Hollinger",
@@ -1869,7 +1792,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1878,7 +1801,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1887,17 +1810,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jacobie Hoopes",
       "link": "https://calendar.app.google/fwQZgcHRku3mqMVJA",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "8:00am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Thompson",
@@ -1905,7 +1828,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1922,8 +1845,8 @@
       "link": "https://calendar.app.google/arRmm5ez5bLNAAnY8",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "3:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1931,8 +1854,8 @@
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1941,7 +1864,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1950,7 +1873,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1959,7 +1882,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1968,7 +1891,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1977,7 +1900,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1985,18 +1908,18 @@
       "link": "https://calendar.app.google/ThMYvw7yZJjsJdgGA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "11:30am",
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jean Muir",
@@ -2004,7 +1927,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2013,7 +1936,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2022,7 +1945,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2031,7 +1954,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2040,9 +1963,9 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-05:00) Eastern Time - New York",
+      "zona_horaria": "(GMT-06:00) Central Time - Chicago",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-24T15:54:28.332Z"
+  "actualizado": "2026-11-25T00:18:34.446Z"
 }
