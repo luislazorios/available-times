@@ -1,463 +1,645 @@
 {
   "personas": [
     {
-      "nombre": "Marlea Haberkamp",
-      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
-      "fecha": "2026-11-27",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
-    },
-    {
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
-    },
-    {
-      "nombre": "Sister Wright",
-      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
-      "fecha": "2026-12-01",
       "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
-      "nombre": "Suzanne Fullmer",
-      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
+      "nombre": "Barbara Martin",
+      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
+      "fecha": "2026-11-30",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister Williamson",
+      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
       "fecha": "2026-12-01",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "hora": "1:10pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Rebecca Holmstrom",
       "link": "https://calendar.app.google/vax5hyHGcS5gNNkc6",
       "fecha": "2026-12-01",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Suzanne Fullmer",
+      "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
+      "fecha": "2026-12-01",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elizabeth Astle",
       "link": "https://calendar.app.google/PtBTAFwdZVxXzwuP6",
       "fecha": "2026-12-01",
       "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
-      "nombre": "Sister Williamson",
-      "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
+      "nombre": "Sister Wright",
+      "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "fecha": "2026-12-01",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Tamara Foote",
       "link": "https://calendar.app.google/SCpzSKK7GTnE1W9J8",
       "fecha": "2026-12-01",
       "hora": "2:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Alyse Collins",
       "link": "https://calendar.app.google/oDT1xUvxXpCzefTEA",
       "fecha": "2026-12-01",
       "hora": "3:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jesse Sparks",
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
       "fecha": "2026-12-01",
       "hora": "5:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
-    },
-    {
-      "nombre": "Lisa Carver",
-      "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
-      "fecha": "2026-12-01",
-      "hora": "7:45am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Spackman",
       "link": "https://calendar.app.google/jVojebvrrRyPxgtC8",
       "fecha": "2026-12-01",
       "hora": "9:45am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Raskey",
       "link": "https://calendar.app.google/dSquAApaiQurGWTc8",
       "fecha": "2026-12-02",
       "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "katherine Baxter",
       "link": "https://calendar.app.google/hdXoWnzVx2GXV3Pa9",
       "fecha": "2026-12-02",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Marlea Haberkamp",
+      "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
+      "fecha": "2026-12-02",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Rachel Gillingwater",
       "link": "https://calendar.app.google/F8PDdEvY3jFanvbt7",
       "fecha": "2026-12-02",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
-    },
-    {
-      "nombre": "Brent Hansen",
-      "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
-      "fecha": "2026-12-02",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
-    },
-    {
-      "nombre": "Barbara Martin",
-      "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
-      "fecha": "2026-12-02",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "John Burgon",
       "link": "https://calendar.app.google/gTurUDniTKwaxvEr9",
       "fecha": "2026-12-02",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Ashlyn Western",
       "link": "https://calendar.app.google/YG3qmLBe2ZwDWBvb8",
       "fecha": "2026-12-02",
       "hora": "11:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
       "fecha": "2026-12-02",
       "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Amber Hunter",
       "link": "https://calendar.app.google/pkHNEViKbjPU6Et97",
       "fecha": "2026-12-02",
       "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Emily Felix",
       "link": "https://calendar.app.google/hEfH7TJG7aJXDS5Z6",
       "fecha": "2026-12-02",
       "hora": "4:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Reed Blau",
       "link": "https://calendar.app.google/tzLWUQirmcsvt7d67",
       "fecha": "2026-12-02",
       "hora": "6:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Rebecca Boren",
+      "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
+      "fecha": "2026-12-02",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Sungalu",
       "link": "https://calendar.app.google/RFCXvjNaT11udhfKA",
       "fecha": "2026-12-02",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Randall",
       "link": "https://calendar.app.google/aaWciAnGnjYJp98r7",
       "fecha": "2026-12-02",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Doherty",
       "link": "https://calendar.app.google/B4KynNjE32XXVB5n8",
       "fecha": "2026-12-02",
       "hora": "8:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Aaron Hill",
       "link": "https://calendar.app.google/vcpjUTPyaiMb8Bhf8",
       "fecha": "2026-12-02",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Connor Foutz",
       "link": "https://calendar.app.google/J9Akwhv2QgJDuFzs5",
       "fecha": "2026-12-02",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sarah Idiart",
       "link": "https://calendar.app.google/5W1XWBaA9C7p9aQ1A",
       "fecha": "2026-12-02",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Hyrum Scott",
       "link": "https://calendar.app.google/KsVT2uLz1uZpsXXG6",
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Ralph C Lewis",
       "link": "https://calendar.app.google/sqWCwDL5AZtX6mf36",
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Clark",
       "link": "https://calendar.app.google/4so8BR62KznpWNN97",
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Whitney Morgan",
       "link": "https://calendar.app.google/eLbaHvQS9DoMcUCXA",
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Eileen Squires",
       "link": "https://calendar.app.google/zUTP4F8azx8na1mz8",
       "fecha": "2026-12-03",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jennalyn Stuart",
       "link": "https://calendar.app.google/wjPLhptb4xWyGwMm9",
       "fecha": "2026-12-03",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Amy Chappell",
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
       "fecha": "2026-12-03",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "fecha": "2026-12-03",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
       "fecha": "2026-12-03",
       "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Henry Wheeler",
       "link": "https://calendar.app.google/CaKvTXKDfmkW2WcJ7",
       "fecha": "2026-12-03",
       "hora": "2:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jonas Hagman",
       "link": "https://calendar.app.google/R3bVmcn5wrUqufG86",
       "fecha": "2026-12-03",
       "hora": "5:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
-    },
-    {
-      "nombre": "Alexa Webb",
-      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
-      "fecha": "2026-12-03",
-      "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Cindy Harrison",
       "link": "https://calendar.app.google/57Se2EXwwXbRKdji7",
       "fecha": "2026-12-03",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "EmilyLeMasters",
       "link": "https://calendar.app.google/j2Apvistg9f6moX27",
       "fecha": "2026-12-03",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Worthington",
       "link": "https://calendar.app.google/b2kbmBXjXN4sMwYMA",
       "fecha": "2026-12-03",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Alexa Webb",
+      "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
+      "fecha": "2026-12-03",
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Theresa Sexton",
       "link": "https://calendar.app.google/1v4nBusWqi8xBiDTA",
       "fecha": "2026-12-03",
       "hora": "7:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Matt Richards",
       "link": "https://calendar.app.google/yFdHnFNgajEpnNx87",
       "fecha": "2026-12-03",
       "hora": "7:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elise Hall",
       "link": "https://calendar.app.google/GH9FgQEnUTtwunMu7",
       "fecha": "2026-12-03",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Sister Thompson",
       "link": "https://calendar.app.google/AFf3Deo8pu8rEZ1N6",
       "fecha": "2026-12-03",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Teresa Walker",
       "link": "https://calendar.app.google/io4LT8fvcCdeu3Lc7",
       "fecha": "2026-12-03",
       "hora": "8:15am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Chris Allen",
       "link": "https://calendar.app.google/LHjUV45vwfp1p7nR6",
       "fecha": "2026-12-03",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Stanley Bingham",
       "link": "https://calendar.app.google/RM3cfGc2X3b9726cA",
       "fecha": "2026-12-03",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Stephanie Webber",
       "link": "https://calendar.app.google/P4nTY8UFnj5JkQcc7",
       "fecha": "2026-12-03",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Elder Hollinger",
       "link": "https://calendar.app.google/7rmMy4uWJ6hQZ4HX9",
       "fecha": "2026-12-03",
       "hora": "9:05am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jeff Smith",
       "link": "https://calendar.app.google/ZhwskFEZHHXoeNV27",
       "fecha": "2026-12-03",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Kristen Matley",
       "link": "https://calendar.app.google/fWoBfwyx8XG2XCKe9",
       "fecha": "2026-12-03",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Spencer Greenwood",
+      "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
+      "fecha": "2026-12-04",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Grace Olsen",
+      "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
+      "fecha": "2026-12-04",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "James McPhie",
+      "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
+      "fecha": "2026-12-04",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
+      "fecha": "2026-12-04",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Eli Rex",
+      "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
+      "fecha": "2026-12-04",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Charisse",
+      "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5",
+      "fecha": "2026-12-04",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "John Whiting",
+      "link": "https://calendar.app.google/KvSvKwPA3LotdHno9",
+      "fecha": "2026-12-04",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Brandan Hull",
+      "link": "https://calendar.app.google/AgPEPjVgRRZ66rJA6",
+      "fecha": "2026-12-04",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Jeanne Newby",
+      "link": "https://calendar.app.google/3kXvMzXBvp1mmQCZ7",
+      "fecha": "2026-12-04",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Liam Webber",
+      "link": "https://calendar.app.google/fisMkSJV2cGsHPYz9",
+      "fecha": "2026-12-04",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Donna Cardon",
+      "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
+      "fecha": "2026-12-04",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Spencer Bitton",
+      "link": "https://calendar.app.google/Fn5EvKfAhpM46pWT9",
+      "fecha": "2026-12-04",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Jacob Nelson",
+      "link": "https://calendar.app.google/TKaTenAceJ2prd596",
+      "fecha": "2026-12-04",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Ashlyn Whitlock",
+      "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
+      "fecha": "2026-12-04",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Randy Crisler",
+      "link": "https://calendar.app.google/j3cgYjBUpBZNaeYPA",
+      "fecha": "2026-12-04",
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister Crook",
+      "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
+      "fecha": "2026-12-04",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Alyssa Burrell",
+      "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
+      "fecha": "2026-12-04",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Jason Nielson",
+      "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9",
+      "fecha": "2026-12-04",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Lauryn Spilsbury",
+      "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
+      "fecha": "2026-12-04",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Elder Levi",
+      "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
+      "fecha": "2026-12-04",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Amy Zinn",
+      "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6",
+      "fecha": "2026-12-04",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Allison Fullmer",
+      "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Annika Huff",
+      "link": "https://calendar.app.google/e8xdXqh7hf2UTykd7",
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Elder Sherwood",
+      "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sister  Adams",
+      "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Sydney Donavan",
+      "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
+    },
+    {
+      "nombre": "Lina Fotmuller",
+      "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
+      "fecha": "2026-12-04",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "fecha": "2026-12-09",
       "hora": "1:45pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Erica Taney",
       "link": "https://calendar.app.google/XwaZg3Z8KEPNVZye6",
       "fecha": "2026-12-09",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Jonah Tietjen",
       "link": "https://calendar.app.google/hJfSAdsqXrQHvnWj6",
       "fecha": "2026-12-10",
       "hora": "9:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Ashley Haslam",
       "link": "https://calendar.app.google/M2GpVZsLPp1ZuMRJ7",
       "fecha": "2026-12-14",
       "hora": "5:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Maria Kommers",
       "link": "https://calendar.app.google/X7uy51QRjHRUWD4w6",
       "fecha": "2026-12-14",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Cheryl Rosenberg",
       "link": "https://calendar.app.google/ZeHP9Mz8zPsjTeVv7",
       "fecha": "2026-12-16",
       "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Lucas Kraude",
       "link": "https://calendar.app.google/dpDEPPrrRJUSju5c7",
       "fecha": "2026-12-16",
       "hora": "3:10pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Johnny Johnson",
       "link": "https://calendar.app.google/Wg6Svz6GibqFkqdk9",
       "fecha": "2026-12-21",
       "hora": "5:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "MJ Jouttenus",
       "link": "https://calendar.app.google/xeJEbTe5JSjJkxCG7",
       "fecha": "2027-01-08",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     },
     {
       "nombre": "Aaron Larson",
       "link": "https://calendar.app.google/YtSEHbEEs7n7DPuT6",
       "fecha": "2027-01-12",
       "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix"
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver"
     }
   ],
   "revisados": 190,
-  "total_disponibles": 65,
+  "total_disponibles": 91,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -465,17 +647,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Liam Webber",
       "link": "https://calendar.app.google/fisMkSJV2cGsHPYz9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "12:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Hyre",
@@ -483,7 +665,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -492,7 +674,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -501,7 +683,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "7:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -510,7 +692,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -519,7 +701,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -537,26 +719,26 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jacob Nelson",
       "link": "https://calendar.app.google/TKaTenAceJ2prd596",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "2:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Brent Hansen",
       "link": "https://calendar.app.google/ZDxkH4KcHdFUjYFX7",
-      "tiene_cita": true,
-      "fecha": "2026-12-02",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Chris Allen",
@@ -564,7 +746,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -573,7 +755,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -582,7 +764,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -591,7 +773,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -600,17 +782,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Charisse",
       "link": "https://calendar.app.google/3SE9U2Cb25yhDyzs5",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Andrew Whetten",
@@ -636,7 +818,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -645,7 +827,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "8:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -654,7 +836,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -663,7 +845,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "7:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -672,25 +854,25 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Amy Zinn",
       "link": "https://calendar.app.google/UPKNnG3XgEhyon4X6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Wright",
       "link": "https://calendar.app.google/qb7qGDVd39K6ptQe8",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -699,7 +881,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -717,7 +899,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-10",
       "hora": "9:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -726,7 +908,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -735,7 +917,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -744,7 +926,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -762,7 +944,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -780,7 +962,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -795,11 +977,11 @@
     {
       "nombre": "James McPhie",
       "link": "https://calendar.app.google/hDPcpFSdsNQCtTU4A",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Plummer",
@@ -807,7 +989,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -816,7 +998,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -825,7 +1007,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -834,7 +1016,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -843,7 +1025,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -852,7 +1034,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -861,7 +1043,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -870,17 +1052,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister  Adams",
       "link": "https://calendar.app.google/NEiv7Dt13qjKCSEz7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Raskey",
@@ -888,7 +1070,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -897,7 +1079,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -906,7 +1088,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -915,17 +1097,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Grace Olsen",
       "link": "https://calendar.app.google/iK6zFTpKySQsGLQRA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "1:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lisa Northrup",
@@ -933,7 +1115,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -942,7 +1124,7 @@
       "tiene_cita": true,
       "fecha": "2027-01-08",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -951,7 +1133,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -959,8 +1141,8 @@
       "link": "https://calendar.app.google/vspzeG2wRppzbyTv5",
       "tiene_cita": true,
       "fecha": "2026-12-03",
-      "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "hora": "7:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -969,7 +1151,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -978,7 +1160,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -987,7 +1169,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -996,7 +1178,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "5:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1005,7 +1187,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1014,7 +1196,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1023,7 +1205,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1032,17 +1214,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Randy Crisler",
       "link": "https://calendar.app.google/j3cgYjBUpBZNaeYPA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "4:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sharon Elwell",
@@ -1050,7 +1232,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1059,7 +1241,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1077,7 +1259,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1086,17 +1268,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Alyssa Burrell",
       "link": "https://calendar.app.google/h8e4dnHWbx6jE2wa8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Douglas Taylor",
@@ -1104,7 +1286,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1122,17 +1304,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Donna Cardon",
       "link": "https://calendar.app.google/WRG1ttLLu3KxjSVg9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Amelia Dahle",
@@ -1140,7 +1322,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1149,7 +1331,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-14",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1158,7 +1340,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1167,17 +1349,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jason Nielson",
       "link": "https://calendar.app.google/SR3iomFqVRBTTgSr9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kerri McAlinden",
@@ -1185,7 +1367,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1194,7 +1376,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1203,17 +1385,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "5:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lina Fotmuller",
       "link": "https://calendar.app.google/BBLTtH8BBwyVbwE76",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sandra Hancock",
@@ -1221,7 +1403,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1230,7 +1412,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1239,7 +1421,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1248,7 +1430,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1257,7 +1439,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1266,7 +1448,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1275,7 +1457,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "2:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1284,7 +1466,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1293,7 +1475,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1302,7 +1484,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1311,7 +1493,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1320,7 +1502,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1329,7 +1511,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1338,17 +1520,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "4:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lauryn Spilsbury",
       "link": "https://calendar.app.google/Npc6G9D1y7N6Q7h98",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "6:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Brennan Burnett",
@@ -1356,7 +1538,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1365,7 +1547,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1374,7 +1556,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1389,11 +1571,11 @@
     {
       "nombre": "Elder Levi",
       "link": "https://calendar.app.google/aUnL3rjQRCumnQuP7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Ezra Bloomfield",
@@ -1410,7 +1592,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1418,8 +1600,8 @@
       "link": "https://calendar.app.google/CFrfQinoQaq5anjC6",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "10:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1428,7 +1610,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1437,7 +1619,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1446,7 +1628,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1455,7 +1637,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1473,7 +1655,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-16",
       "hora": "3:10pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1482,7 +1664,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1491,7 +1673,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1500,7 +1682,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1509,17 +1691,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Allison Fullmer",
       "link": "https://calendar.app.google/N5T7vrhMYoiyKLsH7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Worthington",
@@ -1527,17 +1709,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "7:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Sherwood",
       "link": "https://calendar.app.google/zsMkGYRezChnpncc8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Eileen Squires",
@@ -1545,17 +1727,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Lisa Carver",
       "link": "https://calendar.app.google/9wYeG2vk5VGdHuUr6",
-      "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "7:45am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "Primera hora confirmada"
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Connor Foutz",
@@ -1563,17 +1745,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "John Whiting",
       "link": "https://calendar.app.google/KvSvKwPA3LotdHno9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "11:30am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Ashlyn Western",
@@ -1581,7 +1763,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "11:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1590,35 +1772,35 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Jeanne Newby",
       "link": "https://calendar.app.google/3kXvMzXBvp1mmQCZ7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Brandan Hull",
       "link": "https://calendar.app.google/AgPEPjVgRRZ66rJA6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Eli Rex",
       "link": "https://calendar.app.google/FYU79Tx992WsFPep9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "11:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Ethan Rasmussen",
@@ -1626,7 +1808,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1635,7 +1817,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1644,7 +1826,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1653,7 +1835,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1662,7 +1844,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-16",
       "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1671,7 +1853,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "3:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1680,7 +1862,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1689,7 +1871,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-09",
       "hora": "1:45pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1697,8 +1879,8 @@
       "link": "https://calendar.app.google/pa7fJb3oMHZ6w2vZA",
       "tiene_cita": true,
       "fecha": "2026-12-01",
-      "hora": "12:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "hora": "1:10pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1707,7 +1889,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "3:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1716,26 +1898,26 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Ashlyn Whitlock",
       "link": "https://calendar.app.google/HzU5VM5gV8ZwQJQe7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "3:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Rebecca Boren",
       "link": "https://calendar.app.google/BuSrzCFapDqFKF3r9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-02",
+      "hora": "6:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Randall",
@@ -1743,17 +1925,17 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Sister Crook",
       "link": "https://calendar.app.google/67xzWsbwD5LeM4pB6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "4:30pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Brent Higginson",
@@ -1761,7 +1943,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1770,7 +1952,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1779,7 +1961,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "8:15am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1788,7 +1970,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-21",
       "hora": "5:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1797,7 +1979,7 @@
       "tiene_cita": true,
       "fecha": "2027-01-12",
       "hora": "1:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1806,7 +1988,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1815,7 +1997,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1824,7 +2006,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1833,17 +2015,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Ashley Haslam",
@@ -1851,7 +2033,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-14",
       "hora": "5:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1869,7 +2051,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "9:45am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1878,7 +2060,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "6:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1887,7 +2069,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1896,7 +2078,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1905,7 +2087,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1923,7 +2105,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1932,7 +2114,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -1941,7 +2123,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1949,8 +2131,8 @@
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
       "fecha": "2026-11-30",
-      "hora": "12:00pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1959,7 +2141,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1968,16 +2150,16 @@
       "tiene_cita": true,
       "fecha": "2026-12-02",
       "hora": "10:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Marlea Haberkamp",
       "link": "https://calendar.app.google/ZbAyk2RT174PrYqS8",
       "tiene_cita": true,
-      "fecha": "2026-11-27",
-      "hora": "9:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "fecha": "2026-12-02",
+      "hora": "10:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1986,7 +2168,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-01",
       "hora": "2:30pm",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -1995,16 +2177,16 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "9:05am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Barbara Martin",
       "link": "https://calendar.app.google/gLE3maqTmjmfXNUAA",
       "tiene_cita": true,
-      "fecha": "2026-12-02",
-      "hora": "11:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "fecha": "2026-11-30",
+      "hora": "12:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2013,7 +2195,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-09",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2022,7 +2204,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2031,7 +2213,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "8:00am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2049,7 +2231,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2058,7 +2240,7 @@
       "tiene_cita": true,
       "fecha": "2026-12-03",
       "hora": "9:30am",
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "Primera hora confirmada"
     },
     {
@@ -2067,17 +2249,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Spencer Greenwood",
       "link": "https://calendar.app.google/P6wi8yH85vuJvn1K8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "1:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kate Brown",
@@ -2085,7 +2267,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2094,17 +2276,17 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Sydney Donavan",
       "link": "https://calendar.app.google/XchFkxQmMag6F5VJA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jenny Draper",
@@ -2112,7 +2294,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2121,7 +2303,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2130,7 +2312,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2139,7 +2321,7 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
@@ -2148,27 +2330,27 @@
       "tiene_cita": false,
       "fecha": null,
       "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Spencer Bitton",
       "link": "https://calendar.app.google/Fn5EvKfAhpM46pWT9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "2:00pm",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Annika Huff",
       "link": "https://calendar.app.google/e8xdXqh7hf2UTykd7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
-      "zona_horaria": "(GMT-07:00) Mountain Standard Time - Phoenix",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "tiene_cita": true,
+      "fecha": "2026-12-04",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-07:00) Mountain Time - Denver",
+      "motivo": "Primera hora confirmada"
     }
   ],
-  "actualizado": "2026-11-27T03:11:47.177Z"
+  "actualizado": "2026-11-27T12:13:59.557Z"
 }
