@@ -15,10 +15,10 @@
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Elder Mckeon",
-      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
+      "nombre": "Kate Brown",
+      "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
       "fecha": "2026-12-01",
-      "hora": "12:00pm",
+      "hora": "11:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
@@ -26,6 +26,13 @@
       "link": "https://calendar.app.google/fLFYM2zcWSofQBW17",
       "fecha": "2026-12-01",
       "hora": "4:30pm",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Justin Ware",
+      "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
+      "fecha": "2026-12-01",
+      "hora": "9:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
@@ -50,8 +57,8 @@
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Sandra Hancock",
-      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
+      "nombre": "Elder Mckeon",
+      "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "fecha": "2026-12-02",
       "hora": "11:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
@@ -183,13 +190,6 @@
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Amy Chappell",
-      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
-      "fecha": "2026-12-03",
-      "hora": "10:00am",
-      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
-    },
-    {
       "nombre": "Jennifer Tyler",
       "link": "https://calendar.app.google/VECBD1Zrb6BT9x7w8",
       "fecha": "2026-12-03",
@@ -204,10 +204,17 @@
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
-      "nombre": "Quinn Beames",
-      "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
+      "nombre": "Amy Chappell",
+      "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
       "fecha": "2026-12-03",
-      "hora": "11:00am",
+      "hora": "10:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sandra Hancock",
+      "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
+      "fecha": "2026-12-03",
+      "hora": "11:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
@@ -491,6 +498,62 @@
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
     },
     {
+      "nombre": "Ethan Rasmussen",
+      "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
+      "fecha": "2026-12-05",
+      "hora": "6:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Brennan Burnett",
+      "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
+      "fecha": "2026-12-05",
+      "hora": "7:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Luke Arnott",
+      "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
+      "fecha": "2026-12-05",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Nancy Moore",
+      "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
+      "fecha": "2026-12-05",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister McDowell",
+      "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
+      "fecha": "2026-12-05",
+      "hora": "8:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Douglas Taylor",
+      "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
+      "fecha": "2026-12-05",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Sister Olson",
+      "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
+      "fecha": "2026-12-05",
+      "hora": "9:00am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
+      "nombre": "Lucy Todd",
+      "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
+      "fecha": "2026-12-05",
+      "hora": "9:30am",
+      "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles"
+    },
+    {
       "nombre": "Richard Young",
       "link": "https://calendar.app.google/FYpw1eBANsM8Xi7UA",
       "fecha": "2026-12-09",
@@ -562,7 +625,7 @@
     }
   ],
   "revisados": 190,
-  "total_disponibles": 80,
+  "total_disponibles": 89,
   "detalle": [
     {
       "nombre": "Emma Peterson",
@@ -639,11 +702,11 @@
     {
       "nombre": "Nancy Moore",
       "link": "https://calendar.app.google/e6yfD5KKMnWZ5wFm9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "8:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jacob Nelson",
@@ -1206,11 +1269,11 @@
     {
       "nombre": "Douglas Taylor",
       "link": "https://calendar.app.google/dX41RsaNpcAe3Zur6",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "9:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Damian Idiart",
@@ -1224,11 +1287,11 @@
     {
       "nombre": "Quinn Beames",
       "link": "https://calendar.app.google/iqQ5AmkSCCFuMmYz7",
-      "tiene_cita": true,
-      "fecha": "2026-12-03",
-      "hora": "11:00am",
+      "tiene_cita": false,
+      "fecha": null,
+      "hora": null,
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "Primera hora confirmada"
+      "motivo": "No se encontraron horarios en los próximos meses revisados"
     },
     {
       "nombre": "Donna Cardon",
@@ -1262,7 +1325,7 @@
       "link": "https://calendar.app.google/AaGcALZuoVsUJFNFA",
       "tiene_cita": true,
       "fecha": "2026-12-03",
-      "hora": "10:00am",
+      "hora": "10:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
@@ -1324,7 +1387,7 @@
       "nombre": "Sandra Hancock",
       "link": "https://calendar.app.google/8fCPKPkTcWjuUJEw7",
       "tiene_cita": true,
-      "fecha": "2026-12-02",
+      "fecha": "2026-12-03",
       "hora": "11:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
@@ -1458,11 +1521,11 @@
     {
       "nombre": "Brennan Burnett",
       "link": "https://calendar.app.google/XTfaBphLHmmNmhd19",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "7:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Sungalu",
@@ -1728,11 +1791,11 @@
     {
       "nombre": "Ethan Rasmussen",
       "link": "https://calendar.app.google/UiaEXbaLuF5j6mwX7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "6:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kay Merrell",
@@ -1755,11 +1818,11 @@
     {
       "nombre": "Sister McDowell",
       "link": "https://calendar.app.google/mtb96c5HkKwKVVrUA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "8:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Cheryl Rosenberg",
@@ -1782,11 +1845,11 @@
     {
       "nombre": "Justin Ware",
       "link": "https://calendar.app.google/kHFaBcsvrbbJSzhs9",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-01",
+      "hora": "9:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Richard Young",
@@ -1944,11 +2007,11 @@
     {
       "nombre": "Sister Olson",
       "link": "https://calendar.app.google/fxDEXHAneuw8HYg86",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "9:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Ashley Haslam",
@@ -2025,11 +2088,11 @@
     {
       "nombre": "Lucy Todd",
       "link": "https://calendar.app.google/w2dpBL5ZbsmJSjPj7",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "9:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Kim Wheeler",
@@ -2053,8 +2116,8 @@
       "nombre": "Elder Mckeon",
       "link": "https://calendar.app.google/FJV1FPretpkqwQT87",
       "tiene_cita": true,
-      "fecha": "2026-12-01",
-      "hora": "12:00pm",
+      "fecha": "2026-12-02",
+      "hora": "11:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
       "motivo": "Primera hora confirmada"
     },
@@ -2187,11 +2250,11 @@
     {
       "nombre": "Kate Brown",
       "link": "https://calendar.app.google/KYdaq1zggRdfyrBx8",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-01",
+      "hora": "11:30am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Elder Brigham Bailey",
@@ -2223,11 +2286,11 @@
     {
       "nombre": "Luke Arnott",
       "link": "https://calendar.app.google/xs7f7HA9azzcTv2VA",
-      "tiene_cita": false,
-      "fecha": null,
-      "hora": null,
+      "tiene_cita": true,
+      "fecha": "2026-12-05",
+      "hora": "8:00am",
       "zona_horaria": "(GMT-08:00) Pacific Time - Los Angeles",
-      "motivo": "No se encontraron horarios en los próximos meses revisados"
+      "motivo": "Primera hora confirmada"
     },
     {
       "nombre": "Jean Muir",
@@ -2275,5 +2338,5 @@
       "motivo": "No se encontraron horarios en los próximos meses revisados"
     }
   ],
-  "actualizado": "2026-11-28T03:34:06.890Z"
+  "actualizado": "2026-11-28T12:21:38.625Z"
 }
